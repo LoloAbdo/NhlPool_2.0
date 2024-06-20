@@ -3,22 +3,21 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { Teams, Main, Team } from "./components/";
+import { Teams, Main, Team, Error } from "./components/";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Main />,
-    children: [
-      {
-        path: "teams",
-        element: <Teams />,
-      },
-      {
-        path: "team:/teamId",
-        element: <Team />,
-      },
-    ],
+    errorElement: <Error />,
+  },
+  {
+    path: "/teams",
+    element: <Teams />,
+  },
+  {
+    path: "team:/teamId",
+    element: <Team />,
   },
 ]);
 const root = ReactDOM.createRoot(document.getElementById("root"));
