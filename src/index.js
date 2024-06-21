@@ -16,7 +16,7 @@ const router = createBrowserRouter([
     element: <Teams />,
   },
   {
-    path: "team:/teamId",
+    path: "teams/team/:teamId",
     element: <Team />,
   },
 ]);

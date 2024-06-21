@@ -47,6 +47,7 @@ body {
   flex : 1;
   padding: 10px 60px!important;
   white-space: nowrap;
+  width: 14vw;
 }
 
 .customs-cards-content {
@@ -75,7 +76,11 @@ body {
   -moz-transition:0.7s ease all;
 }
 
-
+.link-cards {
+  display: flex;
+  flex: 1;
+  text-decoration: none;
+}
 
 
 .customs-cards-images:hover {

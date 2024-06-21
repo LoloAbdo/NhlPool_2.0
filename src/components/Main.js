@@ -26,12 +26,7 @@ export const Main = () => {
           </Button>
         </Link>
         <Link to="/teams" className="link-btn">
-          <Button
-            className="hero-btn"
-            variant="contained"
-            size="large"
-            href="/"
-          >
+          <Button className="hero-btn" variant="contained" size="large">
             Teams
           </Button>
         </Link>

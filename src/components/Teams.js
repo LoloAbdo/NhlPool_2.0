@@ -14,6 +14,7 @@ import {
 } from "@mui/material";
 import franchises from "../data/franchises.json";
 import teams from "../data/teams.json";
+import { Link } from "react-router-dom";
 
 export const Teams = () => {
   //   const [serverUrl, setServerUrl] = useState("https://api-web.nhle.com/v1/"); // TODO: modifier avec la search bar +
@@ -120,9 +121,19 @@ export const Teams = () => {
                   </Button>
                 </CardActions>
                 <CardActions>
-                  <Button className="hero-btn" variant="contained" size="small">
-                    Stats
-                  </Button>
+                  <Link
+                    key={item.rawTricode}
+                    to={`/teams/team/${item.rawTricode}`}
+                    className="link-cards"
+                  >
+                    <Button
+                      className="hero-btn"
+                      variant="contained"
+                      size="small"
+                    >
+                      Stats
+                    </Button>
+                  </Link>
                 </CardActions>
               </Card>
             </div>
