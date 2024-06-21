@@ -3,8 +3,6 @@ import "./Main.css";
 import { Link } from "react-router-dom";
 
 export const Main = () => {
-  //CSS
-
   return (
     <div className="ComponentApp">
       <div id="NHL-logo">
