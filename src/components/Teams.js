@@ -91,50 +91,58 @@ export const Teams = () => {
               }
             >
               <Card sx={{ maxWidth: 300 }}>
-                <CardMedia
-                  sx={{ height: 300, width: 300 }}
-                  image={`pictures/${item.rawTricode}.png`}
-                  title={item.fullName}
-                  className="customs-cards-images"
-                />
-                <CardContent className="customs-cards-content">
-                  <Typography
-                    gutterBottom
-                    variant="h4"
-                    component="div"
-                    className="customs-cards-teamName"
-                  >
-                    {item.teamCommonName}
-                  </Typography>
-                  <Typography
-                    gutterBottom
-                    variant="h6"
-                    component="div"
-                    className="customs-cards-cityName"
-                  >
-                    {item.teamPlaceName}
-                  </Typography>
-                </CardContent>
-                <CardActions>
-                  <Button className="hero-btn" variant="contained" size="small">
-                    Players
-                  </Button>
-                </CardActions>
-                <CardActions>
-                  <Link
-                    key={item.rawTricode}
-                    to={`/teams/team/${item.rawTricode}`}
-                    className="link-cards"
-                  >
+                <div className="card-image">
+                  <CardMedia
+                    sx={{ height: 300, width: 300 }}
+                    image={`pictures/${item.rawTricode}.png`}
+                    title={item.fullName}
+                    className="customs-cards-media"
+                  />
+                  <CardContent className="customs-cards-content">
+                    <Typography
+                      gutterBottom
+                      variant="h4"
+                      component="div"
+                      className="customs-cards-teamName"
+                    >
+                      {item.teamCommonName}
+                    </Typography>
+                    <Typography
+                      gutterBottom
+                      variant="h6"
+                      component="div"
+                      className="customs-cards-cityName"
+                    >
+                      {item.teamPlaceName}
+                    </Typography>
+                  </CardContent>
+                </div>
+                <div className="card-btn">
+                  <CardActions>
                     <Button
                       className="hero-btn"
                       variant="contained"
                       size="small"
                     >
-                      Stats
+                      Players
                     </Button>
-                  </Link>
-                </CardActions>
+                  </CardActions>
+                  <CardActions>
+                    <Link
+                      key={item.rawTricode}
+                      to={`/teams/team/${item.rawTricode}`}
+                      className="link-cards"
+                    >
+                      <Button
+                        className="hero-btn"
+                        variant="contained"
+                        size="small"
+                      >
+                        Stats
+                      </Button>
+                    </Link>
+                  </CardActions>
+                </div>
               </Card>
             </div>
           );

@@ -22,6 +22,10 @@ body {
     flex-wrap: wrap;
 }
 
+.card-btn {
+  background-color: #0A0F20;
+}
+
 .HockeyCards { 
   display: flex;
   gap: 15px;
@@ -65,7 +69,11 @@ body {
   padding-left: 3%;
 }
 
-.customs-cards-images {
+.card-image {
+  background-color: #455075;
+}
+
+.customs-cards-media {
   /* transform: transform 0.3s ease-in-out;  */
   background-size: 200px!important;
   -moz-transform: scale(1); 
