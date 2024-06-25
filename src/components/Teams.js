@@ -130,7 +130,7 @@ export const Teams = () => {
                   <CardActions>
                     <Link
                       key={item.rawTricode}
-                      to={`/teams/team/${item.rawTricode}`}
+                      to={`/teams/team/${item.teamCommonName}`}
                       className="link-cards"
                     >
                       <Button
