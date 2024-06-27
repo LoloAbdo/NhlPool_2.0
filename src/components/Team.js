@@ -1,3 +1,4 @@
+import "./Team.css";
 import { useParams } from "react-router-dom";
 import teamsSeason202324 from "../data/Summary_teamStats20232024.json";
 import teamsSeason202223 from "../data/Summary_teamStats20222023.json";
@@ -10,29 +11,124 @@ import { Box } from "@mui/material";
 export const Team = () => {
   const params = useParams();
   const [teamStats, setTeamStats] = useState([]);
-
+  const widthColumn = 150;
   const columns = [
-    { field: "Season", headerName: "Season" },
-    { field: "GP", headerName: "Game played" },
-    { field: "W", headerName: "Wins" },
-    { field: "L", headerName: "Loses" },
-    { field: "OT", headerName: "Overtime loses" },
-    { field: "P", headerName: "Points" },
-    { field: "P%", headerName: "Point percentage" },
-    { field: "RW", headerName: "Regulation wins" },
-    { field: "ROW", headerName: "Regulation + overtime wins" },
-    { field: "S/O Win", headerName: "Shootout Win" },
-    { field: "GF", headerName: "Goal for" },
-    { field: "GA", headerName: "Goal against" },
-    { field: "GF/GP", headerName: "Goal for per game played" },
-    { field: "GA/GP", headerName: "Goal against per game played" },
-    { field: "PP%", headerName: "Power play percentage" },
-    { field: "PK%", headerName: "Penality kill percentage" },
-    { field: "Net PP%", headerName: "Power play net percentage" },
-    { field: "Net PK%", headerName: "Penality kill net percentage" },
-    { field: "Shots/GP", headerName: "Shots per game played" },
-    { field: "SA/GP", headerName: "Save per game played" },
-    { field: "FOW%", headerName: "Face off wins percentage" },
+    {
+      field: "Season",
+      headerName: "Season",
+      width: widthColumn,
+      description: "Season",
+    },
+    {
+      field: "GP",
+      headerName: "GP",
+      width: widthColumn,
+      description: "Game Played",
+    },
+    { field: "W", headerName: "W", width: widthColumn, description: "Wins" },
+    { field: "L", headerName: "L", width: widthColumn, description: "Losses" },
+    {
+      field: "OT",
+      headerName: "OT",
+      width: widthColumn,
+      description: "Overtime Losses",
+    },
+    {
+      field: "P",
+      headerName: "PTS",
+      width: widthColumn,
+      description: "Points",
+    },
+    {
+      field: "P%",
+      headerName: "P%",
+      width: widthColumn,
+      description: "Point percentage",
+    },
+    {
+      field: "RW",
+      headerName: "RW",
+      width: widthColumn,
+      description: "Regulation wins",
+    },
+    {
+      field: "ROW",
+      headerName: "ROW",
+      width: widthColumn,
+      description: "Regulation + Overtime Wins",
+    },
+    {
+      field: "S/O Win",
+      headerName: "S/O Win",
+      width: widthColumn,
+      description: "Shootout Wins",
+    },
+    {
+      field: "GF",
+      headerName: "GF",
+      width: widthColumn,
+      description: "Goal For",
+    },
+    {
+      field: "GA",
+      headerName: "GA",
+      width: widthColumn,
+      description: "Goal Against",
+    },
+    {
+      field: "GF/GP",
+      headerName: "GF/GP",
+      width: widthColumn,
+      description: "Goal For Per Game Played",
+    },
+    {
+      field: "GA/GP",
+      headerName: "GA/GP",
+      width: widthColumn,
+      description: "Goal Against Per Game Played",
+    },
+    {
+      field: "PP%",
+      headerName: "PP%",
+      width: widthColumn,
+      description: "Power Play Percentage",
+    },
+    {
+      field: "PK%",
+      headerName: "PK%",
+      width: widthColumn,
+      description: "Penality Kill Percentage",
+    },
+    {
+      field: "Net PP%",
+      headerName: "Net PP%",
+      width: widthColumn,
+      description: "Net Power Play",
+    },
+    {
+      field: "Net PK%",
+      headerName: "Net PK%",
+      width: widthColumn,
+      description: "Net Penality kill",
+    },
+    {
+      field: "Shots/GP",
+      headerName: "Shots/GP",
+      width: widthColumn,
+      description: "Shots Per Game Played",
+    },
+    {
+      field: "SA/GP",
+      headerName: "SA/GP",
+      width: widthColumn,
+      description: "Save Per Game Played",
+    },
+    {
+      field: "FOW%",
+      headerName: "FOW%",
+      width: widthColumn,
+      description: "Face-Off Wins Percentage",
+    },
   ];
 
   useEffect(() => {
@@ -62,12 +158,14 @@ export const Team = () => {
   }, []);
 
   return (
-    <Box>
-      <DataGrid
-        getRowId={(obj) => obj.Season}
-        columns={columns}
-        rows={teamStats}
-      />
-    </Box>
+    <div className="Data">
+      <Box height={350} width={1500}>
+        <DataGrid
+          getRowId={(obj) => obj.Season}
+          columns={columns}
+          rows={teamStats}
+        />
+      </Box>
+    </div>
   );
 };
