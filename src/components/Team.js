@@ -161,28 +161,29 @@ export const Team = () => {
   }, []);
 
   return (
-    <div className="Main-DataGrid">
-      <Box
-        height={350}
-        width={1500}
-        sx={{ "--DataGrid-containerBackground": "#ad5151 !important" }}
-      >
-        <DataGrid
-          getRowId={(obj) => obj.Season}
-          columns={columns}
-          rows={teamStats}
-          density="standard"
-          disableColumnResize={true}
-          disableColumnMenu={true}
-          sx={{
-            boxShadow: 2,
-            border: 2,
-            borderColor: "white",
-            color: "white",
-            fontFamily: "Georgia, 'Times New Roman', Times, serif",
-          }}
-        />
-      </Box>
+    <div>
+      <div className="Team-Header">
+        <h1>{params.teamId}</h1>
+      </div>
+      <div className="Main-DataGrid">
+        <Box height={350} width={1500}>
+          <DataGrid
+            getRowId={(obj) => obj.Season}
+            columns={columns}
+            rows={teamStats}
+            density="standard"
+            disableColumnResize={true}
+            disableColumnMenu={true}
+            sx={{
+              boxShadow: 2,
+              border: 2,
+              borderColor: "white",
+              color: "white",
+              fontFamily: "Georgia, 'Times New Roman', Times, serif",
+            }}
+          />
+        </Box>
+      </div>
     </div>
   );
 };

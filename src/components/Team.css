@@ -1,5 +1,5 @@
 .Main-DataGrid {
-    margin-top: 15%;
+    margin-top: 9%;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -18,6 +18,10 @@
     background-color: #455075;
 }
 
+.MuiDataGrid-row:hover {
+    background-color: #0A0F20 !important;
+}
+
 .MuiDataGrid-footerContainer {
     background-color: #0A0F20;
     color: white !important;
@@ -25,4 +29,21 @@
 
 .MuiDataGrid-filler {
     background-color: #0A0F20;
+}
+
+.MuiIconButton-root {
+    color: white !important
+}
+
+.Team-Header {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    line-height: 1.4rem;
 }
