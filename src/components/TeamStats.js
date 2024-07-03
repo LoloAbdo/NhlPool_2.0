@@ -1,4 +1,4 @@
-import "./Team.css";
+import "./TeamStats.css";
 import { useParams } from "react-router-dom";
 import teamsSeason202324 from "../data/Summary_teamStats20232024.json";
 import teamsSeason202223 from "../data/Summary_teamStats20222023.json";
@@ -8,7 +8,7 @@ import { useEffect, useState } from "react";
 import { DataGrid } from "@mui/x-data-grid";
 import { Box } from "@mui/material";
 
-export const Team = () => {
+export const TeamStats = () => {
   const params = useParams();
   const [teamStats, setTeamStats] = useState([]);
   const widthColumn = 150;

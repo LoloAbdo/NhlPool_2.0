@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { Teams, Main, Team, Error } from "./components/";
+import { Teams, Main, TeamPlayers, Error, TeamStats } from "./components/";
 
 const router = createBrowserRouter([
   {
@@ -16,8 +16,12 @@ const router = createBrowserRouter([
     element: <Teams />,
   },
   {
-    path: "teams/team/:teamId",
-    element: <Team />,
+    path: "teams/team/stats/:teamId",
+    element: <TeamStats />,
+  },
+  {
+    path: "teams/team/players/:teamId",
+    element: <TeamPlayers />,
   },
 ]);
 const root = ReactDOM.createRoot(document.getElementById("root"));

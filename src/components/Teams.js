@@ -119,18 +119,24 @@ export const Teams = () => {
                 </div>
                 <div className="card-btn">
                   <CardActions>
-                    <Button
-                      className="hero-btn"
-                      variant="contained"
-                      size="small"
+                    <Link
+                      key={item.rawTricode}
+                      to={`/teams/team/players/${item.teamCommonName}`}
+                      className="link-cards"
                     >
-                      Players
-                    </Button>
+                      <Button
+                        className="hero-btn"
+                        variant="contained"
+                        size="small"
+                      >
+                        Players
+                      </Button>
+                    </Link>
                   </CardActions>
                   <CardActions>
                     <Link
                       key={item.rawTricode}
-                      to={`/teams/team/${item.teamCommonName}`}
+                      to={`/teams/team/stats/${item.teamCommonName}`}
                       className="link-cards"
                     >
                       <Button
