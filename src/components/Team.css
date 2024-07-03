@@ -1,4 +1,4 @@
-.Data {
+.Main-DataGrid {
     margin-top: 15%;
     display: flex;
     flex-direction: column;
@@ -6,4 +6,23 @@
     align-content: center;
     justify-content: center;
     align-items: center;
+    
+}
+
+.MuiDataGrid-root {
+    --DataGrid-containerBackground: #0A0F20 !important;
+    --DataGrid-rowBorderColor: #455075 !important;
+}
+
+.MuiDataGrid-row {
+    background-color: #455075;
+}
+
+.MuiDataGrid-footerContainer {
+    background-color: #0A0F20;
+    color: white !important;
+}
+
+.MuiDataGrid-filler {
+    background-color: #0A0F20;
 }
