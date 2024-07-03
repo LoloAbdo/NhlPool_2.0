@@ -17,7 +17,6 @@ import teams from "../data/teams.json";
 import { Link } from "react-router-dom";
 
 export const Teams = () => {
-  //   const [serverUrl, setServerUrl] = useState("https://api-web.nhle.com/v1/"); // TODO: modifier avec la search bar +
   const [items, setItems] = useState([]); // set array
   const [searchValue, setSearch] = useState("");
 
@@ -136,7 +135,11 @@ export const Teams = () => {
                   <CardActions>
                     <Link
                       key={item.rawTricode}
-                      to={`/teams/team/stats/${item.teamCommonName}`}
+                      to={{
+                        pathname: `/teams/team/stats/${item.teamCommonName}`,
+                      }}
+                      state={item.rawTricode}
+                      relative="path"
                       className="link-cards"
                     >
                       <Button

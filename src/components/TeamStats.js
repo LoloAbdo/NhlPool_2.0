@@ -1,5 +1,5 @@
 import "./TeamStats.css";
-import { useParams } from "react-router-dom";
+import { useLocation, useParams } from "react-router-dom";
 import teamsSeason202324 from "../data/Summary_teamStats20232024.json";
 import teamsSeason202223 from "../data/Summary_teamStats20222023.json";
 import teamsSeason202122 from "../data/Summary_teamStats20212022.json";
@@ -8,10 +8,12 @@ import { useEffect, useState } from "react";
 import { DataGrid } from "@mui/x-data-grid";
 import { Box } from "@mui/material";
 
-export const TeamStats = () => {
+export const TeamStats = (props) => {
   const params = useParams();
   const [teamStats, setTeamStats] = useState([]);
   const widthColumn = 150;
+  const location = useLocation();
+  const rawTricode = location.state || "";
 
   // Colums
   const columns = [
@@ -160,8 +162,16 @@ export const TeamStats = () => {
     setTeamStats(team);
   }, []);
 
+  console.log(rawTricode);
   return (
     <div>
+      <div className="Team-Logo-div">
+        <img
+          alt={rawTricode}
+          className="Team-Logo-img"
+          src={`/pictures/${rawTricode}.png`}
+        />
+      </div>
       <div className="Team-Header">
         <h1>{params.teamId}</h1>
       </div>
