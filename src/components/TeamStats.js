@@ -162,7 +162,6 @@ export const TeamStats = (props) => {
     setTeamStats(team);
   }, []);
 
-  console.log(rawTricode);
   return (
     <div>
       <div className="Team-Logo-div">

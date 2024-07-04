@@ -121,6 +121,7 @@ export const Teams = () => {
                     <Link
                       key={item.rawTricode}
                       to={`/teams/team/players/${item.teamCommonName}`}
+                      state={item.rawTricode}
                       className="link-cards"
                     >
                       <Button
