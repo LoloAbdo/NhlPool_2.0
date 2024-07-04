@@ -8,7 +8,7 @@ import { useEffect, useState } from "react";
 import { DataGrid } from "@mui/x-data-grid";
 import { Box } from "@mui/material";
 
-export const TeamStats = (props) => {
+export const TeamStats = () => {
   const params = useParams();
   const [teamStats, setTeamStats] = useState([]);
   const widthColumn = 150;

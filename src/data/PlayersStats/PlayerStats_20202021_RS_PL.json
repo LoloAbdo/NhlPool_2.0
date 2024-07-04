@@ -1,6 +1,6 @@
 [
   {
-    "": "Auston Matthews",
+    "Name": "Auston Matthews",
     "_1": "TOR",
     "_2": "C",
     "_3": "80",
@@ -19,7 +19,7 @@
     "_12": "68"
   },
   {
-    "": "Chris Kreider",
+    "Name": "Chris Kreider",
     "_1": "NYR",
     "_2": "LW",
     "_3": "101",
@@ -38,7 +38,7 @@
     "_12": "48"
   },
   {
-    "": "Leon Draisaitl",
+    "Name": "Leon Draisaitl",
     "_1": "EDM",
     "_2": "C",
     "_3": "96",
@@ -57,7 +57,7 @@
     "_12": "28"
   },
   {
-    "": "Connor McDavid",
+    "Name": "Connor McDavid",
     "_1": "EDM",
     "_2": "C",
     "_3": "96",
@@ -76,7 +76,7 @@
     "_12": "30"
   },
   {
-    "": "Kirill Kaprizov",
+    "Name": "Kirill Kaprizov",
     "_1": "MIN",
     "_2": "LW",
     "_3": "87",
@@ -95,7 +95,7 @@
     "_12": "32"
   },
   {
-    "": "Steven Stamkos",
+    "Name": "Steven Stamkos",
     "_1": "NSH",
     "_2": "C",
     "_3": "104",
@@ -114,7 +114,7 @@
     "_12": "55"
   },
   {
-    "": "Alex Ovechkin",
+    "Name": "Alex Ovechkin",
     "_1": "WAS",
     "_2": "LW",
     "_3": "83",
@@ -133,7 +133,7 @@
     "_12": "27"
   },
   {
-    "": "Jake Guentzel",
+    "Name": "Jake Guentzel",
     "_1": "TB",
     "_2": "LW",
     "_3": "83",
@@ -152,7 +152,7 @@
     "_12": "42"
   },
   {
-    "": "Kyle Connor",
+    "Name": "Kyle Connor",
     "_1": "WPG",
     "_2": "LW",
     "_3": "79",
@@ -171,7 +171,7 @@
     "_12": "23"
   },
   {
-    "": "Elias Lindholm",
+    "Name": "Elias Lindholm",
     "_1": "BOS",
     "_2": "C",
     "_3": "94",
@@ -190,7 +190,7 @@
     "_12": "60"
   },
   {
-    "": "Matthew Tkachuk",
+    "Name": "Matthew Tkachuk",
     "_1": "FLA",
     "_2": "LW",
     "_3": "94",
@@ -209,7 +209,7 @@
     "_12": "24"
   },
   {
-    "": "Matt Duchene",
+    "Name": "Matt Duchene",
     "_1": "DAL",
     "_2": "C",
     "_3": "82",
@@ -228,7 +228,7 @@
     "_12": "31"
   },
   {
-    "": "Nathan MacKinnon",
+    "Name": "Nathan MacKinnon",
     "_1": "COL",
     "_2": "C",
     "_3": "85",
@@ -247,7 +247,7 @@
     "_12": "51"
   },
   {
-    "": "David Pastrnak",
+    "Name": "David Pastrnak",
     "_1": "BOS",
     "_2": "RW",
     "_3": "79",
@@ -266,7 +266,7 @@
     "_12": "16"
   },
   {
-    "": "Johnny Gaudreau",
+    "Name": "Johnny Gaudreau",
     "_1": "CLS",
     "_2": "LW",
     "_3": "94",
@@ -285,7 +285,7 @@
     "_12": "10"
   },
   {
-    "": "Filip Forsberg",
+    "Name": "Filip Forsberg",
     "_1": "NSH",
     "_2": "RW",
     "_3": "73",
@@ -304,7 +304,7 @@
     "_12": "54"
   },
   {
-    "": "Jason Robertson",
+    "Name": "Jason Robertson",
     "_1": "DAL",
     "_2": "LW",
     "_3": "81",
@@ -323,7 +323,7 @@
     "_12": "27"
   },
   {
-    "": "Alex DeBrincat",
+    "Name": "Alex DeBrincat",
     "_1": "DET",
     "_2": "RW",
     "_3": "82",
@@ -342,7 +342,7 @@
     "_12": "35"
   },
   {
-    "": "Gabriel Landeskog",
+    "Name": "Gabriel Landeskog",
     "_1": "COL",
     "_2": "LW",
     "_3": "71",
@@ -361,7 +361,7 @@
     "_12": "56"
   },
   {
-    "": "Mikko Rantanen",
+    "Name": "Mikko Rantanen",
     "_1": "COL",
     "_2": "RW",
     "_3": "95",
@@ -380,7 +380,7 @@
     "_12": "51"
   },
   {
-    "": "Aleksander Barkov",
+    "Name": "Aleksander Barkov",
     "_1": "FLA",
     "_2": "C",
     "_3": "77",
@@ -399,7 +399,7 @@
     "_12": "49"
   },
   {
-    "": "Sebastian Aho",
+    "Name": "Sebastian Aho",
     "_1": "CAR",
     "_2": "LW",
     "_3": "93",
@@ -418,7 +418,7 @@
     "_12": "35"
   },
   {
-    "": "Vladimir Tarasenko",
+    "Name": "Vladimir Tarasenko",
     "_1": "FA",
     "_2": "RW",
     "_3": "87",
@@ -437,7 +437,7 @@
     "_12": "48"
   },
   {
-    "": "Roope Hintz",
+    "Name": "Roope Hintz",
     "_1": "DAL",
     "_2": "C",
     "_3": "86",
@@ -456,7 +456,7 @@
     "_12": "58"
   },
   {
-    "": "Mika Zibanejad",
+    "Name": "Mika Zibanejad",
     "_1": "NYR",
     "_2": "C",
     "_3": "101",
@@ -475,7 +475,7 @@
     "_12": "58"
   },
   {
-    "": "Andrew Mangiapane",
+    "Name": "Andrew Mangiapane",
     "_1": "WAS",
     "_2": "LW",
     "_3": "94",
@@ -494,7 +494,7 @@
     "_12": "33"
   },
   {
-    "": "Zach Hyman",
+    "Name": "Zach Hyman",
     "_1": "EDM",
     "_2": "RW",
     "_3": "92",
@@ -513,7 +513,7 @@
     "_12": "41"
   },
   {
-    "": "Tage Thompson",
+    "Name": "Tage Thompson",
     "_1": "BUF",
     "_2": "C",
     "_3": "78",
@@ -532,7 +532,7 @@
     "_12": "25"
   },
   {
-    "": "Troy Terry",
+    "Name": "Troy Terry",
     "_1": "ANH",
     "_2": "RW",
     "_3": "75",
@@ -551,7 +551,7 @@
     "_12": "27"
   },
   {
-    "": "William Nylander",
+    "Name": "William Nylander",
     "_1": "TOR",
     "_2": "C",
     "_3": "88",
@@ -570,7 +570,7 @@
     "_12": "33"
   },
   {
-    "": "Mitch Marner",
+    "Name": "Mitch Marner",
     "_1": "TOR",
     "_2": "RW",
     "_3": "79",
@@ -589,7 +589,7 @@
     "_12": "39"
   },
   {
-    "": "Brock Nelson",
+    "Name": "Brock Nelson",
     "_1": "NYI",
     "_2": "C",
     "_3": "72",
@@ -608,7 +608,7 @@
     "_12": "43"
   },
   {
-    "": "Adrian Kempe",
+    "Name": "Adrian Kempe",
     "_1": "LA",
     "_2": "C",
     "_3": "85",
@@ -627,7 +627,7 @@
     "_12": "29"
   },
   {
-    "": "David Perron",
+    "Name": "David Perron",
     "_1": "OTT",
     "_2": "RW",
     "_3": "79",
@@ -646,7 +646,7 @@
     "_12": "16"
   },
   {
-    "": "Brad Marchand",
+    "Name": "Brad Marchand",
     "_1": "BOS",
     "_2": "LW",
     "_3": "77",
@@ -665,7 +665,7 @@
     "_12": "24"
   },
   {
-    "": "Cale Makar",
+    "Name": "Cale Makar",
     "_1": "COL",
     "_2": "D",
     "_3": "97",
@@ -684,7 +684,7 @@
     "_12": "153"
   },
   {
-    "": "Sam Reinhart",
+    "Name": "Sam Reinhart",
     "_1": "FLA",
     "_2": "RW",
     "_3": "88",
@@ -703,7 +703,7 @@
     "_12": "38"
   },
   {
-    "": "Evander Kane",
+    "Name": "Evander Kane",
     "_1": "EDM",
     "_2": "LW",
     "_3": "58",
@@ -722,7 +722,7 @@
     "_12": "17"
   },
   {
-    "": "Nazem Kadri",
+    "Name": "Nazem Kadri",
     "_1": "CGY",
     "_2": "C",
     "_3": "87",
@@ -741,7 +741,7 @@
     "_12": "24"
   },
   {
-    "": "Josh Norris",
+    "Name": "Josh Norris",
     "_1": "OTT",
     "_2": "C",
     "_3": "66",
@@ -760,7 +760,7 @@
     "_12": "44"
   },
   {
-    "": "Timo Meier",
+    "Name": "Timo Meier",
     "_1": "NJ",
     "_2": "LW",
     "_3": "77",
@@ -779,7 +779,7 @@
     "_12": "61"
   },
   {
-    "": "Ryan Hartman",
+    "Name": "Ryan Hartman",
     "_1": "MIN",
     "_2": "RW",
     "_3": "88",
@@ -798,7 +798,7 @@
     "_12": "53"
   },
   {
-    "": "Jordan Kyrou",
+    "Name": "Jordan Kyrou",
     "_1": "STL",
     "_2": "RW",
     "_3": "86",
@@ -817,7 +817,7 @@
     "_12": "25"
   },
   {
-    "": "Andrei Svechnikov",
+    "Name": "Andrei Svechnikov",
     "_1": "CAR",
     "_2": "RW",
     "_3": "92",
@@ -836,7 +836,7 @@
     "_12": "21"
   },
   {
-    "": "Valeri Nichushkin",
+    "Name": "Valeri Nichushkin",
     "_1": "COL",
     "_2": "LW",
     "_3": "82",
@@ -855,7 +855,7 @@
     "_12": "34"
   },
   {
-    "": "Jeff Skinner",
+    "Name": "Jeff Skinner",
     "_1": "EDM",
     "_2": "LW",
     "_3": "80",
@@ -874,7 +874,7 @@
     "_12": "20"
   },
   {
-    "": "Sidney Crosby",
+    "Name": "Sidney Crosby",
     "_1": "PIT",
     "_2": "C",
     "_3": "75",
@@ -893,7 +893,7 @@
     "_12": "43"
   },
   {
-    "": "Kevin Fiala",
+    "Name": "Kevin Fiala",
     "_1": "LA",
     "_2": "LW",
     "_3": "88",
@@ -912,7 +912,7 @@
     "_12": "22"
   },
   {
-    "": "Nikita Kucherov",
+    "Name": "Nikita Kucherov",
     "_1": "TB",
     "_2": "RW",
     "_3": "70",
@@ -931,7 +931,7 @@
     "_12": "10"
   },
   {
-    "": "J.T. Miller",
+    "Name": "J.T. Miller",
     "_1": "VAN",
     "_2": "C",
     "_3": "80",
@@ -950,7 +950,7 @@
     "_12": "56"
   },
   {
-    "": "Elias Pettersson",
+    "Name": "Elias Pettersson",
     "_1": "VAN",
     "_2": "C",
     "_3": "80",
@@ -969,7 +969,7 @@
     "_12": "43"
   },
   {
-    "": "Anthony Duclair",
+    "Name": "Anthony Duclair",
     "_1": "NYI",
     "_2": "LW",
     "_3": "82",
@@ -988,7 +988,7 @@
     "_12": "19"
   },
   {
-    "": "Bo Horvat",
+    "Name": "Bo Horvat",
     "_1": "NYI",
     "_2": "C",
     "_3": "70",
@@ -1007,7 +1007,7 @@
     "_12": "45"
   },
   {
-    "": "Pavel Buchnevich",
+    "Name": "Pavel Buchnevich",
     "_1": "STL",
     "_2": "LW",
     "_3": "85",
@@ -1026,7 +1026,7 @@
     "_12": "24"
   },
   {
-    "": "Dylan Larkin",
+    "Name": "Dylan Larkin",
     "_1": "DET",
     "_2": "C",
     "_3": "71",
@@ -1045,7 +1045,7 @@
     "_12": "28"
   },
   {
-    "": "Jonathan Huberdeau",
+    "Name": "Jonathan Huberdeau",
     "_1": "CGY",
     "_2": "LW",
     "_3": "90",
@@ -1064,7 +1064,7 @@
     "_12": "33"
   },
   {
-    "": "Tyler Bertuzzi",
+    "Name": "Tyler Bertuzzi",
     "_1": "CHI",
     "_2": "LW",
     "_3": "68",
@@ -1083,7 +1083,7 @@
     "_12": "41"
   },
   {
-    "": "Carter Verhaeghe",
+    "Name": "Carter Verhaeghe",
     "_1": "FLA",
     "_2": "C",
     "_3": "88",
@@ -1102,7 +1102,7 @@
     "_12": "19"
   },
   {
-    "": "Tomas Hertl",
+    "Name": "Tomas Hertl",
     "_1": "VGK",
     "_2": "C",
     "_3": "82",
@@ -1121,7 +1121,7 @@
     "_12": "57"
   },
   {
-    "": "Phillip Danault",
+    "Name": "Phillip Danault",
     "_1": "LA",
     "_2": "C",
     "_3": "86",
@@ -1140,7 +1140,7 @@
     "_12": "55"
   },
   {
-    "": "Joe Pavelski",
+    "Name": "Joe Pavelski",
     "_1": "FA",
     "_2": "RW",
     "_3": "89",
@@ -1159,7 +1159,7 @@
     "_12": "79"
   },
   {
-    "": "Brady Tkachuk",
+    "Name": "Brady Tkachuk",
     "_1": "OTT",
     "_2": "LW",
     "_3": "79",
@@ -1178,7 +1178,7 @@
     "_12": "25"
   },
   {
-    "": "Jonathan Marchessault",
+    "Name": "Jonathan Marchessault",
     "_1": "NSH",
     "_2": "LW",
     "_3": "76",
@@ -1197,7 +1197,7 @@
     "_12": "17"
   },
   {
-    "": "Brayden Point",
+    "Name": "Brayden Point",
     "_1": "TB",
     "_2": "C",
     "_3": "75",
@@ -1216,7 +1216,7 @@
     "_12": "32"
   },
   {
-    "": "John Tavares",
+    "Name": "John Tavares",
     "_1": "TOR",
     "_2": "C",
     "_3": "86",
@@ -1235,7 +1235,7 @@
     "_12": "52"
   },
   {
-    "": "Mark Scheifele",
+    "Name": "Mark Scheifele",
     "_1": "WPG",
     "_2": "C",
     "_3": "67",
@@ -1254,7 +1254,7 @@
     "_12": "47"
   },
   {
-    "": "Joel Eriksson Ek",
+    "Name": "Joel Eriksson Ek",
     "_1": "MIN",
     "_2": "C",
     "_3": "83",
@@ -1273,7 +1273,7 @@
     "_12": "46"
   },
   {
-    "": "Ondrej Palat",
+    "Name": "Ondrej Palat",
     "_1": "NJ",
     "_2": "LW",
     "_3": "100",
@@ -1292,7 +1292,7 @@
     "_12": "61"
   },
   {
-    "": "Sam Bennett",
+    "Name": "Sam Bennett",
     "_1": "FLA",
     "_2": "LW",
     "_3": "81",
@@ -1311,7 +1311,7 @@
     "_12": "33"
   },
   {
-    "": "Patrice Bergeron",
+    "Name": "Patrice Bergeron",
     "_1": "FA",
     "_2": "C",
     "_3": "80",
@@ -1330,7 +1330,7 @@
     "_12": "50"
   },
   {
-    "": "Anders Lee",
+    "Name": "Anders Lee",
     "_1": "NYI",
     "_2": "C",
     "_3": "76",
@@ -1349,7 +1349,7 @@
     "_12": "30"
   },
   {
-    "": "Artemi Panarin",
+    "Name": "Artemi Panarin",
     "_1": "NYR",
     "_2": "LW",
     "_3": "95",
@@ -1368,7 +1368,7 @@
     "_12": "24"
   },
   {
-    "": "Ryan O'Reilly",
+    "Name": "Ryan O'Reilly",
     "_1": "NSH",
     "_2": "C",
     "_3": "90",
@@ -1387,7 +1387,7 @@
     "_12": "49"
   },
   {
-    "": "Oliver Bjorkstrand",
+    "Name": "Oliver Bjorkstrand",
     "_1": "SEA",
     "_2": "RW",
     "_3": "80",
@@ -1406,7 +1406,7 @@
     "_12": "31"
   },
   {
-    "": "Nikolaj Ehlers",
+    "Name": "Nikolaj Ehlers",
     "_1": "WPG",
     "_2": "LW",
     "_3": "62",
@@ -1425,7 +1425,7 @@
     "_12": "27"
   },
   {
-    "": "Nino Niederreiter",
+    "Name": "Nino Niederreiter",
     "_1": "WPG",
     "_2": "RW",
     "_3": "89",
@@ -1444,7 +1444,7 @@
     "_12": "21"
   },
   {
-    "": "Pierre-Luc Dubois",
+    "Name": "Pierre-Luc Dubois",
     "_1": "WAS",
     "_2": "C",
     "_3": "81",
@@ -1463,7 +1463,7 @@
     "_12": "43"
   },
   {
-    "": "Clayton Keller",
+    "Name": "Clayton Keller",
     "_1": "UTA",
     "_2": "C",
     "_3": "67",
@@ -1482,7 +1482,7 @@
     "_12": "31"
   },
   {
-    "": "Brandon Hagel",
+    "Name": "Brandon Hagel",
     "_1": "TB",
     "_2": "LW",
     "_3": "100",
@@ -1501,7 +1501,7 @@
     "_12": "49"
   },
   {
-    "": "Jake DeBrusk",
+    "Name": "Jake DeBrusk",
     "_1": "VAN",
     "_2": "LW",
     "_3": "84",
@@ -1520,7 +1520,7 @@
     "_12": "27"
   },
   {
-    "": "Jared McCann",
+    "Name": "Jared McCann",
     "_1": "SEA",
     "_2": "LW",
     "_3": "74",
@@ -1539,7 +1539,7 @@
     "_12": "29"
   },
   {
-    "": "Vincent Trocheck",
+    "Name": "Vincent Trocheck",
     "_1": "NYR",
     "_2": "C",
     "_3": "95",
@@ -1558,7 +1558,7 @@
     "_12": "55"
   },
   {
-    "": "Andrew Copp",
+    "Name": "Andrew Copp",
     "_1": "DET",
     "_2": "C",
     "_3": "92",
@@ -1577,7 +1577,7 @@
     "_12": "52"
   },
   {
-    "": "Artturi Lehkonen",
+    "Name": "Artturi Lehkonen",
     "_1": "COL",
     "_2": "LW",
     "_3": "94",
@@ -1596,7 +1596,7 @@
     "_12": "59"
   },
   {
-    "": "Ross Colton",
+    "Name": "Ross Colton",
     "_1": "COL",
     "_2": "LW",
     "_3": "102",
@@ -1615,7 +1615,7 @@
     "_12": "44"
   },
   {
-    "": "Tyler Seguin",
+    "Name": "Tyler Seguin",
     "_1": "DAL",
     "_2": "C",
     "_3": "88",
@@ -1634,7 +1634,7 @@
     "_12": "35"
   },
   {
-    "": "Patrick Kane",
+    "Name": "Patrick Kane",
     "_1": "DET",
     "_2": "RW",
     "_3": "78",
@@ -1653,7 +1653,7 @@
     "_12": "26"
   },
   {
-    "": "Ivan Barbashev",
+    "Name": "Ivan Barbashev",
     "_1": "VGK",
     "_2": "LW",
     "_3": "93",
@@ -1672,7 +1672,7 @@
     "_12": "34"
   },
   {
-    "": "Teuvo Teravainen",
+    "Name": "Teuvo Teravainen",
     "_1": "CHI",
     "_2": "LW",
     "_3": "91",
@@ -1691,7 +1691,7 @@
     "_12": "36"
   },
   {
-    "": "Patrik Laine",
+    "Name": "Patrik Laine",
     "_1": "CLS",
     "_2": "RW",
     "_3": "56",
@@ -1710,7 +1710,7 @@
     "_12": "13"
   },
   {
-    "": "Evgeny Kuznetsov",
+    "Name": "Evgeny Kuznetsov",
     "_1": "CAR",
     "_2": "C",
     "_3": "85",
@@ -1729,7 +1729,7 @@
     "_12": "27"
   },
   {
-    "": "Jesper Bratt",
+    "Name": "Jesper Bratt",
     "_1": "NJ",
     "_2": "LW",
     "_3": "76",
@@ -1748,7 +1748,7 @@
     "_12": "30"
   },
   {
-    "": "Jack Hughes",
+    "Name": "Jack Hughes",
     "_1": "NJ",
     "_2": "C",
     "_3": "49",
@@ -1767,7 +1767,7 @@
     "_12": "15"
   },
   {
-    "": "Brandon Saad",
+    "Name": "Brandon Saad",
     "_1": "STL",
     "_2": "LW",
     "_3": "90",
@@ -1786,7 +1786,7 @@
     "_12": "25"
   },
   {
-    "": "Ryan Johansen",
+    "Name": "Ryan Johansen",
     "_1": "PHI",
     "_2": "C",
     "_3": "83",
@@ -1805,7 +1805,7 @@
     "_12": "35"
   },
   {
-    "": "Bryan Rust",
+    "Name": "Bryan Rust",
     "_1": "PIT",
     "_2": "RW",
     "_3": "67",
@@ -1824,7 +1824,7 @@
     "_12": "29"
   },
   {
-    "": "Andre Burakovsky",
+    "Name": "Andre Burakovsky",
     "_1": "SEA",
     "_2": "LW",
     "_3": "92",
@@ -1843,7 +1843,7 @@
     "_12": "40"
   },
   {
-    "": "Mats Zuccarello",
+    "Name": "Mats Zuccarello",
     "_1": "MIN",
     "_2": "RW",
     "_3": "76",
@@ -1862,7 +1862,7 @@
     "_12": "36"
   },
   {
-    "": "Tom Wilson",
+    "Name": "Tom Wilson",
     "_1": "WAS",
     "_2": "RW",
     "_3": "79",
@@ -1881,7 +1881,7 @@
     "_12": "55"
   },
   {
-    "": "Alex Killorn",
+    "Name": "Alex Killorn",
     "_1": "ANH",
     "_2": "C",
     "_3": "105",
@@ -1900,7 +1900,7 @@
     "_12": "42"
   },
   {
-    "": "Corey Perry",
+    "Name": "Corey Perry",
     "_1": "EDM",
     "_2": "RW",
     "_3": "105",
@@ -1919,7 +1919,7 @@
     "_12": "39"
   },
   {
-    "": "Yegor Sharangovich",
+    "Name": "Yegor Sharangovich",
     "_1": "CGY",
     "_2": "LW",
     "_3": "76",
@@ -1938,7 +1938,7 @@
     "_12": "26"
   },
   {
-    "": "James van Riemsdyk",
+    "Name": "James van Riemsdyk",
     "_1": "FA",
     "_2": "LW",
     "_3": "82",
@@ -1957,7 +1957,7 @@
     "_12": "25"
   },
   {
-    "": "Tanner Jeannot",
+    "Name": "Tanner Jeannot",
     "_1": "LA",
     "_2": "LW",
     "_3": "85",
@@ -1976,7 +1976,7 @@
     "_12": "71"
   },
   {
-    "": "Roman Josi",
+    "Name": "Roman Josi",
     "_1": "NSH",
     "_2": "D",
     "_3": "84",
@@ -1995,7 +1995,7 @@
     "_12": "143"
   },
   {
-    "": "Brayden Schenn",
+    "Name": "Brayden Schenn",
     "_1": "STL",
     "_2": "C",
     "_3": "74",
@@ -2014,7 +2014,7 @@
     "_12": "27"
   },
   {
-    "": "Michael Bunting",
+    "Name": "Michael Bunting",
     "_1": "PIT",
     "_2": "LW",
     "_3": "85",
@@ -2033,7 +2033,7 @@
     "_12": "22"
   },
   {
-    "": "Claude Giroux",
+    "Name": "Claude Giroux",
     "_1": "OTT",
     "_2": "C",
     "_3": "85",
@@ -2052,7 +2052,7 @@
     "_12": "18"
   },
   {
-    "": "Evgeni Malkin",
+    "Name": "Evgeni Malkin",
     "_1": "PIT",
     "_2": "C",
     "_3": "48",
@@ -2071,7 +2071,7 @@
     "_12": "21"
   },
   {
-    "": "Logan Couture",
+    "Name": "Logan Couture",
     "_1": "SJ",
     "_2": "C",
     "_3": "77",
@@ -2090,7 +2090,7 @@
     "_12": "58"
   },
   {
-    "": "Cole Caufield",
+    "Name": "Cole Caufield",
     "_1": "MON",
     "_2": "RW",
     "_3": "67",
@@ -2109,7 +2109,7 @@
     "_12": "7"
   },
   {
-    "": "Marcus Foligno",
+    "Name": "Marcus Foligno",
     "_1": "MIN",
     "_2": "LW",
     "_3": "80",
@@ -2128,7 +2128,7 @@
     "_12": "44"
   },
   {
-    "": "Brock Boeser",
+    "Name": "Brock Boeser",
     "_1": "VAN",
     "_2": "RW",
     "_3": "71",
@@ -2147,7 +2147,7 @@
     "_12": "26"
   },
   {
-    "": "Victor Hedman",
+    "Name": "Victor Hedman",
     "_1": "TB",
     "_2": "D",
     "_3": "105",
@@ -2166,7 +2166,7 @@
     "_12": "171"
   },
   {
-    "": "Cam Atkinson",
+    "Name": "Cam Atkinson",
     "_1": "TB",
     "_2": "RW",
     "_3": "73",
@@ -2185,7 +2185,7 @@
     "_12": "45"
   },
   {
-    "": "Nick Schmaltz",
+    "Name": "Nick Schmaltz",
     "_1": "UTA",
     "_2": "RW",
     "_3": "63",
@@ -2204,7 +2204,7 @@
     "_12": "28"
   },
   {
-    "": "Jeff Carter",
+    "Name": "Jeff Carter",
     "_1": "FA",
     "_2": "C",
     "_3": "83",
@@ -2223,7 +2223,7 @@
     "_12": "54"
   },
   {
-    "": "Ryan Strome",
+    "Name": "Ryan Strome",
     "_1": "ANH",
     "_2": "C",
     "_3": "93",
@@ -2242,7 +2242,7 @@
     "_12": "28"
   },
   {
-    "": "Boone Jenner",
+    "Name": "Boone Jenner",
     "_1": "CLS",
     "_2": "LW",
     "_3": "59",
@@ -2261,7 +2261,7 @@
     "_12": "56"
   },
   {
-    "": "Ilya Mikheyev",
+    "Name": "Ilya Mikheyev",
     "_1": "CHI",
     "_2": "RW",
     "_3": "60",
@@ -2280,7 +2280,7 @@
     "_12": "20"
   },
   {
-    "": "Frank Vatrano",
+    "Name": "Frank Vatrano",
     "_1": "ANH",
     "_2": "LW",
     "_3": "91",
@@ -2299,7 +2299,7 @@
     "_12": "47"
   },
   {
-    "": "Trevor Zegras",
+    "Name": "Trevor Zegras",
     "_1": "ANH",
     "_2": "C",
     "_3": "75",
@@ -2318,7 +2318,7 @@
     "_12": "27"
   },
   {
-    "": "Lucas Raymond",
+    "Name": "Lucas Raymond",
     "_1": "DET",
     "_2": "RW",
     "_3": "82",
@@ -2337,7 +2337,7 @@
     "_12": "24"
   },
   {
-    "": "J.T. Compher",
+    "Name": "J.T. Compher",
     "_1": "DET",
     "_2": "C",
     "_3": "90",
@@ -2356,7 +2356,7 @@
     "_12": "72"
   },
   {
-    "": "Evan Rodrigues",
+    "Name": "Evan Rodrigues",
     "_1": "FLA",
     "_2": "C",
     "_3": "89",
@@ -2375,7 +2375,7 @@
     "_12": "33"
   },
   {
-    "": "Taylor Hall",
+    "Name": "Taylor Hall",
     "_1": "CHI",
     "_2": "LW",
     "_3": "88",
@@ -2394,7 +2394,7 @@
     "_12": "38"
   },
   {
-    "": "Kailer Yamamoto",
+    "Name": "Kailer Yamamoto",
     "_1": "FA",
     "_2": "LW",
     "_3": "95",
@@ -2413,7 +2413,7 @@
     "_12": "47"
   },
   {
-    "": "Jack Roslovic",
+    "Name": "Jack Roslovic",
     "_1": "FA",
     "_2": "RW",
     "_3": "81",
@@ -2432,7 +2432,7 @@
     "_12": "25"
   },
   {
-    "": "Dylan Strome",
+    "Name": "Dylan Strome",
     "_1": "WAS",
     "_2": "C",
     "_3": "69",
@@ -2451,7 +2451,7 @@
     "_12": "33"
   },
   {
-    "": "Tyler Toffoli",
+    "Name": "Tyler Toffoli",
     "_1": "SJ",
     "_2": "RW",
     "_3": "86",
@@ -2470,7 +2470,7 @@
     "_12": "24"
   },
   {
-    "": "Robert Thomas",
+    "Name": "Robert Thomas",
     "_1": "STL",
     "_2": "C",
     "_3": "84",
@@ -2489,7 +2489,7 @@
     "_12": "34"
   },
   {
-    "": "Tim Stutzle",
+    "Name": "Tim Stutzle",
     "_1": "OTT",
     "_2": "C",
     "_3": "79",
@@ -2508,7 +2508,7 @@
     "_12": "52"
   },
   {
-    "": "Alexis Lafreniere",
+    "Name": "Alexis Lafreniere",
     "_1": "NYR",
     "_2": "LW",
     "_3": "99",
@@ -2527,7 +2527,7 @@
     "_12": "37"
   },
   {
-    "": "Jordan Eberle",
+    "Name": "Jordan Eberle",
     "_1": "SEA",
     "_2": "RW",
     "_3": "79",
@@ -2546,7 +2546,7 @@
     "_12": "40"
   },
   {
-    "": "Yanni Gourde",
+    "Name": "Yanni Gourde",
     "_1": "SEA",
     "_2": "LW",
     "_3": "74",
@@ -2565,7 +2565,7 @@
     "_12": "31"
   },
   {
-    "": "Chandler Stephenson",
+    "Name": "Chandler Stephenson",
     "_1": "SEA",
     "_2": "C",
     "_3": "79",
@@ -2584,7 +2584,7 @@
     "_12": "44"
   },
   {
-    "": "Nick Suzuki",
+    "Name": "Nick Suzuki",
     "_1": "MON",
     "_2": "C",
     "_3": "82",
@@ -2603,7 +2603,7 @@
     "_12": "62"
   },
   {
-    "": "Nico Hischier",
+    "Name": "Nico Hischier",
     "_1": "NJ",
     "_2": "C",
     "_3": "70",
@@ -2622,7 +2622,7 @@
     "_12": "48"
   },
   {
-    "": "Danton Heinen",
+    "Name": "Danton Heinen",
     "_1": "VAN",
     "_2": "LW",
     "_3": "83",
@@ -2641,7 +2641,7 @@
     "_12": "35"
   },
   {
-    "": "Nick Paul",
+    "Name": "Nick Paul",
     "_1": "TB",
     "_2": "LW",
     "_3": "103",
@@ -2660,7 +2660,7 @@
     "_12": "81"
   },
   {
-    "": "Kyle Okposo",
+    "Name": "Kyle Okposo",
     "_1": "FA",
     "_2": "RW",
     "_3": "74",
@@ -2679,7 +2679,7 @@
     "_12": "19"
   },
   {
-    "": "Paul Stastny",
+    "Name": "Paul Stastny",
     "_1": "FA",
     "_2": "C",
     "_3": "71",
@@ -2698,7 +2698,7 @@
     "_12": "27"
   },
   {
-    "": "Seth Jarvis",
+    "Name": "Seth Jarvis",
     "_1": "CAR",
     "_2": "RW",
     "_3": "82",
@@ -2717,7 +2717,7 @@
     "_12": "24"
   },
   {
-    "": "Viktor Arvidsson",
+    "Name": "Viktor Arvidsson",
     "_1": "EDM",
     "_2": "LW",
     "_3": "66",
@@ -2736,7 +2736,7 @@
     "_12": "45"
   },
   {
-    "": "Anze Kopitar",
+    "Name": "Anze Kopitar",
     "_1": "LA",
     "_2": "C",
     "_3": "88",
@@ -2755,7 +2755,7 @@
     "_12": "83"
   },
   {
-    "": "Victor Olofsson",
+    "Name": "Victor Olofsson",
     "_1": "VGK",
     "_2": "LW",
     "_3": "72",
@@ -2774,7 +2774,7 @@
     "_12": "15"
   },
   {
-    "": "Evgenii Dadonov",
+    "Name": "Evgenii Dadonov",
     "_1": "DAL",
     "_2": "RW",
     "_3": "78",
@@ -2793,7 +2793,7 @@
     "_12": "25"
   },
   {
-    "": "Anthony Cirelli",
+    "Name": "Anthony Cirelli",
     "_1": "TB",
     "_2": "C",
     "_3": "99",
@@ -2812,7 +2812,7 @@
     "_12": "93"
   },
   {
-    "": "Lawson Crouse",
+    "Name": "Lawson Crouse",
     "_1": "UTA",
     "_2": "LW",
     "_3": "65",
@@ -2831,7 +2831,7 @@
     "_12": "36"
   },
   {
-    "": "Yakov Trenin",
+    "Name": "Yakov Trenin",
     "_1": "MIN",
     "_2": "C",
     "_3": "84",
@@ -2850,7 +2850,7 @@
     "_12": "34"
   },
   {
-    "": "Rickard Rakell",
+    "Name": "Rickard Rakell",
     "_1": "PIT",
     "_2": "C",
     "_3": "72",
@@ -2869,7 +2869,7 @@
     "_12": "44"
   },
   {
-    "": "Trevor Moore",
+    "Name": "Trevor Moore",
     "_1": "LA",
     "_2": "LW",
     "_3": "88",
@@ -2888,7 +2888,7 @@
     "_12": "42"
   },
   {
-    "": "Josh Anderson",
+    "Name": "Josh Anderson",
     "_1": "MON",
     "_2": "RW",
     "_3": "69",
@@ -2907,7 +2907,7 @@
     "_12": "35"
   },
   {
-    "": "Erik Haula",
+    "Name": "Erik Haula",
     "_1": "NJ",
     "_2": "C",
     "_3": "85",
@@ -2926,7 +2926,7 @@
     "_12": "42"
   },
   {
-    "": "Conor Sheary",
+    "Name": "Conor Sheary",
     "_1": "TB",
     "_2": "LW",
     "_3": "77",
@@ -2945,7 +2945,7 @@
     "_12": "45"
   },
   {
-    "": "Conor Garland",
+    "Name": "Conor Garland",
     "_1": "VAN",
     "_2": "RW",
     "_3": "77",
@@ -2964,7 +2964,7 @@
     "_12": "22"
   },
   {
-    "": "Adam Henrique",
+    "Name": "Adam Henrique",
     "_1": "EDM",
     "_2": "C",
     "_3": "58",
@@ -2983,7 +2983,7 @@
     "_12": "47"
   },
   {
-    "": "Mason Marchment",
+    "Name": "Mason Marchment",
     "_1": "DAL",
     "_2": "LW",
     "_3": "58",
@@ -3002,7 +3002,7 @@
     "_12": "10"
   },
   {
-    "": "Jamie Benn",
+    "Name": "Jamie Benn",
     "_1": "DAL",
     "_2": "C",
     "_3": "89",
@@ -3021,7 +3021,7 @@
     "_12": "67"
   },
   {
-    "": "Anton Lundell",
+    "Name": "Anton Lundell",
     "_1": "FLA",
     "_2": "C",
     "_3": "74",
@@ -3040,7 +3040,7 @@
     "_12": "62"
   },
   {
-    "": "Max Pacioretty",
+    "Name": "Max Pacioretty",
     "_1": "FA",
     "_2": "LW",
     "_3": "39",
@@ -3059,7 +3059,7 @@
     "_12": "21"
   },
   {
-    "": "Dillon Dube",
+    "Name": "Dillon Dube",
     "_1": "FA",
     "_2": "C",
     "_3": "91",
@@ -3078,7 +3078,7 @@
     "_12": "20"
   },
   {
-    "": "Devon Toews",
+    "Name": "Devon Toews",
     "_1": "COL",
     "_2": "D",
     "_3": "86",
@@ -3097,7 +3097,7 @@
     "_12": "111"
   },
   {
-    "": "Blake Coleman",
+    "Name": "Blake Coleman",
     "_1": "CGY",
     "_2": "C",
     "_3": "93",
@@ -3116,7 +3116,7 @@
     "_12": "52"
   },
   {
-    "": "Charlie Coyle",
+    "Name": "Charlie Coyle",
     "_1": "BOS",
     "_2": "C",
     "_3": "89",
@@ -3135,7 +3135,7 @@
     "_12": "45"
   },
   {
-    "": "Jordan Staal",
+    "Name": "Jordan Staal",
     "_1": "CAR",
     "_2": "C",
     "_3": "92",
@@ -3154,7 +3154,7 @@
     "_12": "37"
   },
   {
-    "": "John Carlson",
+    "Name": "John Carlson",
     "_1": "WAS",
     "_2": "D",
     "_3": "84",
@@ -3173,7 +3173,7 @@
     "_12": "121"
   },
   {
-    "": "Alex Iafallo",
+    "Name": "Alex Iafallo",
     "_1": "WPG",
     "_2": "C",
     "_3": "86",
@@ -3192,7 +3192,7 @@
     "_12": "61"
   },
   {
-    "": "Jean-Gabriel Pageau",
+    "Name": "Jean-Gabriel Pageau",
     "_1": "NYI",
     "_2": "C",
     "_3": "77",
@@ -3211,7 +3211,7 @@
     "_12": "53"
   },
   {
-    "": "Gustav Nyquist",
+    "Name": "Gustav Nyquist",
     "_1": "NSH",
     "_2": "RW",
     "_3": "82",
@@ -3230,7 +3230,7 @@
     "_12": "51"
   },
   {
-    "": "Alex Formenton",
+    "Name": "Alex Formenton",
     "_1": "OTT",
     "_2": "LW",
     "_3": "79",
@@ -3249,7 +3249,7 @@
     "_12": "24"
   },
   {
-    "": "Drake Batherson",
+    "Name": "Drake Batherson",
     "_1": "OTT",
     "_2": "RW",
     "_3": "46",
@@ -3268,7 +3268,7 @@
     "_12": "15"
   },
   {
-    "": "Joel Farabee",
+    "Name": "Joel Farabee",
     "_1": "PHI",
     "_2": "LW",
     "_3": "63",
@@ -3287,7 +3287,7 @@
     "_12": "38"
   },
   {
-    "": "Justin Faulk",
+    "Name": "Justin Faulk",
     "_1": "STL",
     "_2": "D",
     "_3": "88",
@@ -3306,7 +3306,7 @@
     "_12": "120"
   },
   {
-    "": "Travis Boyd",
+    "Name": "Travis Boyd",
     "_1": "MIN",
     "_2": "C",
     "_3": "74",
@@ -3325,7 +3325,7 @@
     "_12": "55"
   },
   {
-    "": "Dawson Mercer",
+    "Name": "Dawson Mercer",
     "_1": "NJ",
     "_2": "C",
     "_3": "82",
@@ -3344,7 +3344,7 @@
     "_12": "35"
   },
   {
-    "": "Vladislav Namestnikov",
+    "Name": "Vladislav Namestnikov",
     "_1": "WPG",
     "_2": "C",
     "_3": "82",
@@ -3363,7 +3363,7 @@
     "_12": "44"
   },
   {
-    "": "T.J. Oshie",
+    "Name": "T.J. Oshie",
     "_1": "WAS",
     "_2": "RW",
     "_3": "50",
@@ -3382,7 +3382,7 @@
     "_12": "35"
   },
   {
-    "": "Mikael Backlund",
+    "Name": "Mikael Backlund",
     "_1": "CGY",
     "_2": "C",
     "_3": "94",
@@ -3401,7 +3401,7 @@
     "_12": "30"
   },
   {
-    "": "Robby Fabbri",
+    "Name": "Robby Fabbri",
     "_1": "DET",
     "_2": "LW",
     "_3": "56",
@@ -3420,7 +3420,7 @@
     "_12": "19"
   },
   {
-    "": "Ryan Nugent-Hopkins",
+    "Name": "Ryan Nugent-Hopkins",
     "_1": "EDM",
     "_2": "LW",
     "_3": "79",
@@ -3439,7 +3439,7 @@
     "_12": "51"
   },
   {
-    "": "Blake Wheeler",
+    "Name": "Blake Wheeler",
     "_1": "FA",
     "_2": "RW",
     "_3": "65",
@@ -3458,7 +3458,7 @@
     "_12": "37"
   },
   {
-    "": "Nick Bonino",
+    "Name": "Nick Bonino",
     "_1": "FA",
     "_2": "C",
     "_3": "80",
@@ -3477,7 +3477,7 @@
     "_12": "102"
   },
   {
-    "": "Cole Sillinger",
+    "Name": "Cole Sillinger",
     "_1": "CLS",
     "_2": "C",
     "_3": "79",
@@ -3496,7 +3496,7 @@
     "_12": "43"
   },
   {
-    "": "Aaron Ekblad",
+    "Name": "Aaron Ekblad",
     "_1": "FLA",
     "_2": "D",
     "_3": "71",
@@ -3515,7 +3515,7 @@
     "_12": "78"
   },
   {
-    "": "Ryan Donato",
+    "Name": "Ryan Donato",
     "_1": "CHI",
     "_2": "C",
     "_3": "74",
@@ -3534,7 +3534,7 @@
     "_12": "17"
   },
   {
-    "": "Craig Smith",
+    "Name": "Craig Smith",
     "_1": "CHI",
     "_2": "RW",
     "_3": "81",
@@ -3553,7 +3553,7 @@
     "_12": "31"
   },
   {
-    "": "Isac Lundestrom",
+    "Name": "Isac Lundestrom",
     "_1": "ANH",
     "_2": "LW",
     "_3": "80",
@@ -3572,7 +3572,7 @@
     "_12": "55"
   },
   {
-    "": "Reilly Smith",
+    "Name": "Reilly Smith",
     "_1": "NYR",
     "_2": "RW",
     "_3": "56",
@@ -3591,7 +3591,7 @@
     "_12": "23"
   },
   {
-    "": "Adam Fox",
+    "Name": "Adam Fox",
     "_1": "NYR",
     "_2": "D",
     "_3": "98",
@@ -3610,7 +3610,7 @@
     "_12": "167"
   },
   {
-    "": "Matt Boldy",
+    "Name": "Matt Boldy",
     "_1": "MIN",
     "_2": "LW",
     "_3": "53",
@@ -3629,7 +3629,7 @@
     "_12": "27"
   },
   {
-    "": "Jesse Puljujarvi",
+    "Name": "Jesse Puljujarvi",
     "_1": "PIT",
     "_2": "RW",
     "_3": "81",
@@ -3648,7 +3648,7 @@
     "_12": "26"
   },
   {
-    "": "Travis Konecny",
+    "Name": "Travis Konecny",
     "_1": "PHI",
     "_2": "C",
     "_3": "79",
@@ -3667,7 +3667,7 @@
     "_12": "34"
   },
   {
-    "": "Garnet Hathaway",
+    "Name": "Garnet Hathaway",
     "_1": "PHI",
     "_2": "RW",
     "_3": "82",
@@ -3686,7 +3686,7 @@
     "_12": "74"
   },
   {
-    "": "Frederick Gaudreau",
+    "Name": "Frederick Gaudreau",
     "_1": "MIN",
     "_2": "C",
     "_3": "82",
@@ -3705,7 +3705,7 @@
     "_12": "47"
   },
   {
-    "": "Filip Chytil",
+    "Name": "Filip Chytil",
     "_1": "NYR",
     "_2": "C",
     "_3": "87",
@@ -3724,7 +3724,7 @@
     "_12": "30"
   },
   {
-    "": "Pierre Engvall",
+    "Name": "Pierre Engvall",
     "_1": "NYI",
     "_2": "LW",
     "_3": "85",
@@ -3743,7 +3743,7 @@
     "_12": "12"
   },
   {
-    "": "Mathew Barzal",
+    "Name": "Mathew Barzal",
     "_1": "NYI",
     "_2": "C",
     "_3": "73",
@@ -3762,7 +3762,7 @@
     "_12": "17"
   },
   {
-    "": "Kyle Palmieri",
+    "Name": "Kyle Palmieri",
     "_1": "NYI",
     "_2": "RW",
     "_3": "69",
@@ -3781,7 +3781,7 @@
     "_12": "18"
   },
   {
-    "": "Tomas Tatar",
+    "Name": "Tomas Tatar",
     "_1": "NJ",
     "_2": "LW",
     "_3": "76",
@@ -3800,7 +3800,7 @@
     "_12": "28"
   },
   {
-    "": "Pius Suter",
+    "Name": "Pius Suter",
     "_1": "VAN",
     "_2": "LW",
     "_3": "82",
@@ -3819,7 +3819,7 @@
     "_12": "37"
   },
   {
-    "": "Pavel Zacha",
+    "Name": "Pavel Zacha",
     "_1": "BOS",
     "_2": "C",
     "_3": "70",
@@ -3838,7 +3838,7 @@
     "_12": "18"
   },
   {
-    "": "Jesper Fast",
+    "Name": "Jesper Fast",
     "_1": "CAR",
     "_2": "RW",
     "_3": "96",
@@ -3857,7 +3857,7 @@
     "_12": "41"
   },
   {
-    "": "Patrick Maroon",
+    "Name": "Patrick Maroon",
     "_1": "CHI",
     "_2": "LW",
     "_3": "104",
@@ -3876,7 +3876,7 @@
     "_12": "14"
   },
   {
-    "": "Evan Bouchard",
+    "Name": "Evan Bouchard",
     "_1": "EDM",
     "_2": "D",
     "_3": "97",
@@ -3895,7 +3895,7 @@
     "_12": "129"
   },
   {
-    "": "Nicolas Roy",
+    "Name": "Nicolas Roy",
     "_1": "VGK",
     "_2": "C",
     "_3": "78",
@@ -3914,7 +3914,7 @@
     "_12": "34"
   },
   {
-    "": "Michael Rasmussen",
+    "Name": "Michael Rasmussen",
     "_1": "DET",
     "_2": "C",
     "_3": "80",
@@ -3933,7 +3933,7 @@
     "_12": "65"
   },
   {
-    "": "Derek Grant",
+    "Name": "Derek Grant",
     "_1": "FA",
     "_2": "C",
     "_3": "71",
@@ -3952,7 +3952,7 @@
     "_12": "49"
   },
   {
-    "": "Zach Parise",
+    "Name": "Zach Parise",
     "_1": "FA",
     "_2": "LW",
     "_3": "82",
@@ -3971,7 +3971,7 @@
     "_12": "57"
   },
   {
-    "": "Mike Hoffman",
+    "Name": "Mike Hoffman",
     "_1": "FA",
     "_2": "LW",
     "_3": "67",
@@ -3990,7 +3990,7 @@
     "_12": "29"
   },
   {
-    "": "Rem Pitlick",
+    "Name": "Rem Pitlick",
     "_1": "FA",
     "_2": "C",
     "_3": "66",
@@ -4009,7 +4009,7 @@
     "_12": "28"
   },
   {
-    "": "Dominik Kubalik",
+    "Name": "Dominik Kubalik",
     "_1": "FA",
     "_2": "LW",
     "_3": "78",
@@ -4028,7 +4028,7 @@
     "_12": "28"
   },
   {
-    "": "Ondrej Kase",
+    "Name": "Ondrej Kase",
     "_1": "FA",
     "_2": "RW",
     "_3": "57",
@@ -4047,7 +4047,7 @@
     "_12": "38"
   },
   {
-    "": "Daniel Sprong",
+    "Name": "Daniel Sprong",
     "_1": "FA",
     "_2": "RW",
     "_3": "63",
@@ -4066,7 +4066,7 @@
     "_12": "12"
   },
   {
-    "": "Josh Bailey",
+    "Name": "Josh Bailey",
     "_1": "FA",
     "_2": "LW",
     "_3": "74",
@@ -4085,7 +4085,7 @@
     "_12": "26"
   },
   {
-    "": "Tanner Pearson",
+    "Name": "Tanner Pearson",
     "_1": "FA",
     "_2": "LW",
     "_3": "68",
@@ -4104,7 +4104,7 @@
     "_12": "41"
   },
   {
-    "": "Jack Eichel",
+    "Name": "Jack Eichel",
     "_1": "VGK",
     "_2": "C",
     "_3": "34",
@@ -4123,7 +4123,7 @@
     "_12": "35"
   },
   {
-    "": "Shea Theodore",
+    "Name": "Shea Theodore",
     "_1": "VGK",
     "_2": "D",
     "_3": "78",
@@ -4142,7 +4142,7 @@
     "_12": "97"
   },
   {
-    "": "Martin Necas",
+    "Name": "Martin Necas",
     "_1": "CAR",
     "_2": "C",
     "_3": "92",
@@ -4161,7 +4161,7 @@
     "_12": "22"
   },
   {
-    "": "Sean Kuraly",
+    "Name": "Sean Kuraly",
     "_1": "CLS",
     "_2": "C",
     "_3": "77",
@@ -4180,7 +4180,7 @@
     "_12": "51"
   },
   {
-    "": "Shayne Gostisbehere",
+    "Name": "Shayne Gostisbehere",
     "_1": "CAR",
     "_2": "D",
     "_3": "82",
@@ -4199,7 +4199,7 @@
     "_12": "115"
   },
   {
-    "": "Vasily Podkolzin",
+    "Name": "Vasily Podkolzin",
     "_1": "VAN",
     "_2": "RW",
     "_3": "79",
@@ -4218,7 +4218,7 @@
     "_12": "33"
   },
   {
-    "": "Sonny Milano",
+    "Name": "Sonny Milano",
     "_1": "WAS",
     "_2": "LW",
     "_3": "66",
@@ -4237,7 +4237,7 @@
     "_12": "15"
   },
   {
-    "": "Max Domi",
+    "Name": "Max Domi",
     "_1": "TOR",
     "_2": "C",
     "_3": "86",
@@ -4256,7 +4256,7 @@
     "_12": "13"
   },
   {
-    "": "Alex Kerfoot",
+    "Name": "Alex Kerfoot",
     "_1": "UTA",
     "_2": "C",
     "_3": "89",
@@ -4275,7 +4275,7 @@
     "_12": "71"
   },
   {
-    "": "Arthur Kaliyev",
+    "Name": "Arthur Kaliyev",
     "_1": "LA",
     "_2": "RW",
     "_3": "87",
@@ -4294,7 +4294,7 @@
     "_12": "13"
   },
   {
-    "": "Lars Eller",
+    "Name": "Lars Eller",
     "_1": "PIT",
     "_2": "C",
     "_3": "78",
@@ -4313,7 +4313,7 @@
     "_12": "39"
   },
   {
-    "": "Barclay Goodrow",
+    "Name": "Barclay Goodrow",
     "_1": "SJ",
     "_2": "LW",
     "_3": "88",
@@ -4332,7 +4332,7 @@
     "_12": "65"
   },
   {
-    "": "Luke Kunin",
+    "Name": "Luke Kunin",
     "_1": "SJ",
     "_2": "C",
     "_3": "86",
@@ -4351,7 +4351,7 @@
     "_12": "52"
   },
   {
-    "": "Alex Newhook",
+    "Name": "Alex Newhook",
     "_1": "MON",
     "_2": "C",
     "_3": "83",
@@ -4370,7 +4370,7 @@
     "_12": "46"
   },
   {
-    "": "Jake Evans",
+    "Name": "Jake Evans",
     "_1": "MON",
     "_2": "LW",
     "_3": "72",
@@ -4389,7 +4389,7 @@
     "_12": "37"
   },
   {
-    "": "Vinnie Hinostroza",
+    "Name": "Vinnie Hinostroza",
     "_1": "NSH",
     "_2": "RW",
     "_3": "62",
@@ -4408,7 +4408,7 @@
     "_12": "13"
   },
   {
-    "": "Oliver Wahlstrom",
+    "Name": "Oliver Wahlstrom",
     "_1": "NYI",
     "_2": "RW",
     "_3": "73",
@@ -4427,7 +4427,7 @@
     "_12": "19"
   },
   {
-    "": "Noah Dobson",
+    "Name": "Noah Dobson",
     "_1": "NYI",
     "_2": "D",
     "_3": "80",
@@ -4446,7 +4446,7 @@
     "_12": "154"
   },
   {
-    "": "Morgan Rielly",
+    "Name": "Morgan Rielly",
     "_1": "TOR",
     "_2": "D",
     "_3": "89",
@@ -4465,7 +4465,7 @@
     "_12": "97"
   },
   {
-    "": "David Kampf",
+    "Name": "David Kampf",
     "_1": "TOR",
     "_2": "RW",
     "_3": "89",
@@ -4484,7 +4484,7 @@
     "_12": "27"
   },
   {
-    "": "Calle Jarnkrok",
+    "Name": "Calle Jarnkrok",
     "_1": "TOR",
     "_2": "C",
     "_3": "78",
@@ -4503,7 +4503,7 @@
     "_12": "22"
   },
   {
-    "": "Adam Lowry",
+    "Name": "Adam Lowry",
     "_1": "WPG",
     "_2": "LW",
     "_3": "79",
@@ -4522,7 +4522,7 @@
     "_12": "43"
   },
   {
-    "": "Dylan Cozens",
+    "Name": "Dylan Cozens",
     "_1": "BUF",
     "_2": "C",
     "_3": "79",
@@ -4541,7 +4541,7 @@
     "_12": "22"
   },
   {
-    "": "Rasmus Dahlin",
+    "Name": "Rasmus Dahlin",
     "_1": "BUF",
     "_2": "D",
     "_3": "80",
@@ -4560,7 +4560,7 @@
     "_12": "91"
   },
   {
-    "": "Brock McGinn",
+    "Name": "Brock McGinn",
     "_1": "ANH",
     "_2": "LW",
     "_3": "71",
@@ -4579,7 +4579,7 @@
     "_12": "54"
   },
   {
-    "": "Alex Pietrangelo",
+    "Name": "Alex Pietrangelo",
     "_1": "VGK",
     "_2": "D",
     "_3": "80",
@@ -4598,7 +4598,7 @@
     "_12": "164"
   },
   {
-    "": "Alex Chiasson",
+    "Name": "Alex Chiasson",
     "_1": "FA",
     "_2": "RW",
     "_3": "67",
@@ -4617,7 +4617,7 @@
     "_12": "18"
   },
   {
-    "": "Sam Gagner",
+    "Name": "Sam Gagner",
     "_1": "FA",
     "_2": "C",
     "_3": "81",
@@ -4636,7 +4636,7 @@
     "_12": "25"
   },
   {
-    "": "Jakub Vrana",
+    "Name": "Jakub Vrana",
     "_1": "FA",
     "_2": "RW",
     "_3": "26",
@@ -4655,7 +4655,7 @@
     "_12": "9"
   },
   {
-    "": "Andreas Johnsson",
+    "Name": "Andreas Johnsson",
     "_1": "FA",
     "_2": "LW",
     "_3": "71",
@@ -4674,7 +4674,7 @@
     "_12": "22"
   },
   {
-    "": "Oskar Lindblom",
+    "Name": "Oskar Lindblom",
     "_1": "FA",
     "_2": "LW",
     "_3": "79",
@@ -4693,7 +4693,7 @@
     "_12": "48"
   },
   {
-    "": "Nick Ritchie",
+    "Name": "Nick Ritchie",
     "_1": "FA",
     "_2": "LW",
     "_3": "57",
@@ -4712,7 +4712,7 @@
     "_12": "22"
   },
   {
-    "": "Jonathan Dahlen",
+    "Name": "Jonathan Dahlen",
     "_1": "FA",
     "_2": "LW",
     "_3": "61",
@@ -4731,7 +4731,7 @@
     "_12": "34"
   },
   {
-    "": "Jacob Peterson",
+    "Name": "Jacob Peterson",
     "_1": "FA",
     "_2": "LW",
     "_3": "68",
@@ -4750,7 +4750,7 @@
     "_12": "24"
   },
   {
-    "": "Patric Hornqvist",
+    "Name": "Patric Hornqvist",
     "_1": "FA",
     "_2": "RW",
     "_3": "75",
@@ -4769,7 +4769,7 @@
     "_12": "25"
   },
   {
-    "": "Jason Spezza",
+    "Name": "Jason Spezza",
     "_1": "FA",
     "_2": "C",
     "_3": "76",
@@ -4788,7 +4788,7 @@
     "_12": "24"
   },
   {
-    "": "Jonathan Toews",
+    "Name": "Jonathan Toews",
     "_1": "FA",
     "_2": "C",
     "_3": "71",
@@ -4807,7 +4807,7 @@
     "_12": "22"
   },
   {
-    "": "William Karlsson",
+    "Name": "William Karlsson",
     "_1": "VGK",
     "_2": "C",
     "_3": "67",
@@ -4826,7 +4826,7 @@
     "_12": "42"
   },
   {
-    "": "Ryan McLeod",
+    "Name": "Ryan McLeod",
     "_1": "EDM",
     "_2": "C",
     "_3": "87",
@@ -4845,7 +4845,7 @@
     "_12": "34"
   },
   {
-    "": "Alex Tuch",
+    "Name": "Alex Tuch",
     "_1": "BUF",
     "_2": "RW",
     "_3": "50",
@@ -4864,7 +4864,7 @@
     "_12": "49"
   },
   {
-    "": "Dmitry Orlov",
+    "Name": "Dmitry Orlov",
     "_1": "CAR",
     "_2": "D",
     "_3": "82",
@@ -4883,7 +4883,7 @@
     "_12": "106"
   },
   {
-    "": "Andreas Athanasiou",
+    "Name": "Andreas Athanasiou",
     "_1": "CHI",
     "_2": "C",
     "_3": "34",
@@ -4902,7 +4902,7 @@
     "_12": "15"
   },
   {
-    "": "Jesperi Kotkaniemi",
+    "Name": "Jesperi Kotkaniemi",
     "_1": "CAR",
     "_2": "LW",
     "_3": "80",
@@ -4921,7 +4921,7 @@
     "_12": "20"
   },
   {
-    "": "Josh Morrissey",
+    "Name": "Josh Morrissey",
     "_1": "WPG",
     "_2": "D",
     "_3": "79",
@@ -4940,7 +4940,7 @@
     "_12": "104"
   },
   {
-    "": "Mathieu Joseph",
+    "Name": "Mathieu Joseph",
     "_1": "STL",
     "_2": "RW",
     "_3": "69",
@@ -4959,7 +4959,7 @@
     "_12": "27"
   },
   {
-    "": "Jacob Trouba",
+    "Name": "Jacob Trouba",
     "_1": "NYR",
     "_2": "D",
     "_3": "101",
@@ -4978,7 +4978,7 @@
     "_12": "229"
   },
   {
-    "": "Nathan Bastian",
+    "Name": "Nathan Bastian",
     "_1": "NJ",
     "_2": "RW",
     "_3": "72",
@@ -4997,7 +4997,7 @@
     "_12": "40"
   },
   {
-    "": "Mike Matheson",
+    "Name": "Mike Matheson",
     "_1": "MON",
     "_2": "D",
     "_3": "81",
@@ -5016,7 +5016,7 @@
     "_12": "86"
   },
   {
-    "": "Warren Foegele",
+    "Name": "Warren Foegele",
     "_1": "LA",
     "_2": "LW",
     "_3": "95",
@@ -5035,7 +5035,7 @@
     "_12": "17"
   },
   {
-    "": "Carl Grundstrom",
+    "Name": "Carl Grundstrom",
     "_1": "SJ",
     "_2": "LW",
     "_3": "60",
@@ -5054,7 +5054,7 @@
     "_12": "25"
   },
   {
-    "": "Eeli Tolvanen",
+    "Name": "Eeli Tolvanen",
     "_1": "SEA",
     "_2": "LW",
     "_3": "78",
@@ -5073,7 +5073,7 @@
     "_12": "49"
   },
   {
-    "": "Anthony Beauvillier",
+    "Name": "Anthony Beauvillier",
     "_1": "PIT",
     "_2": "LW",
     "_3": "75",
@@ -5092,7 +5092,7 @@
     "_12": "20"
   },
   {
-    "": "Kris Letang",
+    "Name": "Kris Letang",
     "_1": "PIT",
     "_2": "D",
     "_3": "85",
@@ -5111,7 +5111,7 @@
     "_12": "143"
   },
   {
-    "": "Scott Laughton",
+    "Name": "Scott Laughton",
     "_1": "PHI",
     "_2": "C",
     "_3": "67",
@@ -5130,7 +5130,7 @@
     "_12": "47"
   },
   {
-    "": "Michael Amadio",
+    "Name": "Michael Amadio",
     "_1": "OTT",
     "_2": "C",
     "_3": "56",
@@ -5149,7 +5149,7 @@
     "_12": "16"
   },
   {
-    "": "Brandon Montour",
+    "Name": "Brandon Montour",
     "_1": "SEA",
     "_2": "D",
     "_3": "91",
@@ -5168,7 +5168,7 @@
     "_12": "73"
   },
   {
-    "": "Kasperi Kapanen",
+    "Name": "Kasperi Kapanen",
     "_1": "STL",
     "_2": "RW",
     "_3": "86",
@@ -5187,7 +5187,7 @@
     "_12": "21"
   },
   {
-    "": "Alexandre Texier",
+    "Name": "Alexandre Texier",
     "_1": "STL",
     "_2": "C",
     "_3": "36",
@@ -5206,7 +5206,7 @@
     "_12": "12"
   },
   {
-    "": "Alexander Wennberg",
+    "Name": "Alexander Wennberg",
     "_1": "SJ",
     "_2": "C",
     "_3": "80",
@@ -5225,7 +5225,7 @@
     "_12": "44"
   },
   {
-    "": "Mikael Granlund",
+    "Name": "Mikael Granlund",
     "_1": "SJ",
     "_2": "C",
     "_3": "84",
@@ -5244,7 +5244,7 @@
     "_12": "50"
   },
   {
-    "": "Christian Dvorak",
+    "Name": "Christian Dvorak",
     "_1": "MON",
     "_2": "LW",
     "_3": "56",
@@ -5263,7 +5263,7 @@
     "_12": "52"
   },
   {
-    "": "Philip Tomasino",
+    "Name": "Philip Tomasino",
     "_1": "NSH",
     "_2": "C",
     "_3": "79",
@@ -5282,7 +5282,7 @@
     "_12": "31"
   },
   {
-    "": "Sam Carrick",
+    "Name": "Sam Carrick",
     "_1": "NYR",
     "_2": "C",
     "_3": "64",
@@ -5301,7 +5301,7 @@
     "_12": "21"
   },
   {
-    "": "Nic Dowd",
+    "Name": "Nic Dowd",
     "_1": "WAS",
     "_2": "C",
     "_3": "70",
@@ -5320,7 +5320,7 @@
     "_12": "55"
   },
   {
-    "": "Taylor Raddysh",
+    "Name": "Taylor Raddysh",
     "_1": "WAS",
     "_2": "RW",
     "_3": "74",
@@ -5339,7 +5339,7 @@
     "_12": "21"
   },
   {
-    "": "Damon Severson",
+    "Name": "Damon Severson",
     "_1": "CLS",
     "_2": "D",
     "_3": "80",
@@ -5358,7 +5358,7 @@
     "_12": "92"
   },
   {
-    "": "Zach Werenski",
+    "Name": "Zach Werenski",
     "_1": "CLS",
     "_2": "D",
     "_3": "68",
@@ -5377,7 +5377,7 @@
     "_12": "95"
   },
   {
-    "": "Nicolas Aube-Kubel",
+    "Name": "Nicolas Aube-Kubel",
     "_1": "BUF",
     "_2": "C",
     "_3": "88",
@@ -5396,7 +5396,7 @@
     "_12": "24"
   },
   {
-    "": "Jordan Greenway",
+    "Name": "Jordan Greenway",
     "_1": "BUF",
     "_2": "LW",
     "_3": "68",
@@ -5415,7 +5415,7 @@
     "_12": "34"
   },
   {
-    "": "Derek Ryan",
+    "Name": "Derek Ryan",
     "_1": "EDM",
     "_2": "C",
     "_3": "90",
@@ -5434,7 +5434,7 @@
     "_12": "48"
   },
   {
-    "": "Darnell Nurse",
+    "Name": "Darnell Nurse",
     "_1": "EDM",
     "_2": "D",
     "_3": "86",
@@ -5453,7 +5453,7 @@
     "_12": "165"
   },
   {
-    "": "Colin Blackwell",
+    "Name": "Colin Blackwell",
     "_1": "DAL",
     "_2": "C",
     "_3": "65",
@@ -5472,7 +5472,7 @@
     "_12": "26"
   },
   {
-    "": "Brian Boyle",
+    "Name": "Brian Boyle",
     "_1": "FA",
     "_2": "C",
     "_3": "72",
@@ -5491,7 +5491,7 @@
     "_12": "46"
   },
   {
-    "": "Adam Boqvist",
+    "Name": "Adam Boqvist",
     "_1": "FA",
     "_2": "D",
     "_3": "52",
@@ -5510,7 +5510,7 @@
     "_12": "47"
   },
   {
-    "": "Gerald Mayhew",
+    "Name": "Gerald Mayhew",
     "_1": "FA",
     "_2": "C",
     "_3": "40",
@@ -5529,7 +5529,7 @@
     "_12": "26"
   },
   {
-    "": "Tony DeAngelo",
+    "Name": "Tony DeAngelo",
     "_1": "FA",
     "_2": "D",
     "_3": "78",
@@ -5548,7 +5548,7 @@
     "_12": "78"
   },
   {
-    "": "Pierre-Edouard Bellemare",
+    "Name": "Pierre-Edouard Bellemare",
     "_1": "FA",
     "_2": "C",
     "_3": "103",
@@ -5567,7 +5567,7 @@
     "_12": "55"
   },
   {
-    "": "Denis Gurianov",
+    "Name": "Denis Gurianov",
     "_1": "FA",
     "_2": "RW",
     "_3": "78",
@@ -5586,7 +5586,7 @@
     "_12": "35"
   },
   {
-    "": "Rudolfs Balcers",
+    "Name": "Rudolfs Balcers",
     "_1": "FA",
     "_2": "LW",
     "_3": "61",
@@ -5605,7 +5605,7 @@
     "_12": "43"
   },
   {
-    "": "Oliver Kylington",
+    "Name": "Oliver Kylington",
     "_1": "FA",
     "_2": "D",
     "_3": "85",
@@ -5624,7 +5624,7 @@
     "_12": "92"
   },
   {
-    "": "Alexander Barabanov",
+    "Name": "Alexander Barabanov",
     "_1": "FA",
     "_2": "RW",
     "_3": "70",
@@ -5643,7 +5643,7 @@
     "_12": "39"
   },
   {
-    "": "Filip Zadina",
+    "Name": "Filip Zadina",
     "_1": "FA",
     "_2": "RW",
     "_3": "74",
@@ -5662,7 +5662,7 @@
     "_12": "34"
   },
   {
-    "": "Milan Lucic",
+    "Name": "Milan Lucic",
     "_1": "FA",
     "_2": "LW",
     "_3": "94",
@@ -5681,7 +5681,7 @@
     "_12": "24"
   },
   {
-    "": "Austin Watson",
+    "Name": "Austin Watson",
     "_1": "FA",
     "_2": "LW",
     "_3": "67",
@@ -5700,7 +5700,7 @@
     "_12": "63"
   },
   {
-    "": "Connor Brown",
+    "Name": "Connor Brown",
     "_1": "EDM",
     "_2": "RW",
     "_3": "64",
@@ -5719,7 +5719,7 @@
     "_12": "37"
   },
   {
-    "": "Gustav Forsling",
+    "Name": "Gustav Forsling",
     "_1": "FLA",
     "_2": "D",
     "_3": "81",
@@ -5738,7 +5738,7 @@
     "_12": "93"
   },
   {
-    "": "Jesper Boqvist",
+    "Name": "Jesper Boqvist",
     "_1": "FLA",
     "_2": "C",
     "_3": "56",
@@ -5757,7 +5757,7 @@
     "_12": "16"
   },
   {
-    "": "Eetu Luostarinen",
+    "Name": "Eetu Luostarinen",
     "_1": "FLA",
     "_2": "LW",
     "_3": "88",
@@ -5776,7 +5776,7 @@
     "_12": "53"
   },
   {
-    "": "Noah Hanifin",
+    "Name": "Noah Hanifin",
     "_1": "VGK",
     "_2": "D",
     "_3": "93",
@@ -5795,7 +5795,7 @@
     "_12": "106"
   },
   {
-    "": "Brent Burns",
+    "Name": "Brent Burns",
     "_1": "CAR",
     "_2": "D",
     "_3": "82",
@@ -5814,7 +5814,7 @@
     "_12": "150"
   },
   {
-    "": "Charlie McAvoy",
+    "Name": "Charlie McAvoy",
     "_1": "BOS",
     "_2": "D",
     "_3": "84",
@@ -5833,7 +5833,7 @@
     "_12": "138"
   },
   {
-    "": "Justin Danforth",
+    "Name": "Justin Danforth",
     "_1": "CLS",
     "_2": "RW",
     "_3": "45",
@@ -5852,7 +5852,7 @@
     "_12": "22"
   },
   {
-    "": "Eric Robinson",
+    "Name": "Eric Robinson",
     "_1": "CAR",
     "_2": "LW",
     "_3": "67",
@@ -5871,7 +5871,7 @@
     "_12": "20"
   },
   {
-    "": "Ryan Lomberg",
+    "Name": "Ryan Lomberg",
     "_1": "CGY",
     "_2": "LW",
     "_3": "60",
@@ -5890,7 +5890,7 @@
     "_12": "9"
   },
   {
-    "": "Nils Hoglander",
+    "Name": "Nils Hoglander",
     "_1": "VAN",
     "_2": "LW",
     "_3": "60",
@@ -5909,7 +5909,7 @@
     "_12": "16"
   },
   {
-    "": "Zemgus Girgensons",
+    "Name": "Zemgus Girgensons",
     "_1": "TB",
     "_2": "C",
     "_3": "56",
@@ -5928,7 +5928,7 @@
     "_12": "25"
   },
   {
-    "": "Barrett Hayton",
+    "Name": "Barrett Hayton",
     "_1": "UTA",
     "_2": "C",
     "_3": "60",
@@ -5947,7 +5947,7 @@
     "_12": "33"
   },
   {
-    "": "Carson Soucy",
+    "Name": "Carson Soucy",
     "_1": "VAN",
     "_2": "D",
     "_3": "64",
@@ -5966,7 +5966,7 @@
     "_12": "73"
   },
   {
-    "": "Casey Cizikas",
+    "Name": "Casey Cizikas",
     "_1": "NYI",
     "_2": "C",
     "_3": "74",
@@ -5985,7 +5985,7 @@
     "_12": "43"
   },
   {
-    "": "Brady Skjei",
+    "Name": "Brady Skjei",
     "_1": "NSH",
     "_2": "D",
     "_3": "96",
@@ -6004,7 +6004,7 @@
     "_12": "96"
   },
   {
-    "": "Jared Spurgeon",
+    "Name": "Jared Spurgeon",
     "_1": "MIN",
     "_2": "D",
     "_3": "71",
@@ -6023,7 +6023,7 @@
     "_12": "90"
   },
   {
-    "": "Marcus Johansson",
+    "Name": "Marcus Johansson",
     "_1": "MIN",
     "_2": "LW",
     "_3": "75",
@@ -6042,7 +6042,7 @@
     "_12": "32"
   },
   {
-    "": "Blake Lizotte",
+    "Name": "Blake Lizotte",
     "_1": "PIT",
     "_2": "LW",
     "_3": "77",
@@ -6061,7 +6061,7 @@
     "_12": "14"
   },
   {
-    "": "Owen Tippett",
+    "Name": "Owen Tippett",
     "_1": "PHI",
     "_2": "RW",
     "_3": "63",
@@ -6080,7 +6080,7 @@
     "_12": "16"
   },
   {
-    "": "Erik Karlsson",
+    "Name": "Erik Karlsson",
     "_1": "PIT",
     "_2": "D",
     "_3": "50",
@@ -6099,7 +6099,7 @@
     "_12": "45"
   },
   {
-    "": "Kevin Hayes",
+    "Name": "Kevin Hayes",
     "_1": "PIT",
     "_2": "C",
     "_3": "48",
@@ -6118,7 +6118,7 @@
     "_12": "12"
   },
   {
-    "": "Ryan Poehling",
+    "Name": "Ryan Poehling",
     "_1": "PHI",
     "_2": "C",
     "_3": "57",
@@ -6137,7 +6137,7 @@
     "_12": "28"
   },
   {
-    "": "Kaapo Kakko",
+    "Name": "Kaapo Kakko",
     "_1": "NYR",
     "_2": "RW",
     "_3": "62",
@@ -6156,7 +6156,7 @@
     "_12": "18"
   },
   {
-    "": "Erik Johnson",
+    "Name": "Erik Johnson",
     "_1": "PHI",
     "_2": "D",
     "_3": "97",
@@ -6175,7 +6175,7 @@
     "_12": "165"
   },
   {
-    "": "Nico Sturm",
+    "Name": "Nico Sturm",
     "_1": "SJ",
     "_2": "C",
     "_3": "87",
@@ -6194,7 +6194,7 @@
     "_12": "38"
   },
   {
-    "": "Torey Krug",
+    "Name": "Torey Krug",
     "_1": "STL",
     "_2": "D",
     "_3": "67",
@@ -6213,7 +6213,7 @@
     "_12": "74"
   },
   {
-    "": "Brandon Tanev",
+    "Name": "Brandon Tanev",
     "_1": "SEA",
     "_2": "LW",
     "_3": "30",
@@ -6232,7 +6232,7 @@
     "_12": "22"
   },
   {
-    "": "Kirby Dach",
+    "Name": "Kirby Dach",
     "_1": "MON",
     "_2": "C",
     "_3": "70",
@@ -6251,7 +6251,7 @@
     "_12": "44"
   },
   {
-    "": "Dougie Hamilton",
+    "Name": "Dougie Hamilton",
     "_1": "NJ",
     "_2": "D",
     "_3": "62",
@@ -6270,7 +6270,7 @@
     "_12": "92"
   },
   {
-    "": "Curtis Lazar",
+    "Name": "Curtis Lazar",
     "_1": "NJ",
     "_2": "C",
     "_3": "77",
@@ -6289,7 +6289,7 @@
     "_12": "57"
   },
   {
-    "": "K'Andre Miller",
+    "Name": "K'Andre Miller",
     "_1": "NYR",
     "_2": "D",
     "_3": "102",
@@ -6308,7 +6308,7 @@
     "_12": "124"
   },
   {
-    "": "Teddy Blueger",
+    "Name": "Teddy Blueger",
     "_1": "VAN",
     "_2": "C",
     "_3": "72",
@@ -6327,7 +6327,7 @@
     "_12": "34"
   },
   {
-    "": "Mikhail Sergachev",
+    "Name": "Mikhail Sergachev",
     "_1": "UTA",
     "_2": "D",
     "_3": "101",
@@ -6346,7 +6346,7 @@
     "_12": "165"
   },
   {
-    "": "Luke Glendening",
+    "Name": "Luke Glendening",
     "_1": "TB",
     "_2": "C",
     "_3": "88",
@@ -6365,7 +6365,7 @@
     "_12": "64"
   },
   {
-    "": "Connor McMichael",
+    "Name": "Connor McMichael",
     "_1": "WAS",
     "_2": "C",
     "_3": "72",
@@ -6384,7 +6384,7 @@
     "_12": "23"
   },
   {
-    "": "Anthony Mantha",
+    "Name": "Anthony Mantha",
     "_1": "CGY",
     "_2": "RW",
     "_3": "43",
@@ -6403,7 +6403,7 @@
     "_12": "22"
   },
   {
-    "": "Ivan Provorov",
+    "Name": "Ivan Provorov",
     "_1": "CLS",
     "_2": "D",
     "_3": "79",
@@ -6422,7 +6422,7 @@
     "_12": "172"
   },
   {
-    "": "Zach Sanford",
+    "Name": "Zach Sanford",
     "_1": "CHI",
     "_2": "LW",
     "_3": "80",
@@ -6441,7 +6441,7 @@
     "_12": "67"
   },
   {
-    "": "William Carrier",
+    "Name": "William Carrier",
     "_1": "CAR",
     "_2": "LW",
     "_3": "63",
@@ -6460,7 +6460,7 @@
     "_12": "24"
   },
   {
-    "": "Brendan Lemieux",
+    "Name": "Brendan Lemieux",
     "_1": "CAR",
     "_2": "LW",
     "_3": "57",
@@ -6479,7 +6479,7 @@
     "_12": "20"
   },
   {
-    "": "Mark Stone",
+    "Name": "Mark Stone",
     "_1": "VGK",
     "_2": "RW",
     "_3": "37",
@@ -6498,7 +6498,7 @@
     "_12": "24"
   },
   {
-    "": "Brett Howden",
+    "Name": "Brett Howden",
     "_1": "VGK",
     "_2": "C",
     "_3": "47",
@@ -6517,7 +6517,7 @@
     "_12": "36"
   },
   {
-    "": "Mattias Janmark",
+    "Name": "Mattias Janmark",
     "_1": "EDM",
     "_2": "C",
     "_3": "67",
@@ -6536,7 +6536,7 @@
     "_12": "28"
   },
   {
-    "": "Logan O'Connor",
+    "Name": "Logan O'Connor",
     "_1": "COL",
     "_2": "RW",
     "_3": "98",
@@ -6555,7 +6555,7 @@
     "_12": "66"
   },
   {
-    "": "Josh Manson",
+    "Name": "Josh Manson",
     "_1": "COL",
     "_2": "D",
     "_3": "87",
@@ -6574,7 +6574,7 @@
     "_12": "95"
   },
   {
-    "": "Tyler Motte",
+    "Name": "Tyler Motte",
     "_1": "DET",
     "_2": "C",
     "_3": "73",
@@ -6593,7 +6593,7 @@
     "_12": "70"
   },
   {
-    "": "Ben Chiarot",
+    "Name": "Ben Chiarot",
     "_1": "DET",
     "_2": "D",
     "_3": "84",
@@ -6612,7 +6612,7 @@
     "_12": "149"
   },
   {
-    "": "Derek Stepan",
+    "Name": "Derek Stepan",
     "_1": "FA",
     "_2": "C",
     "_3": "61",
@@ -6631,7 +6631,7 @@
     "_12": "25"
   },
   {
-    "": "Victor Rask",
+    "Name": "Victor Rask",
     "_1": "FA",
     "_2": "C",
     "_3": "47",
@@ -6650,7 +6650,7 @@
     "_12": "5"
   },
   {
-    "": "Nick Cousins",
+    "Name": "Nick Cousins",
     "_1": "FA",
     "_2": "C",
     "_3": "71",
@@ -6669,7 +6669,7 @@
     "_12": "30"
   },
   {
-    "": "Dustin Brown",
+    "Name": "Dustin Brown",
     "_1": "FA",
     "_2": "RW",
     "_3": "71",
@@ -6688,7 +6688,7 @@
     "_12": "23"
   },
   {
-    "": "Darren Helm",
+    "Name": "Darren Helm",
     "_1": "FA",
     "_2": "C",
     "_3": "88",
@@ -6707,7 +6707,7 @@
     "_12": "34"
   },
   {
-    "": "Cam Fowler",
+    "Name": "Cam Fowler",
     "_1": "ANH",
     "_2": "D",
     "_3": "76",
@@ -6726,7 +6726,7 @@
     "_12": "116"
   },
   {
-    "": "Michael Raffl",
+    "Name": "Michael Raffl",
     "_1": "FA",
     "_2": "LW",
     "_3": "83",
@@ -6745,7 +6745,7 @@
     "_12": "40"
   },
   {
-    "": "Steven Lorentz",
+    "Name": "Steven Lorentz",
     "_1": "FA",
     "_2": "C",
     "_3": "72",
@@ -6764,7 +6764,7 @@
     "_12": "14"
   },
   {
-    "": "Anton Stralman",
+    "Name": "Anton Stralman",
     "_1": "FA",
     "_2": "D",
     "_3": "74",
@@ -6783,7 +6783,7 @@
     "_12": "100"
   },
   {
-    "": "Phil Kessel",
+    "Name": "Phil Kessel",
     "_1": "FA",
     "_2": "RW",
     "_3": "82",
@@ -6802,7 +6802,7 @@
     "_12": "21"
   },
   {
-    "": "Mark Giordano",
+    "Name": "Mark Giordano",
     "_1": "FA",
     "_2": "D",
     "_3": "82",
@@ -6821,7 +6821,7 @@
     "_12": "151"
   },
   {
-    "": "Kevin Shattenkirk",
+    "Name": "Kevin Shattenkirk",
     "_1": "FA",
     "_2": "D",
     "_3": "82",
@@ -6840,7 +6840,7 @@
     "_12": "135"
   },
   {
-    "": "Tyler Ennis",
+    "Name": "Tyler Ennis",
     "_1": "FA",
     "_2": "LW",
     "_3": "57",
@@ -6859,7 +6859,7 @@
     "_12": "24"
   },
   {
-    "": "Derick Brassard",
+    "Name": "Derick Brassard",
     "_1": "FA",
     "_2": "C",
     "_3": "47",
@@ -6878,7 +6878,7 @@
     "_12": "6"
   },
   {
-    "": "Zack Kassian",
+    "Name": "Zack Kassian",
     "_1": "FA",
     "_2": "RW",
     "_3": "74",
@@ -6897,7 +6897,7 @@
     "_12": "6"
   },
   {
-    "": "Tyson Barrie",
+    "Name": "Tyson Barrie",
     "_1": "FA",
     "_2": "D",
     "_3": "89",
@@ -6916,7 +6916,7 @@
     "_12": "94"
   },
   {
-    "": "Joe Veleno",
+    "Name": "Joe Veleno",
     "_1": "DET",
     "_2": "C",
     "_3": "66",
@@ -6935,7 +6935,7 @@
     "_12": "25"
   },
   {
-    "": "Matt Dumba",
+    "Name": "Matt Dumba",
     "_1": "DAL",
     "_2": "D",
     "_3": "63",
@@ -6954,7 +6954,7 @@
     "_12": "93"
   },
   {
-    "": "Rasmus Asplund",
+    "Name": "Rasmus Asplund",
     "_1": "FLA",
     "_2": "C",
     "_3": "80",
@@ -6973,7 +6973,7 @@
     "_12": "14"
   },
   {
-    "": "Trevor Lewis",
+    "Name": "Trevor Lewis",
     "_1": "LA",
     "_2": "C",
     "_3": "92",
@@ -6992,7 +6992,7 @@
     "_12": "46"
   },
   {
-    "": "Zach Whitecloud",
+    "Name": "Zach Whitecloud",
     "_1": "VGK",
     "_2": "D",
     "_3": "59",
@@ -7011,7 +7011,7 @@
     "_12": "115"
   },
   {
-    "": "Jason Zucker",
+    "Name": "Jason Zucker",
     "_1": "BUF",
     "_2": "LW",
     "_3": "46",
@@ -7030,7 +7030,7 @@
     "_12": "22"
   },
   {
-    "": "Trent Frederic",
+    "Name": "Trent Frederic",
     "_1": "BOS",
     "_2": "C",
     "_3": "64",
@@ -7049,7 +7049,7 @@
     "_12": "23"
   },
   {
-    "": "Sean Monahan",
+    "Name": "Sean Monahan",
     "_1": "CLS",
     "_2": "C",
     "_3": "65",
@@ -7068,7 +7068,7 @@
     "_12": "24"
   },
   {
-    "": "MacKenzie Weegar",
+    "Name": "MacKenzie Weegar",
     "_1": "CGY",
     "_2": "D",
     "_3": "90",
@@ -7087,7 +7087,7 @@
     "_12": "164"
   },
   {
-    "": "Tyson Jost",
+    "Name": "Tyson Jost",
     "_1": "CAR",
     "_2": "C",
     "_3": "86",
@@ -7106,7 +7106,7 @@
     "_12": "39"
   },
   {
-    "": "Martin Fehervary",
+    "Name": "Martin Fehervary",
     "_1": "WAS",
     "_2": "D",
     "_3": "85",
@@ -7125,7 +7125,7 @@
     "_12": "123"
   },
   {
-    "": "Mason Appleton",
+    "Name": "Mason Appleton",
     "_1": "WPG",
     "_2": "C",
     "_3": "68",
@@ -7144,7 +7144,7 @@
     "_12": "20"
   },
   {
-    "": "Nicklas Backstrom",
+    "Name": "Nicklas Backstrom",
     "_1": "WAS",
     "_2": "C",
     "_3": "53",
@@ -7163,7 +7163,7 @@
     "_12": "19"
   },
   {
-    "": "Quinn Hughes",
+    "Name": "Quinn Hughes",
     "_1": "VAN",
     "_2": "D",
     "_3": "76",
@@ -7182,7 +7182,7 @@
     "_12": "56"
   },
   {
-    "": "Jimmy Vesey",
+    "Name": "Jimmy Vesey",
     "_1": "NYR",
     "_2": "LW",
     "_3": "68",
@@ -7201,7 +7201,7 @@
     "_12": "29"
   },
   {
-    "": "Brett Pesce",
+    "Name": "Brett Pesce",
     "_1": "NJ",
     "_2": "D",
     "_3": "84",
@@ -7220,7 +7220,7 @@
     "_12": "133"
   },
   {
-    "": "Nathan Walker",
+    "Name": "Nathan Walker",
     "_1": "STL",
     "_2": "C",
     "_3": "34",
@@ -7239,7 +7239,7 @@
     "_12": "26"
   },
   {
-    "": "Oskar Sundqvist",
+    "Name": "Oskar Sundqvist",
     "_1": "STL",
     "_2": "C",
     "_3": "59",
@@ -7258,7 +7258,7 @@
     "_12": "29"
   },
   {
-    "": "Colton Parayko",
+    "Name": "Colton Parayko",
     "_1": "STL",
     "_2": "D",
     "_3": "92",
@@ -7277,7 +7277,7 @@
     "_12": "195"
   },
   {
-    "": "Jaden Schwartz",
+    "Name": "Jaden Schwartz",
     "_1": "SEA",
     "_2": "LW",
     "_3": "37",
@@ -7296,7 +7296,7 @@
     "_12": "13"
   },
   {
-    "": "Adam Larsson",
+    "Name": "Adam Larsson",
     "_1": "SEA",
     "_2": "D",
     "_3": "82",
@@ -7315,7 +7315,7 @@
     "_12": "140"
   },
   {
-    "": "Nicolas Deslauriers",
+    "Name": "Nicolas Deslauriers",
     "_1": "PHI",
     "_2": "LW",
     "_3": "86",
@@ -7334,7 +7334,7 @@
     "_12": "51"
   },
   {
-    "": "Noah Gregor",
+    "Name": "Noah Gregor",
     "_1": "OTT",
     "_2": "C",
     "_3": "63",
@@ -7353,7 +7353,7 @@
     "_12": "49"
   },
   {
-    "": "Thomas Chabot",
+    "Name": "Thomas Chabot",
     "_1": "OTT",
     "_2": "D",
     "_3": "59",
@@ -7372,7 +7372,7 @@
     "_12": "93"
   },
   {
-    "": "Travis Sanheim",
+    "Name": "Travis Sanheim",
     "_1": "PHI",
     "_2": "D",
     "_3": "80",
@@ -7391,7 +7391,7 @@
     "_12": "142"
   },
   {
-    "": "Vince Dunn",
+    "Name": "Vince Dunn",
     "_1": "SEA",
     "_2": "D",
     "_3": "73",
@@ -7410,7 +7410,7 @@
     "_12": "82"
   },
   {
-    "": "Colton Sissons",
+    "Name": "Colton Sissons",
     "_1": "NSH",
     "_2": "RW",
     "_3": "83",
@@ -7429,7 +7429,7 @@
     "_12": "46"
   },
   {
-    "": "Michael McCarron",
+    "Name": "Michael McCarron",
     "_1": "NSH",
     "_2": "C",
     "_3": "53",
@@ -7448,7 +7448,7 @@
     "_12": "31"
   },
   {
-    "": "Brendan Gallagher",
+    "Name": "Brendan Gallagher",
     "_1": "MON",
     "_2": "RW",
     "_3": "56",
@@ -7467,7 +7467,7 @@
     "_12": "29"
   },
   {
-    "": "Jakob Chychrun",
+    "Name": "Jakob Chychrun",
     "_1": "WAS",
     "_2": "D",
     "_3": "47",
@@ -7486,7 +7486,7 @@
     "_12": "66"
   },
   {
-    "": "Dominic Toninato",
+    "Name": "Dominic Toninato",
     "_1": "WPG",
     "_2": "LW",
     "_3": "77",
@@ -7505,7 +7505,7 @@
     "_12": "32"
   },
   {
-    "": "Nick Bjugstad",
+    "Name": "Nick Bjugstad",
     "_1": "UTA",
     "_2": "C",
     "_3": "57",
@@ -7524,7 +7524,7 @@
     "_12": "14"
   },
   {
-    "": "Rasmus Andersson",
+    "Name": "Rasmus Andersson",
     "_1": "CGY",
     "_2": "D",
     "_3": "94",
@@ -7543,7 +7543,7 @@
     "_12": "137"
   },
   {
-    "": "Jake Bean",
+    "Name": "Jake Bean",
     "_1": "CGY",
     "_2": "D",
     "_3": "67",
@@ -7562,7 +7562,7 @@
     "_12": "71"
   },
   {
-    "": "Morgan Geekie",
+    "Name": "Morgan Geekie",
     "_1": "BOS",
     "_2": "C",
     "_3": "73",
@@ -7581,7 +7581,7 @@
     "_12": "23"
   },
   {
-    "": "Jansen Harkins",
+    "Name": "Jansen Harkins",
     "_1": "ANH",
     "_2": "C",
     "_3": "77",
@@ -7600,7 +7600,7 @@
     "_12": "18"
   },
   {
-    "": "Peyton Krebs",
+    "Name": "Peyton Krebs",
     "_1": "BUF",
     "_2": "C",
     "_3": "57",
@@ -7619,7 +7619,7 @@
     "_12": "8"
   },
   {
-    "": "Drew Doughty",
+    "Name": "Drew Doughty",
     "_1": "LA",
     "_2": "D",
     "_3": "39",
@@ -7638,7 +7638,7 @@
     "_12": "53"
   },
   {
-    "": "Keegan Kolesar",
+    "Name": "Keegan Kolesar",
     "_1": "VGK",
     "_2": "RW",
     "_3": "77",
@@ -7657,7 +7657,7 @@
     "_12": "46"
   },
   {
-    "": "Dmitry Kulikov",
+    "Name": "Dmitry Kulikov",
     "_1": "FLA",
     "_2": "D",
     "_3": "82",
@@ -7676,7 +7676,7 @@
     "_12": "103"
   },
   {
-    "": "Parker Kelly",
+    "Name": "Parker Kelly",
     "_1": "COL",
     "_2": "C",
     "_3": "41",
@@ -7695,7 +7695,7 @@
     "_12": "30"
   },
   {
-    "": "Yegor Chinakhov",
+    "Name": "Yegor Chinakhov",
     "_1": "CLS",
     "_2": "RW",
     "_3": "62",
@@ -7714,7 +7714,7 @@
     "_12": "16"
   },
   {
-    "": "Moritz Seider",
+    "Name": "Moritz Seider",
     "_1": "DET",
     "_2": "D",
     "_3": "82",
@@ -7733,7 +7733,7 @@
     "_12": "161"
   },
   {
-    "": "Johan Larsson",
+    "Name": "Johan Larsson",
     "_1": "FA",
     "_2": "C",
     "_3": "49",
@@ -7752,7 +7752,7 @@
     "_12": "27"
   },
   {
-    "": "Andrew Ladd",
+    "Name": "Andrew Ladd",
     "_1": "FA",
     "_2": "LW",
     "_3": "51",
@@ -7771,7 +7771,7 @@
     "_12": "33"
   },
   {
-    "": "Ryan Suter",
+    "Name": "Ryan Suter",
     "_1": "FA",
     "_2": "D",
     "_3": "89",
@@ -7790,7 +7790,7 @@
     "_12": "99"
   },
   {
-    "": "Andrew Cogliano",
+    "Name": "Andrew Cogliano",
     "_1": "FA",
     "_2": "LW",
     "_3": "90",
@@ -7809,7 +7809,7 @@
     "_12": "43"
   },
   {
-    "": "Maxim Mamin",
+    "Name": "Maxim Mamin",
     "_1": "FA",
     "_2": "LW",
     "_3": "44",
@@ -7828,7 +7828,7 @@
     "_12": "17"
   },
   {
-    "": "Evgeny Svechnikov",
+    "Name": "Evgeny Svechnikov",
     "_1": "FA",
     "_2": "LW",
     "_3": "72",
@@ -7847,7 +7847,7 @@
     "_12": "22"
   },
   {
-    "": "Juho Lammikko",
+    "Name": "Juho Lammikko",
     "_1": "FA",
     "_2": "RW",
     "_3": "75",
@@ -7866,7 +7866,7 @@
     "_12": "46"
   },
   {
-    "": "Scott Reedy",
+    "Name": "Scott Reedy",
     "_1": "FA",
     "_2": "C",
     "_3": "35",
@@ -7885,7 +7885,7 @@
     "_12": "26"
   },
   {
-    "": "Max Comtois",
+    "Name": "Max Comtois",
     "_1": "FA",
     "_2": "LW",
     "_3": "52",
@@ -7904,7 +7904,7 @@
     "_12": "17"
   },
   {
-    "": "Janne Kuokkanen",
+    "Name": "Janne Kuokkanen",
     "_1": "FA",
     "_2": "LW",
     "_3": "57",
@@ -7923,7 +7923,7 @@
     "_12": "22"
   },
   {
-    "": "Michael McLeod",
+    "Name": "Michael McLeod",
     "_1": "FA",
     "_2": "C",
     "_3": "77",
@@ -7942,7 +7942,7 @@
     "_12": "34"
   },
   {
-    "": "Kieffer Bellows",
+    "Name": "Kieffer Bellows",
     "_1": "FA",
     "_2": "LW",
     "_3": "45",
@@ -7961,7 +7961,7 @@
     "_12": "14"
   },
   {
-    "": "Adam Erne",
+    "Name": "Adam Erne",
     "_1": "FA",
     "_2": "RW",
     "_3": "79",
@@ -7980,7 +7980,7 @@
     "_12": "43"
   },
   {
-    "": "Cal Clutterbuck",
+    "Name": "Cal Clutterbuck",
     "_1": "FA",
     "_2": "RW",
     "_3": "59",
@@ -7999,7 +7999,7 @@
     "_12": "23"
   },
   {
-    "": "Jakub Voracek",
+    "Name": "Jakub Voracek",
     "_1": "FA",
     "_2": "LW",
     "_3": "79",
@@ -8018,7 +8018,7 @@
     "_12": "28"
   },
   {
-    "": "John Klingberg",
+    "Name": "John Klingberg",
     "_1": "FA",
     "_2": "D",
     "_3": "81",
@@ -8037,7 +8037,7 @@
     "_12": "88"
   },
   {
-    "": "Justin Braun",
+    "Name": "Justin Braun",
     "_1": "FA",
     "_2": "D",
     "_3": "88",
@@ -8056,7 +8056,7 @@
     "_12": "141"
   },
   {
-    "": "Alex Galchenyuk",
+    "Name": "Alex Galchenyuk",
     "_1": "FA",
     "_2": "RW",
     "_3": "60",
@@ -8075,7 +8075,7 @@
     "_12": "24"
   },
   {
-    "": "Chris Tierney",
+    "Name": "Chris Tierney",
     "_1": "FA",
     "_2": "C",
     "_3": "70",
@@ -8094,7 +8094,7 @@
     "_12": "30"
   },
   {
-    "": "Cody Ceci",
+    "Name": "Cody Ceci",
     "_1": "EDM",
     "_2": "D",
     "_3": "94",
@@ -8113,7 +8113,7 @@
     "_12": "148"
   },
   {
-    "": "Mattias Ekholm",
+    "Name": "Mattias Ekholm",
     "_1": "EDM",
     "_2": "D",
     "_3": "80",
@@ -8132,7 +8132,7 @@
     "_12": "104"
   },
   {
-    "": "Sam Steel",
+    "Name": "Sam Steel",
     "_1": "DAL",
     "_2": "C",
     "_3": "68",
@@ -8151,7 +8151,7 @@
     "_12": "27"
   },
   {
-    "": "Miro Heiskanen",
+    "Name": "Miro Heiskanen",
     "_1": "DAL",
     "_2": "D",
     "_3": "77",
@@ -8170,7 +8170,7 @@
     "_12": "107"
   },
   {
-    "": "Jeff Petry",
+    "Name": "Jeff Petry",
     "_1": "DET",
     "_2": "D",
     "_3": "68",
@@ -8189,7 +8189,7 @@
     "_12": "117"
   },
   {
-    "": "Jonathan Drouin",
+    "Name": "Jonathan Drouin",
     "_1": "COL",
     "_2": "C",
     "_3": "34",
@@ -8208,7 +8208,7 @@
     "_12": "11"
   },
   {
-    "": "Samuel Girard",
+    "Name": "Samuel Girard",
     "_1": "COL",
     "_2": "D",
     "_3": "74",
@@ -8227,7 +8227,7 @@
     "_12": "106"
   },
   {
-    "": "Casey Mittelstadt",
+    "Name": "Casey Mittelstadt",
     "_1": "COL",
     "_2": "C",
     "_3": "40",
@@ -8246,7 +8246,7 @@
     "_12": "12"
   },
   {
-    "": "Jordan Martinook",
+    "Name": "Jordan Martinook",
     "_1": "CAR",
     "_2": "LW",
     "_3": "65",
@@ -8265,7 +8265,7 @@
     "_12": "13"
   },
   {
-    "": "Jaccob Slavin",
+    "Name": "Jaccob Slavin",
     "_1": "CAR",
     "_2": "D",
     "_3": "93",
@@ -8284,7 +8284,7 @@
     "_12": "144"
   },
   {
-    "": "Brandon Carlo",
+    "Name": "Brandon Carlo",
     "_1": "BOS",
     "_2": "D",
     "_3": "86",
@@ -8303,7 +8303,7 @@
     "_12": "120"
   },
   {
-    "": "Dryden Hunt",
+    "Name": "Dryden Hunt",
     "_1": "CGY",
     "_2": "LW",
     "_3": "79",
@@ -8322,7 +8322,7 @@
     "_12": "17"
   },
   {
-    "": "Kevin Rooney",
+    "Name": "Kevin Rooney",
     "_1": "CGY",
     "_2": "C",
     "_3": "76",
@@ -8341,7 +8341,7 @@
     "_12": "60"
   },
   {
-    "": "Erik Gudbranson",
+    "Name": "Erik Gudbranson",
     "_1": "CLS",
     "_2": "D",
     "_3": "90",
@@ -8360,7 +8360,7 @@
     "_12": "105"
   },
   {
-    "": "Philipp Kurashev",
+    "Name": "Philipp Kurashev",
     "_1": "CHI",
     "_2": "LW",
     "_3": "67",
@@ -8379,7 +8379,7 @@
     "_12": "30"
   },
   {
-    "": "Chris Tanev",
+    "Name": "Chris Tanev",
     "_1": "TOR",
     "_2": "D",
     "_3": "90",
@@ -8398,7 +8398,7 @@
     "_12": "174"
   },
   {
-    "": "Brandon Duhaime",
+    "Name": "Brandon Duhaime",
     "_1": "WAS",
     "_2": "LW",
     "_3": "86",
@@ -8417,7 +8417,7 @@
     "_12": "20"
   },
   {
-    "": "Joel Armia",
+    "Name": "Joel Armia",
     "_1": "MON",
     "_2": "RW",
     "_3": "60",
@@ -8436,7 +8436,7 @@
     "_12": "27"
   },
   {
-    "": "Jonas Brodin",
+    "Name": "Jonas Brodin",
     "_1": "MIN",
     "_2": "D",
     "_3": "79",
@@ -8455,7 +8455,7 @@
     "_12": "134"
   },
   {
-    "": "Ryan Lindgren",
+    "Name": "Ryan Lindgren",
     "_1": "NYR",
     "_2": "D",
     "_3": "95",
@@ -8474,7 +8474,7 @@
     "_12": "182"
   },
   {
-    "": "Radek Faksa",
+    "Name": "Radek Faksa",
     "_1": "STL",
     "_2": "C",
     "_3": "84",
@@ -8493,7 +8493,7 @@
     "_12": "79"
   },
   {
-    "": "Emil Bemstrom",
+    "Name": "Emil Bemstrom",
     "_1": "PIT",
     "_2": "C",
     "_3": "41",
@@ -8512,7 +8512,7 @@
     "_12": "6"
   },
   {
-    "": "Ryan Graves",
+    "Name": "Ryan Graves",
     "_1": "PIT",
     "_2": "D",
     "_3": "75",
@@ -8531,7 +8531,7 @@
     "_12": "135"
   },
   {
-    "": "Matt Nieto",
+    "Name": "Matt Nieto",
     "_1": "PIT",
     "_2": "LW",
     "_3": "70",
@@ -8550,7 +8550,7 @@
     "_12": "47"
   },
   {
-    "": "Artem Zub",
+    "Name": "Artem Zub",
     "_1": "OTT",
     "_2": "D",
     "_3": "81",
@@ -8569,7 +8569,7 @@
     "_12": "124"
   },
   {
-    "": "Sean Couturier",
+    "Name": "Sean Couturier",
     "_1": "PHI",
     "_2": "C",
     "_3": "29",
@@ -8588,7 +8588,7 @@
     "_12": "18"
   },
   {
-    "": "Nick Jensen",
+    "Name": "Nick Jensen",
     "_1": "OTT",
     "_2": "D",
     "_3": "82",
@@ -8607,7 +8607,7 @@
     "_12": "102"
   },
   {
-    "": "Adam Gaudette",
+    "Name": "Adam Gaudette",
     "_1": "OTT",
     "_2": "C",
     "_3": "58",
@@ -8626,7 +8626,7 @@
     "_12": "10"
   },
   {
-    "": "Morgan Frost",
+    "Name": "Morgan Frost",
     "_1": "PHI",
     "_2": "C",
     "_3": "55",
@@ -8645,7 +8645,7 @@
     "_12": "29"
   },
   {
-    "": "Noah Cates",
+    "Name": "Noah Cates",
     "_1": "PHI",
     "_2": "LW",
     "_3": "16",
@@ -8664,7 +8664,7 @@
     "_12": "6"
   },
   {
-    "": "Matthew Highmore",
+    "Name": "Matthew Highmore",
     "_1": "OTT",
     "_2": "C",
     "_3": "46",
@@ -8683,7 +8683,7 @@
     "_12": "38"
   },
   {
-    "": "Ryan Pulock",
+    "Name": "Ryan Pulock",
     "_1": "NYI",
     "_2": "D",
     "_3": "56",
@@ -8702,7 +8702,7 @@
     "_12": "130"
   },
   {
-    "": "Brendan Gaunce",
+    "Name": "Brendan Gaunce",
     "_1": "MIN",
     "_2": "C",
     "_3": "30",
@@ -8721,7 +8721,7 @@
     "_12": "9"
   },
   {
-    "": "Devin Shore",
+    "Name": "Devin Shore",
     "_1": "MIN",
     "_2": "C",
     "_3": "49",
@@ -8740,7 +8740,7 @@
     "_12": "21"
   },
   {
-    "": "Vladislav Gavrikov",
+    "Name": "Vladislav Gavrikov",
     "_1": "LA",
     "_2": "D",
     "_3": "80",
@@ -8759,7 +8759,7 @@
     "_12": "138"
   },
   {
-    "": "Quinton Byfield",
+    "Name": "Quinton Byfield",
     "_1": "LA",
     "_2": "C",
     "_3": "42",
@@ -8778,7 +8778,7 @@
     "_12": "11"
   },
   {
-    "": "Michael Pezzetta",
+    "Name": "Michael Pezzetta",
     "_1": "MON",
     "_2": "C",
     "_3": "51",
@@ -8797,7 +8797,7 @@
     "_12": "8"
   },
   {
-    "": "Luke Schenn",
+    "Name": "Luke Schenn",
     "_1": "NSH",
     "_2": "D",
     "_3": "66",
@@ -8816,7 +8816,7 @@
     "_12": "96"
   },
   {
-    "": "Rasmus Sandin",
+    "Name": "Rasmus Sandin",
     "_1": "WAS",
     "_2": "D",
     "_3": "51",
@@ -8835,7 +8835,7 @@
     "_12": "39"
   },
   {
-    "": "Ethan Bear",
+    "Name": "Ethan Bear",
     "_1": "WAS",
     "_2": "D",
     "_3": "58",
@@ -8854,7 +8854,7 @@
     "_12": "41"
   },
   {
-    "": "Filip Hronek",
+    "Name": "Filip Hronek",
     "_1": "VAN",
     "_2": "D",
     "_3": "78",
@@ -8873,7 +8873,7 @@
     "_12": "81"
   },
   {
-    "": "Rasmus Kupari",
+    "Name": "Rasmus Kupari",
     "_1": "WPG",
     "_2": "C",
     "_3": "62",
@@ -8892,7 +8892,7 @@
     "_12": "18"
   },
   {
-    "": "Gabriel Vilardi",
+    "Name": "Gabriel Vilardi",
     "_1": "WPG",
     "_2": "C",
     "_3": "27",
@@ -8911,7 +8911,7 @@
     "_12": "9"
   },
   {
-    "": "Timothy Liljegren",
+    "Name": "Timothy Liljegren",
     "_1": "TOR",
     "_2": "D",
     "_3": "63",
@@ -8930,7 +8930,7 @@
     "_12": "60"
   },
   {
-    "": "Oliver Ekman-Larsson",
+    "Name": "Oliver Ekman-Larsson",
     "_1": "TOR",
     "_2": "D",
     "_3": "79",
@@ -8949,7 +8949,7 @@
     "_12": "79"
   },
   {
-    "": "Ryan Reaves",
+    "Name": "Ryan Reaves",
     "_1": "TOR",
     "_2": "RW",
     "_3": "87",
@@ -8968,7 +8968,7 @@
     "_12": "22"
   },
   {
-    "": "Ryan McDonagh",
+    "Name": "Ryan McDonagh",
     "_1": "TB",
     "_2": "D",
     "_3": "94",
@@ -8987,7 +8987,7 @@
     "_12": "206"
   },
   {
-    "": "Derek Forbort",
+    "Name": "Derek Forbort",
     "_1": "VAN",
     "_2": "D",
     "_3": "83",
@@ -9006,7 +9006,7 @@
     "_12": "118"
   },
   {
-    "": "Seth Jones",
+    "Name": "Seth Jones",
     "_1": "CHI",
     "_2": "D",
     "_3": "78",
@@ -9025,7 +9025,7 @@
     "_12": "155"
   },
   {
-    "": "Jason Dickinson",
+    "Name": "Jason Dickinson",
     "_1": "CHI",
     "_2": "C",
     "_3": "62",
@@ -9044,7 +9044,7 @@
     "_12": "43"
   },
   {
-    "": "Ty Smith",
+    "Name": "Ty Smith",
     "_1": "CAR",
     "_2": "D",
     "_3": "66",
@@ -9063,7 +9063,7 @@
     "_12": "73"
   },
   {
-    "": "Vinni Lettieri",
+    "Name": "Vinni Lettieri",
     "_1": "BOS",
     "_2": "C",
     "_3": "31",
@@ -9082,7 +9082,7 @@
     "_12": "17"
   },
   {
-    "": "Hampus Lindholm",
+    "Name": "Hampus Lindholm",
     "_1": "BOS",
     "_2": "D",
     "_3": "75",
@@ -9101,7 +9101,7 @@
     "_12": "99"
   },
   {
-    "": "Sam Lafferty",
+    "Name": "Sam Lafferty",
     "_1": "BUF",
     "_2": "RW",
     "_3": "56",
@@ -9120,7 +9120,7 @@
     "_12": "26"
   },
   {
-    "": "Bowen Byram",
+    "Name": "Bowen Byram",
     "_1": "BUF",
     "_2": "D",
     "_3": "50",
@@ -9139,7 +9139,7 @@
     "_12": "42"
   },
   {
-    "": "Brendan Smith",
+    "Name": "Brendan Smith",
     "_1": "DAL",
     "_2": "D",
     "_3": "59",
@@ -9158,7 +9158,7 @@
     "_12": "46"
   },
   {
-    "": "Brett Kulak",
+    "Name": "Brett Kulak",
     "_1": "EDM",
     "_2": "D",
     "_3": "90",
@@ -9177,7 +9177,7 @@
     "_12": "85"
   },
   {
-    "": "Christian Fischer",
+    "Name": "Christian Fischer",
     "_1": "DET",
     "_2": "RW",
     "_3": "53",
@@ -9196,7 +9196,7 @@
     "_12": "22"
   },
   {
-    "": "Mackenzie Entwistle",
+    "Name": "Mackenzie Entwistle",
     "_1": "FLA",
     "_2": "RW",
     "_3": "55",
@@ -9215,7 +9215,7 @@
     "_12": "22"
   },
   {
-    "": "Zach Aston-Reese",
+    "Name": "Zach Aston-Reese",
     "_1": "VGK",
     "_2": "C",
     "_3": "69",
@@ -9234,7 +9234,7 @@
     "_12": "42"
   },
   {
-    "": "Justin Schultz",
+    "Name": "Justin Schultz",
     "_1": "FA",
     "_2": "D",
     "_3": "80",
@@ -9253,7 +9253,7 @@
     "_12": "92"
   },
   {
-    "": "Ryan Dzingel",
+    "Name": "Ryan Dzingel",
     "_1": "FA",
     "_2": "C",
     "_3": "32",
@@ -9272,7 +9272,7 @@
     "_12": "9"
   },
   {
-    "": "Jakob Silfverberg",
+    "Name": "Jakob Silfverberg",
     "_1": "FA",
     "_2": "RW",
     "_3": "53",
@@ -9291,7 +9291,7 @@
     "_12": "40"
   },
   {
-    "": "Brett Ritchie",
+    "Name": "Brett Ritchie",
     "_1": "FA",
     "_2": "RW",
     "_3": "48",
@@ -9310,7 +9310,7 @@
     "_12": "5"
   },
   {
-    "": "P.K. Subban",
+    "Name": "P.K. Subban",
     "_1": "FA",
     "_2": "D",
     "_3": "77",
@@ -9329,7 +9329,7 @@
     "_12": "90"
   },
   {
-    "": "Wayne Simmonds",
+    "Name": "Wayne Simmonds",
     "_1": "FA",
     "_2": "RW",
     "_3": "74",
@@ -9348,7 +9348,7 @@
     "_12": "11"
   },
   {
-    "": "Tyler Bozak",
+    "Name": "Tyler Bozak",
     "_1": "FA",
     "_2": "C",
     "_3": "62",
@@ -9367,7 +9367,7 @@
     "_12": "24"
   },
   {
-    "": "Nick Holden",
+    "Name": "Nick Holden",
     "_1": "FA",
     "_2": "D",
     "_3": "76",
@@ -9386,7 +9386,7 @@
     "_12": "112"
   },
   {
-    "": "Jake Muzzin",
+    "Name": "Jake Muzzin",
     "_1": "FA",
     "_2": "D",
     "_3": "54",
@@ -9405,7 +9405,7 @@
     "_12": "76"
   },
   {
-    "": "Joe Thornton",
+    "Name": "Joe Thornton",
     "_1": "FA",
     "_2": "C",
     "_3": "35",
@@ -9424,7 +9424,7 @@
     "_12": "10"
   },
   {
-    "": "Anders Bjork",
+    "Name": "Anders Bjork",
     "_1": "FA",
     "_2": "LW",
     "_3": "58",
@@ -9443,7 +9443,7 @@
     "_12": "16"
   },
   {
-    "": "Caleb Jones",
+    "Name": "Caleb Jones",
     "_1": "FA",
     "_2": "D",
     "_3": "51",
@@ -9462,7 +9462,7 @@
     "_12": "58"
   },
   {
-    "": "Adam Ruzicka",
+    "Name": "Adam Ruzicka",
     "_1": "FA",
     "_2": "C",
     "_3": "28",
@@ -9481,7 +9481,7 @@
     "_12": "8"
   },
   {
-    "": "Jasper Weatherby",
+    "Name": "Jasper Weatherby",
     "_1": "FA",
     "_2": "C",
     "_3": "50",
@@ -9500,7 +9500,7 @@
     "_12": "24"
   },
   {
-    "": "Logan Brown",
+    "Name": "Logan Brown",
     "_1": "FA",
     "_2": "C",
     "_3": "39",
@@ -9519,7 +9519,7 @@
     "_12": "13"
   },
   {
-    "": "Brendan Perlini",
+    "Name": "Brendan Perlini",
     "_1": "FA",
     "_2": "LW",
     "_3": "23",
@@ -9538,7 +9538,7 @@
     "_12": "3"
   },
   {
-    "": "Laurent Dauphin",
+    "Name": "Laurent Dauphin",
     "_1": "FA",
     "_2": "C",
     "_3": "38",
@@ -9557,7 +9557,7 @@
     "_12": "27"
   },
   {
-    "": "Chad Ruhwedel",
+    "Name": "Chad Ruhwedel",
     "_1": "FA",
     "_2": "D",
     "_3": "85",
@@ -9576,7 +9576,7 @@
     "_12": "96"
   },
   {
-    "": "Carter Rowney",
+    "Name": "Carter Rowney",
     "_1": "FA",
     "_2": "C",
     "_3": "26",
@@ -9595,7 +9595,7 @@
     "_12": "20"
   },
   {
-    "": "Alexander Radulov",
+    "Name": "Alexander Radulov",
     "_1": "FA",
     "_2": "RW",
     "_3": "74",
@@ -9614,7 +9614,7 @@
     "_12": "50"
   },
   {
-    "": "Brad Richardson",
+    "Name": "Brad Richardson",
     "_1": "FA",
     "_2": "C",
     "_3": "44",
@@ -9633,7 +9633,7 @@
     "_12": "20"
   },
   {
-    "": "Cody Eakin",
+    "Name": "Cody Eakin",
     "_1": "FA",
     "_2": "C",
     "_3": "69",
@@ -9652,7 +9652,7 @@
     "_12": "29"
   },
   {
-    "": "Paul Byron",
+    "Name": "Paul Byron",
     "_1": "FA",
     "_2": "C",
     "_3": "27",
@@ -9671,7 +9671,7 @@
     "_12": "7"
   },
   {
-    "": "Mathieu Perreault",
+    "Name": "Mathieu Perreault",
     "_1": "FA",
     "_2": "C",
     "_3": "25",
@@ -9690,7 +9690,7 @@
     "_12": "11"
   },
   {
-    "": "Michael Stone",
+    "Name": "Michael Stone",
     "_1": "FA",
     "_2": "D",
     "_3": "20",
@@ -9709,7 +9709,7 @@
     "_12": "22"
   },
   {
-    "": "Riley Sheahan",
+    "Name": "Riley Sheahan",
     "_1": "FA",
     "_2": "C",
     "_3": "69",
@@ -9728,7 +9728,7 @@
     "_12": "28"
   },
   {
-    "": "Antoine Roussel",
+    "Name": "Antoine Roussel",
     "_1": "FA",
     "_2": "LW",
     "_3": "53",
@@ -9747,7 +9747,7 @@
     "_12": "34"
   },
   {
-    "": "Chris Wideman",
+    "Name": "Chris Wideman",
     "_1": "FA",
     "_2": "D",
     "_3": "64",
@@ -9766,7 +9766,7 @@
     "_12": "46"
   },
   {
-    "": "Nicolas Hague",
+    "Name": "Nicolas Hague",
     "_1": "VGK",
     "_2": "D",
     "_3": "52",
@@ -9785,7 +9785,7 @@
     "_12": "80"
   },
   {
-    "": "Dysin Mayo",
+    "Name": "Dysin Mayo",
     "_1": "VGK",
     "_2": "D",
     "_3": "67",
@@ -9804,7 +9804,7 @@
     "_12": "133"
   },
   {
-    "": "Nate Schmidt",
+    "Name": "Nate Schmidt",
     "_1": "FLA",
     "_2": "D",
     "_3": "77",
@@ -9823,7 +9823,7 @@
     "_12": "104"
   },
   {
-    "": "Joe Snively",
+    "Name": "Joe Snively",
     "_1": "DET",
     "_2": "LW",
     "_3": "12",
@@ -9842,7 +9842,7 @@
     "_12": "3"
   },
   {
-    "": "Esa Lindell",
+    "Name": "Esa Lindell",
     "_1": "DAL",
     "_2": "D",
     "_3": "83",
@@ -9861,7 +9861,7 @@
     "_12": "166"
   },
   {
-    "": "Calvin de Haan",
+    "Name": "Calvin de Haan",
     "_1": "COL",
     "_2": "D",
     "_3": "69",
@@ -9880,7 +9880,7 @@
     "_12": "172"
   },
   {
-    "": "Nikita Zadorov",
+    "Name": "Nikita Zadorov",
     "_1": "BOS",
     "_2": "D",
     "_3": "86",
@@ -9899,7 +9899,7 @@
     "_12": "62"
   },
   {
-    "": "Patrick Brown",
+    "Name": "Patrick Brown",
     "_1": "BOS",
     "_2": "C",
     "_3": "44",
@@ -9918,7 +9918,7 @@
     "_12": "36"
   },
   {
-    "": "Connor Murphy",
+    "Name": "Connor Murphy",
     "_1": "CHI",
     "_2": "D",
     "_3": "57",
@@ -9937,7 +9937,7 @@
     "_12": "150"
   },
   {
-    "": "T.J. Brodie",
+    "Name": "T.J. Brodie",
     "_1": "CHI",
     "_2": "D",
     "_3": "89",
@@ -9956,7 +9956,7 @@
     "_12": "122"
   },
   {
-    "": "Michael Carcone",
+    "Name": "Michael Carcone",
     "_1": "UTA",
     "_2": "C",
     "_3": "21",
@@ -9975,7 +9975,7 @@
     "_12": "7"
   },
   {
-    "": "Sean Durzi",
+    "Name": "Sean Durzi",
     "_1": "UTA",
     "_2": "D",
     "_3": "71",
@@ -9994,7 +9994,7 @@
     "_12": "136"
   },
   {
-    "": "J.J. Moser",
+    "Name": "J.J. Moser",
     "_1": "TB",
     "_2": "D",
     "_3": "43",
@@ -10013,7 +10013,7 @@
     "_12": "55"
   },
   {
-    "": "Jani Hakanpaa",
+    "Name": "Jani Hakanpaa",
     "_1": "TOR",
     "_2": "D",
     "_3": "87",
@@ -10032,7 +10032,7 @@
     "_12": "125"
   },
   {
-    "": "Jake McCabe",
+    "Name": "Jake McCabe",
     "_1": "TOR",
     "_2": "D",
     "_3": "75",
@@ -10051,7 +10051,7 @@
     "_12": "167"
   },
   {
-    "": "Henrik Borgstrom",
+    "Name": "Henrik Borgstrom",
     "_1": "WAS",
     "_2": "C",
     "_3": "52",
@@ -10070,7 +10070,7 @@
     "_12": "19"
   },
   {
-    "": "Jon Merrill",
+    "Name": "Jon Merrill",
     "_1": "MIN",
     "_2": "D",
     "_3": "75",
@@ -10089,7 +10089,7 @@
     "_12": "124"
   },
   {
-    "": "Jacob Middleton",
+    "Name": "Jacob Middleton",
     "_1": "MIN",
     "_2": "D",
     "_3": "72",
@@ -10108,7 +10108,7 @@
     "_12": "135"
   },
   {
-    "": "Max Willman",
+    "Name": "Max Willman",
     "_1": "NJ",
     "_2": "LW",
     "_3": "41",
@@ -10127,7 +10127,7 @@
     "_12": "10"
   },
   {
-    "": "Mike Reilly",
+    "Name": "Mike Reilly",
     "_1": "NYI",
     "_2": "D",
     "_3": "75",
@@ -10146,7 +10146,7 @@
     "_12": "61"
   },
   {
-    "": "Matt Grzelcyk",
+    "Name": "Matt Grzelcyk",
     "_1": "PIT",
     "_2": "D",
     "_3": "78",
@@ -10165,7 +10165,7 @@
     "_12": "87"
   },
   {
-    "": "Jamie Drysdale",
+    "Name": "Jamie Drysdale",
     "_1": "PHI",
     "_2": "D",
     "_3": "81",
@@ -10184,7 +10184,7 @@
     "_12": "72"
   },
   {
-    "": "Travis Hamonic",
+    "Name": "Travis Hamonic",
     "_1": "OTT",
     "_2": "D",
     "_3": "43",
@@ -10203,7 +10203,7 @@
     "_12": "93"
   },
   {
-    "": "Givani Smith",
+    "Name": "Givani Smith",
     "_1": "SJ",
     "_2": "LW",
     "_3": "46",
@@ -10222,7 +10222,7 @@
     "_12": "20"
   },
   {
-    "": "Klim Kostin",
+    "Name": "Klim Kostin",
     "_1": "SJ",
     "_2": "RW",
     "_3": "40",
@@ -10241,7 +10241,7 @@
     "_12": "9"
   },
   {
-    "": "Jan Rutta",
+    "Name": "Jan Rutta",
     "_1": "SJ",
     "_2": "D",
     "_3": "93",
@@ -10260,7 +10260,7 @@
     "_12": "79"
   },
   {
-    "": "Nick Leddy",
+    "Name": "Nick Leddy",
     "_1": "STL",
     "_2": "D",
     "_3": "84",
@@ -10279,7 +10279,7 @@
     "_12": "74"
   },
   {
-    "": "Matty Beniers",
+    "Name": "Matty Beniers",
     "_1": "SEA",
     "_2": "C",
     "_3": "10",
@@ -10298,7 +10298,7 @@
     "_12": "4"
   },
   {
-    "": "Fabian Zetterlund",
+    "Name": "Fabian Zetterlund",
     "_1": "SJ",
     "_2": "LW",
     "_3": "14",
@@ -10317,7 +10317,7 @@
     "_12": "7"
   },
   {
-    "": "Lucas Carlsson",
+    "Name": "Lucas Carlsson",
     "_1": "SJ",
     "_2": "D",
     "_3": "40",
@@ -10336,7 +10336,7 @@
     "_12": "29"
   },
   {
-    "": "Drew O'Connor",
+    "Name": "Drew O'Connor",
     "_1": "PIT",
     "_2": "C",
     "_3": "24",
@@ -10355,7 +10355,7 @@
     "_12": "8"
   },
   {
-    "": "Marc-Edouard Vlasic",
+    "Name": "Marc-Edouard Vlasic",
     "_1": "SJ",
     "_2": "D",
     "_3": "75",
@@ -10374,7 +10374,7 @@
     "_12": "90"
   },
   {
-    "": "Jake Walman",
+    "Name": "Jake Walman",
     "_1": "SJ",
     "_2": "D",
     "_3": "51",
@@ -10393,7 +10393,7 @@
     "_12": "58"
   },
   {
-    "": "Zack MacEwen",
+    "Name": "Zack MacEwen",
     "_1": "OTT",
     "_2": "C",
     "_3": "75",
@@ -10412,7 +10412,7 @@
     "_12": "32"
   },
   {
-    "": "Noel Acciari",
+    "Name": "Noel Acciari",
     "_1": "PIT",
     "_2": "C",
     "_3": "29",
@@ -10431,7 +10431,7 @@
     "_12": "20"
   },
   {
-    "": "Cam York",
+    "Name": "Cam York",
     "_1": "PHI",
     "_2": "D",
     "_3": "30",
@@ -10450,7 +10450,7 @@
     "_12": "40"
   },
   {
-    "": "Adam Pelech",
+    "Name": "Adam Pelech",
     "_1": "NYI",
     "_2": "D",
     "_3": "78",
@@ -10469,7 +10469,7 @@
     "_12": "128"
   },
   {
-    "": "Scott Mayfield",
+    "Name": "Scott Mayfield",
     "_1": "NYI",
     "_2": "D",
     "_3": "61",
@@ -10488,7 +10488,7 @@
     "_12": "109"
   },
   {
-    "": "Nolan Foote",
+    "Name": "Nolan Foote",
     "_1": "NJ",
     "_2": "LW",
     "_3": "7",
@@ -10507,7 +10507,7 @@
     "_12": "1"
   },
   {
-    "": "Brenden Dillon",
+    "Name": "Brenden Dillon",
     "_1": "NJ",
     "_2": "D",
     "_3": "79",
@@ -10526,7 +10526,7 @@
     "_12": "108"
   },
   {
-    "": "Alexandre Carrier",
+    "Name": "Alexandre Carrier",
     "_1": "NSH",
     "_2": "D",
     "_3": "81",
@@ -10545,7 +10545,7 @@
     "_12": "137"
   },
   {
-    "": "Dante Fabbro",
+    "Name": "Dante Fabbro",
     "_1": "NSH",
     "_2": "D",
     "_3": "70",
@@ -10564,7 +10564,7 @@
     "_12": "114"
   },
   {
-    "": "Julien Gauthier",
+    "Name": "Julien Gauthier",
     "_1": "NYI",
     "_2": "RW",
     "_3": "49",
@@ -10583,7 +10583,7 @@
     "_12": "14"
   },
   {
-    "": "Alexander Romanov",
+    "Name": "Alexander Romanov",
     "_1": "NYI",
     "_2": "D",
     "_3": "79",
@@ -10602,7 +10602,7 @@
     "_12": "144"
   },
   {
-    "": "Zach Bogosian",
+    "Name": "Zach Bogosian",
     "_1": "MIN",
     "_2": "D",
     "_3": "70",
@@ -10621,7 +10621,7 @@
     "_12": "52"
   },
   {
-    "": "David Savard",
+    "Name": "David Savard",
     "_1": "MON",
     "_2": "D",
     "_3": "62",
@@ -10640,7 +10640,7 @@
     "_12": "127"
   },
   {
-    "": "Alex Barre-Boulet",
+    "Name": "Alex Barre-Boulet",
     "_1": "MON",
     "_2": "C",
     "_3": "16",
@@ -10659,7 +10659,7 @@
     "_12": "3"
   },
   {
-    "": "Dakota Joshua",
+    "Name": "Dakota Joshua",
     "_1": "VAN",
     "_2": "LW",
     "_3": "31",
@@ -10678,7 +10678,7 @@
     "_12": "10"
   },
   {
-    "": "Neal Pionk",
+    "Name": "Neal Pionk",
     "_1": "WPG",
     "_2": "D",
     "_3": "77",
@@ -10697,7 +10697,7 @@
     "_12": "91"
   },
   {
-    "": "Aliaksei Protas",
+    "Name": "Aliaksei Protas",
     "_1": "WAS",
     "_2": "C",
     "_3": "33",
@@ -10716,7 +10716,7 @@
     "_12": "12"
   },
   {
-    "": "Ian Cole",
+    "Name": "Ian Cole",
     "_1": "UTA",
     "_2": "D",
     "_3": "89",
@@ -10735,7 +10735,7 @@
     "_12": "130"
   },
   {
-    "": "Dylan Gambrell",
+    "Name": "Dylan Gambrell",
     "_1": "CLS",
     "_2": "C",
     "_3": "63",
@@ -10754,7 +10754,7 @@
     "_12": "39"
   },
   {
-    "": "Dylan Coghlan",
+    "Name": "Dylan Coghlan",
     "_1": "CAR",
     "_2": "D",
     "_3": "59",
@@ -10773,7 +10773,7 @@
     "_12": "61"
   },
   {
-    "": "Alec Martinez",
+    "Name": "Alec Martinez",
     "_1": "CHI",
     "_2": "D",
     "_3": "26",
@@ -10792,7 +10792,7 @@
     "_12": "68"
   },
   {
-    "": "Jeffrey Viel",
+    "Name": "Jeffrey Viel",
     "_1": "BOS",
     "_2": "LW",
     "_3": "34",
@@ -10811,7 +10811,7 @@
     "_12": "11"
   },
   {
-    "": "Marc McLaughlin",
+    "Name": "Marc McLaughlin",
     "_1": "BOS",
     "_2": "C",
     "_3": "11",
@@ -10830,7 +10830,7 @@
     "_12": "2"
   },
   {
-    "": "Brett Leason",
+    "Name": "Brett Leason",
     "_1": "ANH",
     "_2": "RW",
     "_3": "37",
@@ -10849,7 +10849,7 @@
     "_12": "14"
   },
   {
-    "": "Brian Dumoulin",
+    "Name": "Brian Dumoulin",
     "_1": "ANH",
     "_2": "D",
     "_3": "77",
@@ -10868,7 +10868,7 @@
     "_12": "140"
   },
   {
-    "": "Henri Jokiharju",
+    "Name": "Henri Jokiharju",
     "_1": "BUF",
     "_2": "D",
     "_3": "60",
@@ -10887,7 +10887,7 @@
     "_12": "60"
   },
   {
-    "": "Connor Clifton",
+    "Name": "Connor Clifton",
     "_1": "BUF",
     "_2": "D",
     "_3": "67",
@@ -10906,7 +10906,7 @@
     "_12": "69"
   },
   {
-    "": "Justin Holl",
+    "Name": "Justin Holl",
     "_1": "DET",
     "_2": "D",
     "_3": "74",
@@ -10925,7 +10925,7 @@
     "_12": "111"
   },
   {
-    "": "Erik Gustafsson",
+    "Name": "Erik Gustafsson",
     "_1": "DET",
     "_2": "D",
     "_3": "59",
@@ -10944,7 +10944,7 @@
     "_12": "55"
   },
   {
-    "": "Tomas Nosek",
+    "Name": "Tomas Nosek",
     "_1": "FLA",
     "_2": "LW",
     "_3": "82",
@@ -10963,7 +10963,7 @@
     "_12": "43"
   },
   {
-    "": "Troy Stecher",
+    "Name": "Troy Stecher",
     "_1": "EDM",
     "_2": "D",
     "_3": "33",
@@ -10982,7 +10982,7 @@
     "_12": "44"
   },
   {
-    "": "Joel Edmundson",
+    "Name": "Joel Edmundson",
     "_1": "LA",
     "_2": "D",
     "_3": "24",
@@ -11001,7 +11001,7 @@
     "_12": "45"
   },
   {
-    "": "Brayden McNabb",
+    "Name": "Brayden McNabb",
     "_1": "VGK",
     "_2": "D",
     "_3": "69",
@@ -11020,7 +11020,7 @@
     "_12": "179"
   },
   {
-    "": "Niko Mikkola",
+    "Name": "Niko Mikkola",
     "_1": "FLA",
     "_2": "D",
     "_3": "66",
@@ -11039,7 +11039,7 @@
     "_12": "102"
   },
   {
-    "": "Ben Hutton",
+    "Name": "Ben Hutton",
     "_1": "VGK",
     "_2": "D",
     "_3": "58",
@@ -11058,7 +11058,7 @@
     "_12": "72"
   },
   {
-    "": "Brad Hunt",
+    "Name": "Brad Hunt",
     "_1": "FA",
     "_2": "D",
     "_3": "50",
@@ -11077,7 +11077,7 @@
     "_12": "48"
   },
   {
-    "": "Jujhar Khaira",
+    "Name": "Jujhar Khaira",
     "_1": "FA",
     "_2": "C",
     "_3": "27",
@@ -11096,7 +11096,7 @@
     "_12": "14"
   },
   {
-    "": "Tyler Johnson",
+    "Name": "Tyler Johnson",
     "_1": "FA",
     "_2": "C",
     "_3": "26",
@@ -11115,7 +11115,7 @@
     "_12": "7"
   },
   {
-    "": "Mark Pysyk",
+    "Name": "Mark Pysyk",
     "_1": "FA",
     "_2": "D",
     "_3": "68",
@@ -11134,7 +11134,7 @@
     "_12": "85"
   },
   {
-    "": "Carl Hagelin",
+    "Name": "Carl Hagelin",
     "_1": "FA",
     "_2": "LW",
     "_3": "53",
@@ -11153,7 +11153,7 @@
     "_12": "12"
   },
   {
-    "": "Marco Scandella",
+    "Name": "Marco Scandella",
     "_1": "FA",
     "_2": "D",
     "_3": "74",
@@ -11172,7 +11172,7 @@
     "_12": "74"
   },
   {
-    "": "Michael Del Zotto",
+    "Name": "Michael Del Zotto",
     "_1": "FA",
     "_2": "D",
     "_3": "26",
@@ -11191,7 +11191,7 @@
     "_12": "34"
   },
   {
-    "": "Matt Martin",
+    "Name": "Matt Martin",
     "_1": "FA",
     "_2": "LW",
     "_3": "71",
@@ -11210,7 +11210,7 @@
     "_12": "26"
   },
   {
-    "": "Marc Staal",
+    "Name": "Marc Staal",
     "_1": "FA",
     "_2": "D",
     "_3": "71",
@@ -11229,7 +11229,7 @@
     "_12": "75"
   },
   {
-    "": "Loui Eriksson",
+    "Name": "Loui Eriksson",
     "_1": "FA",
     "_2": "RW",
     "_3": "73",
@@ -11248,7 +11248,7 @@
     "_12": "23"
   },
   {
-    "": "Ryan Getzlaf",
+    "Name": "Ryan Getzlaf",
     "_1": "FA",
     "_2": "C",
     "_3": "56",
@@ -11267,7 +11267,7 @@
     "_12": "56"
   },
   {
-    "": "Alexander Edler",
+    "Name": "Alexander Edler",
     "_1": "FA",
     "_2": "D",
     "_3": "48",
@@ -11286,7 +11286,7 @@
     "_12": "85"
   },
   {
-    "": "Ryan Carpenter",
+    "Name": "Ryan Carpenter",
     "_1": "FA",
     "_2": "C",
     "_3": "67",
@@ -11305,7 +11305,7 @@
     "_12": "44"
   },
   {
-    "": "Kevin Labanc",
+    "Name": "Kevin Labanc",
     "_1": "FA",
     "_2": "RW",
     "_3": "21",
@@ -11324,7 +11324,7 @@
     "_12": "9"
   },
   {
-    "": "Dominik Simon",
+    "Name": "Dominik Simon",
     "_1": "FA",
     "_2": "C",
     "_3": "72",
@@ -11343,7 +11343,7 @@
     "_12": "38"
   },
   {
-    "": "Colin White",
+    "Name": "Colin White",
     "_1": "FA",
     "_2": "C",
     "_3": "24",
@@ -11362,7 +11362,7 @@
     "_12": "4"
   },
   {
-    "": "Dean Kukan",
+    "Name": "Dean Kukan",
     "_1": "FA",
     "_2": "D",
     "_3": "41",
@@ -11381,7 +11381,7 @@
     "_12": "39"
   },
   {
-    "": "Josh Mahura",
+    "Name": "Josh Mahura",
     "_1": "FA",
     "_2": "D",
     "_3": "38",
@@ -11400,7 +11400,7 @@
     "_12": "51"
   },
   {
-    "": "Boris Katchouk",
+    "Name": "Boris Katchouk",
     "_1": "FA",
     "_2": "LW",
     "_3": "59",
@@ -11419,7 +11419,7 @@
     "_12": "20"
   },
   {
-    "": "Matt Luff",
+    "Name": "Matt Luff",
     "_1": "FA",
     "_2": "RW",
     "_3": "23",
@@ -11438,7 +11438,7 @@
     "_12": "4"
   },
   {
-    "": "Karson Kuhlman",
+    "Name": "Karson Kuhlman",
     "_1": "FA",
     "_2": "C",
     "_3": "44",
@@ -11457,7 +11457,7 @@
     "_12": "20"
   },
   {
-    "": "Radko Gudas",
+    "Name": "Radko Gudas",
     "_1": "ANH",
     "_2": "D",
     "_3": "87",
@@ -11476,7 +11476,7 @@
     "_12": "130"
   },
   {
-    "": "Radim Zohorna",
+    "Name": "Radim Zohorna",
     "_1": "FA",
     "_2": "RW",
     "_3": "17",
@@ -11495,7 +11495,7 @@
     "_12": "3"
   },
   {
-    "": "Marian Studenic",
+    "Name": "Marian Studenic",
     "_1": "FA",
     "_2": "RW",
     "_3": "37",
@@ -11514,7 +11514,7 @@
     "_12": "16"
   },
   {
-    "": "Calen Addison",
+    "Name": "Calen Addison",
     "_1": "FA",
     "_2": "D",
     "_3": "15",
@@ -11533,7 +11533,7 @@
     "_12": "6"
   },
   {
-    "": "Nolan Patrick",
+    "Name": "Nolan Patrick",
     "_1": "FA",
     "_2": "C",
     "_3": "25",
@@ -11552,7 +11552,7 @@
     "_12": "3"
   },
   {
-    "": "Oskar Steen",
+    "Name": "Oskar Steen",
     "_1": "FA",
     "_2": "C",
     "_3": "20",
@@ -11571,7 +11571,7 @@
     "_12": "8"
   },
   {
-    "": "Cal Foote",
+    "Name": "Cal Foote",
     "_1": "FA",
     "_2": "D",
     "_3": "69",
@@ -11590,7 +11590,7 @@
     "_12": "75"
   },
   {
-    "": "Adam Brooks",
+    "Name": "Adam Brooks",
     "_1": "FA",
     "_2": "C",
     "_3": "25",
@@ -11609,7 +11609,7 @@
     "_12": "6"
   },
   {
-    "": "Austin Czarnik",
+    "Name": "Austin Czarnik",
     "_1": "FA",
     "_2": "C",
     "_3": "17",
@@ -11628,7 +11628,7 @@
     "_12": "7"
   },
   {
-    "": "Gabriel Carlsson",
+    "Name": "Gabriel Carlsson",
     "_1": "FA",
     "_2": "D",
     "_3": "38",
@@ -11647,7 +11647,7 @@
     "_12": "33"
   },
   {
-    "": "Travis Dermott",
+    "Name": "Travis Dermott",
     "_1": "FA",
     "_2": "D",
     "_3": "60",
@@ -11666,7 +11666,7 @@
     "_12": "46"
   },
   {
-    "": "Nicolas Meloche",
+    "Name": "Nicolas Meloche",
     "_1": "FA",
     "_2": "D",
     "_3": "50",
@@ -11685,7 +11685,7 @@
     "_12": "54"
   },
   {
-    "": "Nikita Zaitsev",
+    "Name": "Nikita Zaitsev",
     "_1": "FA",
     "_2": "D",
     "_3": "62",
@@ -11704,7 +11704,7 @@
     "_12": "103"
   },
   {
-    "": "Will Butcher",
+    "Name": "Will Butcher",
     "_1": "FA",
     "_2": "D",
     "_3": "37",
@@ -11723,7 +11723,7 @@
     "_12": "32"
   },
   {
-    "": "Haydn Fleury",
+    "Name": "Haydn Fleury",
     "_1": "FA",
     "_2": "D",
     "_3": "36",
@@ -11742,7 +11742,7 @@
     "_12": "62"
   },
   {
-    "": "James Neal",
+    "Name": "James Neal",
     "_1": "FA",
     "_2": "RW",
     "_3": "19",
@@ -11761,7 +11761,7 @@
     "_12": "3"
   },
   {
-    "": "Andy Greene",
+    "Name": "Andy Greene",
     "_1": "FA",
     "_2": "D",
     "_3": "69",
@@ -11780,7 +11780,7 @@
     "_12": "126"
   },
   {
-    "": "Kris Russell",
+    "Name": "Kris Russell",
     "_1": "FA",
     "_2": "D",
     "_3": "37",
@@ -11799,7 +11799,7 @@
     "_12": "82"
   },
   {
-    "": "Zdeno Chara",
+    "Name": "Zdeno Chara",
     "_1": "FA",
     "_2": "D",
     "_3": "72",
@@ -11818,7 +11818,7 @@
     "_12": "90"
   },
   {
-    "": "Duncan Keith",
+    "Name": "Duncan Keith",
     "_1": "FA",
     "_2": "D",
     "_3": "80",
@@ -11837,7 +11837,7 @@
     "_12": "143"
   },
   {
-    "": "Colton Sceviour",
+    "Name": "Colton Sceviour",
     "_1": "FA",
     "_2": "RW",
     "_3": "35",
@@ -11856,7 +11856,7 @@
     "_12": "20"
   },
   {
-    "": "Alex Goligoski",
+    "Name": "Alex Goligoski",
     "_1": "FA",
     "_2": "D",
     "_3": "76",
@@ -11875,7 +11875,7 @@
     "_12": "100"
   },
   {
-    "": "Patrik Nemeth",
+    "Name": "Patrik Nemeth",
     "_1": "FA",
     "_2": "D",
     "_3": "68",
@@ -11894,7 +11894,7 @@
     "_12": "106"
   },
   {
-    "": "Greg McKegg",
+    "Name": "Greg McKegg",
     "_1": "FA",
     "_2": "C",
     "_3": "43",
@@ -11913,7 +11913,7 @@
     "_12": "22"
   },
   {
-    "": "Joonas Donskoi",
+    "Name": "Joonas Donskoi",
     "_1": "FA",
     "_2": "RW",
     "_3": "75",
@@ -11932,7 +11932,7 @@
     "_12": "31"
   },
   {
-    "": "Jaycob Megna",
+    "Name": "Jaycob Megna",
     "_1": "FA",
     "_2": "D",
     "_3": "44",
@@ -11951,7 +11951,7 @@
     "_12": "92"
   },
   {
-    "": "Gregory Hofmann",
+    "Name": "Gregory Hofmann",
     "_1": "FA",
     "_2": "LW",
     "_3": "24",
@@ -11970,7 +11970,7 @@
     "_12": "10"
   },
   {
-    "": "Jonas Rondbjerg",
+    "Name": "Jonas Rondbjerg",
     "_1": "VGK",
     "_2": "RW",
     "_3": "30",
@@ -11989,7 +11989,7 @@
     "_12": "11"
   },
   {
-    "": "Drake Caggiula",
+    "Name": "Drake Caggiula",
     "_1": "EDM",
     "_2": "LW",
     "_3": "18",
@@ -12008,7 +12008,7 @@
     "_12": "7"
   },
   {
-    "": "Kole Lind",
+    "Name": "Kole Lind",
     "_1": "DAL",
     "_2": "RW",
     "_3": "23",
@@ -12027,7 +12027,7 @@
     "_12": "10"
   },
   {
-    "": "Ilya Lyubushkin",
+    "Name": "Ilya Lyubushkin",
     "_1": "DAL",
     "_2": "D",
     "_3": "84",
@@ -12046,7 +12046,7 @@
     "_12": "101"
   },
   {
-    "": "Sheldon Dries",
+    "Name": "Sheldon Dries",
     "_1": "DET",
     "_2": "C",
     "_3": "11",
@@ -12065,7 +12065,7 @@
     "_12": "6"
   },
   {
-    "": "Calle Rosen",
+    "Name": "Calle Rosen",
     "_1": "COL",
     "_2": "D",
     "_3": "27",
@@ -12084,7 +12084,7 @@
     "_12": "27"
   },
   {
-    "": "Kyle Capobianco",
+    "Name": "Kyle Capobianco",
     "_1": "DAL",
     "_2": "D",
     "_3": "45",
@@ -12103,7 +12103,7 @@
     "_12": "46"
   },
   {
-    "": "Kale Clague",
+    "Name": "Kale Clague",
     "_1": "BUF",
     "_2": "D",
     "_3": "36",
@@ -12122,7 +12122,7 @@
     "_12": "23"
   },
   {
-    "": "Brett Murray",
+    "Name": "Brett Murray",
     "_1": "BUF",
     "_2": "LW",
     "_3": "19",
@@ -12141,7 +12141,7 @@
     "_12": "2"
   },
   {
-    "": "Arttu Ruotsalainen",
+    "Name": "Arttu Ruotsalainen",
     "_1": "BUF",
     "_2": "C",
     "_3": "18",
@@ -12160,7 +12160,7 @@
     "_12": "6"
   },
   {
-    "": "Owen Power",
+    "Name": "Owen Power",
     "_1": "BUF",
     "_2": "D",
     "_3": "8",
@@ -12179,7 +12179,7 @@
     "_12": "9"
   },
   {
-    "": "Ross Johnston",
+    "Name": "Ross Johnston",
     "_1": "ANH",
     "_2": "LW",
     "_3": "32",
@@ -12198,7 +12198,7 @@
     "_12": "16"
   },
   {
-    "": "Mason McTavish",
+    "Name": "Mason McTavish",
     "_1": "ANH",
     "_2": "C",
     "_3": "9",
@@ -12217,7 +12217,7 @@
     "_12": "6"
   },
   {
-    "": "Jordan Oesterle",
+    "Name": "Jordan Oesterle",
     "_1": "BOS",
     "_2": "D",
     "_3": "45",
@@ -12236,7 +12236,7 @@
     "_12": "44"
   },
   {
-    "": "Mark Kastelic",
+    "Name": "Mark Kastelic",
     "_1": "BOS",
     "_2": "C",
     "_3": "16",
@@ -12255,7 +12255,7 @@
     "_12": "10"
   },
   {
-    "": "Andrew Peeke",
+    "Name": "Andrew Peeke",
     "_1": "BOS",
     "_2": "D",
     "_3": "82",
@@ -12274,7 +12274,7 @@
     "_12": "169"
   },
   {
-    "": "Joel Hanley",
+    "Name": "Joel Hanley",
     "_1": "CGY",
     "_2": "D",
     "_3": "51",
@@ -12293,7 +12293,7 @@
     "_12": "52"
   },
   {
-    "": "Martin Frk",
+    "Name": "Martin Frk",
     "_1": "CGY",
     "_2": "RW",
     "_3": "6",
@@ -12312,7 +12312,7 @@
     "_12": "0"
   },
   {
-    "": "Jack Drury",
+    "Name": "Jack Drury",
     "_1": "CAR",
     "_2": "C",
     "_3": "2",
@@ -12331,7 +12331,7 @@
     "_12": "2"
   },
   {
-    "": "Riley Stillman",
+    "Name": "Riley Stillman",
     "_1": "CAR",
     "_2": "D",
     "_3": "52",
@@ -12350,7 +12350,7 @@
     "_12": "67"
   },
   {
-    "": "Nick Foligno",
+    "Name": "Nick Foligno",
     "_1": "CHI",
     "_2": "LW",
     "_3": "71",
@@ -12369,7 +12369,7 @@
     "_12": "36"
   },
   {
-    "": "Connor Dewar",
+    "Name": "Connor Dewar",
     "_1": "TOR",
     "_2": "C",
     "_3": "36",
@@ -12388,7 +12388,7 @@
     "_12": "22"
   },
   {
-    "": "Liam O'Brien",
+    "Name": "Liam O'Brien",
     "_1": "UTA",
     "_2": "C",
     "_3": "39",
@@ -12407,7 +12407,7 @@
     "_12": "10"
   },
   {
-    "": "Jack McBain",
+    "Name": "Jack McBain",
     "_1": "UTA",
     "_2": "C",
     "_3": "10",
@@ -12426,7 +12426,7 @@
     "_12": "9"
   },
   {
-    "": "Jan Jenik",
+    "Name": "Jan Jenik",
     "_1": "UTA",
     "_2": "C",
     "_3": "13",
@@ -12445,7 +12445,7 @@
     "_12": "4"
   },
   {
-    "": "Mark Friedman",
+    "Name": "Mark Friedman",
     "_1": "VAN",
     "_2": "D",
     "_3": "32",
@@ -12464,7 +12464,7 @@
     "_12": "31"
   },
   {
-    "": "Erik Cernak",
+    "Name": "Erik Cernak",
     "_1": "TB",
     "_2": "D",
     "_3": "78",
@@ -12483,7 +12483,7 @@
     "_12": "118"
   },
   {
-    "": "Jesse Ylonen",
+    "Name": "Jesse Ylonen",
     "_1": "TB",
     "_2": "LW",
     "_3": "14",
@@ -12502,7 +12502,7 @@
     "_12": "4"
   },
   {
-    "": "Colin Miller",
+    "Name": "Colin Miller",
     "_1": "WPG",
     "_2": "D",
     "_3": "38",
@@ -12521,7 +12521,7 @@
     "_12": "42"
   },
   {
-    "": "Axel Jonsson-Fjallby",
+    "Name": "Axel Jonsson-Fjallby",
     "_1": "WPG",
     "_2": "LW",
     "_3": "23",
@@ -12540,7 +12540,7 @@
     "_12": "8"
   },
   {
-    "": "Kristian Vesalainen",
+    "Name": "Kristian Vesalainen",
     "_1": "WPG",
     "_2": "LW",
     "_3": "53",
@@ -12559,7 +12559,7 @@
     "_12": "14"
   },
   {
-    "": "Morgan Barron",
+    "Name": "Morgan Barron",
     "_1": "WPG",
     "_2": "LW",
     "_3": "27",
@@ -12578,7 +12578,7 @@
     "_12": "8"
   },
   {
-    "": "Cole Perfetti",
+    "Name": "Cole Perfetti",
     "_1": "WPG",
     "_2": "LW",
     "_3": "18",
@@ -12597,7 +12597,7 @@
     "_12": "2"
   },
   {
-    "": "Nathan Smith",
+    "Name": "Nathan Smith",
     "_1": "VAN",
     "_2": "C",
     "_3": "10",
@@ -12616,7 +12616,7 @@
     "_12": "6"
   },
   {
-    "": "Matt Roy",
+    "Name": "Matt Roy",
     "_1": "WAS",
     "_2": "D",
     "_3": "74",
@@ -12635,7 +12635,7 @@
     "_12": "126"
   },
   {
-    "": "Michael Sgarbossa",
+    "Name": "Michael Sgarbossa",
     "_1": "WAS",
     "_2": "LW",
     "_3": "10",
@@ -12654,7 +12654,7 @@
     "_12": "2"
   },
   {
-    "": "Trevor van Riemsdyk",
+    "Name": "Trevor van Riemsdyk",
     "_1": "WAS",
     "_2": "D",
     "_3": "78",
@@ -12673,7 +12673,7 @@
     "_12": "142"
   },
   {
-    "": "Jeremy Lauzon",
+    "Name": "Jeremy Lauzon",
     "_1": "NSH",
     "_2": "D",
     "_3": "69",
@@ -12692,7 +12692,7 @@
     "_12": "65"
   },
   {
-    "": "Mark Jankowski",
+    "Name": "Mark Jankowski",
     "_1": "NSH",
     "_2": "C",
     "_3": "19",
@@ -12711,7 +12711,7 @@
     "_12": "8"
   },
   {
-    "": "Jordan Spence",
+    "Name": "Jordan Spence",
     "_1": "LA",
     "_2": "D",
     "_3": "27",
@@ -12730,7 +12730,7 @@
     "_12": "33"
   },
   {
-    "": "Mikey Anderson",
+    "Name": "Mikey Anderson",
     "_1": "LA",
     "_2": "D",
     "_3": "64",
@@ -12749,7 +12749,7 @@
     "_12": "80"
   },
   {
-    "": "Paul Cotter",
+    "Name": "Paul Cotter",
     "_1": "NJ",
     "_2": "C",
     "_3": "7",
@@ -12768,7 +12768,7 @@
     "_12": "1"
   },
   {
-    "": "Anton Blidh",
+    "Name": "Anton Blidh",
     "_1": "NYR",
     "_2": "LW",
     "_3": "32",
@@ -12787,7 +12787,7 @@
     "_12": "17"
   },
   {
-    "": "Jake Leschyshyn",
+    "Name": "Jake Leschyshyn",
     "_1": "NYR",
     "_2": "C",
     "_3": "41",
@@ -12806,7 +12806,7 @@
     "_12": "23"
   },
   {
-    "": "Justin Dowling",
+    "Name": "Justin Dowling",
     "_1": "NJ",
     "_2": "C",
     "_3": "22",
@@ -12825,7 +12825,7 @@
     "_12": "9"
   },
   {
-    "": "Kurtis MacDermid",
+    "Name": "Kurtis MacDermid",
     "_1": "NJ",
     "_2": "LW",
     "_3": "58",
@@ -12844,7 +12844,7 @@
     "_12": "22"
   },
   {
-    "": "Ronnie Attard",
+    "Name": "Ronnie Attard",
     "_1": "PHI",
     "_2": "D",
     "_3": "15",
@@ -12863,7 +12863,7 @@
     "_12": "17"
   },
   {
-    "": "Rasmus Ristolainen",
+    "Name": "Rasmus Ristolainen",
     "_1": "PHI",
     "_2": "D",
     "_3": "66",
@@ -12882,7 +12882,7 @@
     "_12": "125"
   },
   {
-    "": "Marcus Pettersson",
+    "Name": "Marcus Pettersson",
     "_1": "PIT",
     "_2": "D",
     "_3": "79",
@@ -12901,7 +12901,7 @@
     "_12": "86"
   },
   {
-    "": "Braden Schneider",
+    "Name": "Braden Schneider",
     "_1": "NYR",
     "_2": "D",
     "_3": "63",
@@ -12920,7 +12920,7 @@
     "_12": "69"
   },
   {
-    "": "Sebastian Aho",
+    "Name": "Sebastian Aho",
     "_1": "PIT",
     "_2": "D",
     "_3": "36",
@@ -12939,7 +12939,7 @@
     "_12": "42"
   },
   {
-    "": "Mario Ferraro",
+    "Name": "Mario Ferraro",
     "_1": "SJ",
     "_2": "D",
     "_3": "63",
@@ -12958,7 +12958,7 @@
     "_12": "151"
   },
   {
-    "": "Will Borgen",
+    "Name": "Will Borgen",
     "_1": "SEA",
     "_2": "D",
     "_3": "36",
@@ -12977,7 +12977,7 @@
     "_12": "33"
   },
   {
-    "": "John Hayden",
+    "Name": "John Hayden",
     "_1": "SEA",
     "_2": "C",
     "_3": "55",
@@ -12996,7 +12996,7 @@
     "_12": "24"
   },
   {
-    "": "Alexei Toropchenko",
+    "Name": "Alexei Toropchenko",
     "_1": "STL",
     "_2": "RW",
     "_3": "40",
@@ -13015,7 +13015,7 @@
     "_12": "24"
   },
   {
-    "": "Corey Schueneman",
+    "Name": "Corey Schueneman",
     "_1": "STL",
     "_2": "D",
     "_3": "24",
@@ -13034,7 +13034,7 @@
     "_12": "40"
   },
   {
-    "": "Jake Neighbours",
+    "Name": "Jake Neighbours",
     "_1": "STL",
     "_2": "LW",
     "_3": "9",
@@ -13053,7 +13053,7 @@
     "_12": "1"
   },
   {
-    "": "Ben Meyers",
+    "Name": "Ben Meyers",
     "_1": "SEA",
     "_2": "LW",
     "_3": "5",
@@ -13072,7 +13072,7 @@
     "_12": "1"
   },
   {
-    "": "Jamie Oleksiak",
+    "Name": "Jamie Oleksiak",
     "_1": "SEA",
     "_2": "D",
     "_3": "72",
@@ -13091,7 +13091,7 @@
     "_12": "86"
   },
   {
-    "": "Kasper Bjorkqvist",
+    "Name": "Kasper Bjorkqvist",
     "_1": "PIT",
     "_2": "RW",
     "_3": "6",
@@ -13110,7 +13110,7 @@
     "_12": "2"
   },
   {
-    "": "Hayden Hodgson",
+    "Name": "Hayden Hodgson",
     "_1": "OTT",
     "_2": "C",
     "_3": "6",
@@ -13129,7 +13129,7 @@
     "_12": "2"
   },
   {
-    "": "Garrett Pilon",
+    "Name": "Garrett Pilon",
     "_1": "OTT",
     "_2": "C",
     "_3": "2",
@@ -13148,7 +13148,7 @@
     "_12": "0"
   },
   {
-    "": "Nick Seeler",
+    "Name": "Nick Seeler",
     "_1": "PHI",
     "_2": "D",
     "_3": "43",
@@ -13167,7 +13167,7 @@
     "_12": "67"
   },
   {
-    "": "Ryan Ellis",
+    "Name": "Ryan Ellis",
     "_1": "PHI",
     "_2": "D",
     "_3": "4",
@@ -13186,7 +13186,7 @@
     "_12": "6"
   },
   {
-    "": "Bokondji Imama",
+    "Name": "Bokondji Imama",
     "_1": "PIT",
     "_2": "LW",
     "_3": "4",
@@ -13205,7 +13205,7 @@
     "_12": "0"
   },
   {
-    "": "Jonas Siegenthaler",
+    "Name": "Jonas Siegenthaler",
     "_1": "NJ",
     "_2": "D",
     "_3": "70",
@@ -13224,7 +13224,7 @@
     "_12": "106"
   },
   {
-    "": "Nick Blankenburg",
+    "Name": "Nick Blankenburg",
     "_1": "NSH",
     "_2": "D",
     "_3": "7",
@@ -13243,7 +13243,7 @@
     "_12": "12"
   },
   {
-    "": "Benoit-Olivier Groulx",
+    "Name": "Benoit-Olivier Groulx",
     "_1": "NYR",
     "_2": "C",
     "_3": "18",
@@ -13262,7 +13262,7 @@
     "_12": "6"
   },
   {
-    "": "Nicholas Merkley",
+    "Name": "Nicholas Merkley",
     "_1": "NYR",
     "_2": "C",
     "_3": "9",
@@ -13281,7 +13281,7 @@
     "_12": "2"
   },
   {
-    "": "Robin Salo",
+    "Name": "Robin Salo",
     "_1": "NYI",
     "_2": "D",
     "_3": "21",
@@ -13300,7 +13300,7 @@
     "_12": "23"
   },
   {
-    "": "Jonny Brodzinski",
+    "Name": "Jonny Brodzinski",
     "_1": "NYR",
     "_2": "RW",
     "_3": "23",
@@ -13319,7 +13319,7 @@
     "_12": "8"
   },
   {
-    "": "Grant Hutton",
+    "Name": "Grant Hutton",
     "_1": "NYI",
     "_2": "D",
     "_3": "16",
@@ -13338,7 +13338,7 @@
     "_12": "12"
   },
   {
-    "": "Reese Johnson",
+    "Name": "Reese Johnson",
     "_1": "MIN",
     "_2": "RW",
     "_3": "37",
@@ -13357,7 +13357,7 @@
     "_12": "14"
   },
   {
-    "": "Thomas Novak",
+    "Name": "Thomas Novak",
     "_1": "NSH",
     "_2": "C",
     "_3": "27",
@@ -13376,7 +13376,7 @@
     "_12": "6"
   },
   {
-    "": "Jordan Harris",
+    "Name": "Jordan Harris",
     "_1": "MON",
     "_2": "D",
     "_3": "10",
@@ -13395,7 +13395,7 @@
     "_12": "11"
   },
   {
-    "": "Rafael Harvey-Pinard",
+    "Name": "Rafael Harvey-Pinard",
     "_1": "MON",
     "_2": "LW",
     "_3": "4",
@@ -13414,7 +13414,7 @@
     "_12": "3"
   },
   {
-    "": "Justin Barron",
+    "Name": "Justin Barron",
     "_1": "MON",
     "_2": "D",
     "_3": "7",
@@ -13433,7 +13433,7 @@
     "_12": "5"
   },
   {
-    "": "Christian Wolanin",
+    "Name": "Christian Wolanin",
     "_1": "VAN",
     "_2": "D",
     "_3": "9",
@@ -13452,7 +13452,7 @@
     "_12": "13"
   },
   {
-    "": "Kiefer Sherwood",
+    "Name": "Kiefer Sherwood",
     "_1": "VAN",
     "_2": "LW",
     "_3": "11",
@@ -13471,7 +13471,7 @@
     "_12": "4"
   },
   {
-    "": "Kristian Reichel",
+    "Name": "Kristian Reichel",
     "_1": "WPG",
     "_2": "C",
     "_3": "13",
@@ -13490,7 +13490,7 @@
     "_12": "10"
   },
   {
-    "": "Logan Stanley",
+    "Name": "Logan Stanley",
     "_1": "WPG",
     "_2": "D",
     "_3": "58",
@@ -13509,7 +13509,7 @@
     "_12": "100"
   },
   {
-    "": "Hendrix Lapierre",
+    "Name": "Hendrix Lapierre",
     "_1": "WAS",
     "_2": "C",
     "_3": "6",
@@ -13528,7 +13528,7 @@
     "_12": "2"
   },
   {
-    "": "Dylan DeMelo",
+    "Name": "Dylan DeMelo",
     "_1": "WPG",
     "_2": "D",
     "_3": "76",
@@ -13547,7 +13547,7 @@
     "_12": "108"
   },
   {
-    "": "Gabriel Fortier",
+    "Name": "Gabriel Fortier",
     "_1": "TB",
     "_2": "LW",
     "_3": "10",
@@ -13566,7 +13566,7 @@
     "_12": "5"
   },
   {
-    "": "Tucker Poolman",
+    "Name": "Tucker Poolman",
     "_1": "VAN",
     "_2": "D",
     "_3": "40",
@@ -13585,7 +13585,7 @@
     "_12": "73"
   },
   {
-    "": "Tyler Myers",
+    "Name": "Tyler Myers",
     "_1": "VAN",
     "_2": "D",
     "_3": "82",
@@ -13604,7 +13604,7 @@
     "_12": "148"
   },
   {
-    "": "Vladislav Kolyachonok",
+    "Name": "Vladislav Kolyachonok",
     "_1": "UTA",
     "_2": "D",
     "_3": "32",
@@ -13623,7 +13623,7 @@
     "_12": "36"
   },
   {
-    "": "Matias Maccelli",
+    "Name": "Matias Maccelli",
     "_1": "UTA",
     "_2": "LW",
     "_3": "23",
@@ -13642,7 +13642,7 @@
     "_12": "8"
   },
   {
-    "": "Philippe Myers",
+    "Name": "Philippe Myers",
     "_1": "TOR",
     "_2": "D",
     "_3": "27",
@@ -13661,7 +13661,7 @@
     "_12": "17"
   },
   {
-    "": "John Marino",
+    "Name": "John Marino",
     "_1": "UTA",
     "_2": "D",
     "_3": "88",
@@ -13680,7 +13680,7 @@
     "_12": "105"
   },
   {
-    "": "Simon Benoit",
+    "Name": "Simon Benoit",
     "_1": "TOR",
     "_2": "D",
     "_3": "53",
@@ -13699,7 +13699,7 @@
     "_12": "39"
   },
   {
-    "": "Nicholas Robertson",
+    "Name": "Nicholas Robertson",
     "_1": "TOR",
     "_2": "LW",
     "_3": "10",
@@ -13718,7 +13718,7 @@
     "_12": "2"
   },
   {
-    "": "Nick Abruzzese",
+    "Name": "Nick Abruzzese",
     "_1": "TOR",
     "_2": "C",
     "_3": "9",
@@ -13737,7 +13737,7 @@
     "_12": "3"
   },
   {
-    "": "Kevin Connauton",
+    "Name": "Kevin Connauton",
     "_1": "UTA",
     "_2": "D",
     "_3": "39",
@@ -13756,7 +13756,7 @@
     "_12": "32"
   },
   {
-    "": "Alex Vlasic",
+    "Name": "Alex Vlasic",
     "_1": "CHI",
     "_2": "D",
     "_3": "15",
@@ -13775,7 +13775,7 @@
     "_12": "16"
   },
   {
-    "": "Trey Fix-Wolansky",
+    "Name": "Trey Fix-Wolansky",
     "_1": "CLS",
     "_2": "RW",
     "_3": "6",
@@ -13794,7 +13794,7 @@
     "_12": "4"
   },
   {
-    "": "Jake Christiansen",
+    "Name": "Jake Christiansen",
     "_1": "CLS",
     "_2": "D",
     "_3": "8",
@@ -13813,7 +13813,7 @@
     "_12": "6"
   },
   {
-    "": "Jack Johnson",
+    "Name": "Jack Johnson",
     "_1": "CLS",
     "_2": "D",
     "_3": "87",
@@ -13832,7 +13832,7 @@
     "_12": "74"
   },
   {
-    "": "Nikita Okhotyuk",
+    "Name": "Nikita Okhotyuk",
     "_1": "CGY",
     "_2": "D",
     "_3": "5",
@@ -13851,7 +13851,7 @@
     "_12": "1"
   },
   {
-    "": "Kevin Bahl",
+    "Name": "Kevin Bahl",
     "_1": "CGY",
     "_2": "D",
     "_3": "17",
@@ -13870,7 +13870,7 @@
     "_12": "15"
   },
   {
-    "": "Alec Regula",
+    "Name": "Alec Regula",
     "_1": "BOS",
     "_2": "D",
     "_3": "15",
@@ -13889,7 +13889,7 @@
     "_12": "21"
   },
   {
-    "": "Riley Tufte",
+    "Name": "Riley Tufte",
     "_1": "BOS",
     "_2": "LW",
     "_3": "10",
@@ -13908,7 +13908,7 @@
     "_12": "4"
   },
   {
-    "": "Jack Quinn",
+    "Name": "Jack Quinn",
     "_1": "BUF",
     "_2": "C",
     "_3": "2",
@@ -13927,7 +13927,7 @@
     "_12": "1"
   },
   {
-    "": "Jacob Bryson",
+    "Name": "Jacob Bryson",
     "_1": "BUF",
     "_2": "D",
     "_3": "73",
@@ -13946,7 +13946,7 @@
     "_12": "73"
   },
   {
-    "": "Beck Malenstyn",
+    "Name": "Beck Malenstyn",
     "_1": "BUF",
     "_2": "C",
     "_3": "12",
@@ -13965,7 +13965,7 @@
     "_12": "7"
   },
   {
-    "": "Joel Kiviranta",
+    "Name": "Joel Kiviranta",
     "_1": "COL",
     "_2": "RW",
     "_3": "63",
@@ -13984,7 +13984,7 @@
     "_12": "30"
   },
   {
-    "": "Jack Ahcan",
+    "Name": "Jack Ahcan",
     "_1": "COL",
     "_2": "D",
     "_3": "6",
@@ -14003,7 +14003,7 @@
     "_12": "5"
   },
   {
-    "": "Nils Lundkvist",
+    "Name": "Nils Lundkvist",
     "_1": "DAL",
     "_2": "D",
     "_3": "25",
@@ -14022,7 +14022,7 @@
     "_12": "15"
   },
   {
-    "": "Thomas Harley",
+    "Name": "Thomas Harley",
     "_1": "DAL",
     "_2": "D",
     "_3": "34",
@@ -14041,7 +14041,7 @@
     "_12": "30"
   },
   {
-    "": "Olli Maatta",
+    "Name": "Olli Maatta",
     "_1": "DET",
     "_2": "D",
     "_3": "73",
@@ -14060,7 +14060,7 @@
     "_12": "102"
   },
   {
-    "": "Philip Broberg",
+    "Name": "Philip Broberg",
     "_1": "EDM",
     "_2": "D",
     "_3": "24",
@@ -14079,7 +14079,7 @@
     "_12": "11"
   },
   {
-    "": "A.J. Greer",
+    "Name": "A.J. Greer",
     "_1": "FLA",
     "_2": "LW",
     "_3": "9",
@@ -14098,7 +14098,7 @@
     "_12": "3"
   },
   {
-    "": "Jonah Gadjovich",
+    "Name": "Jonah Gadjovich",
     "_1": "FLA",
     "_2": "LW",
     "_3": "43",
@@ -14117,7 +14117,7 @@
     "_12": "14"
   },
   {
-    "": "Tyler Benson",
+    "Name": "Tyler Benson",
     "_1": "VGK",
     "_2": "LW",
     "_3": "29",
@@ -14136,7 +14136,7 @@
     "_12": "3"
   },
   {
-    "": "Kyle Burroughs",
+    "Name": "Kyle Burroughs",
     "_1": "LA",
     "_2": "D",
     "_3": "42",
@@ -14155,7 +14155,7 @@
     "_12": "59"
   },
   {
-    "": "Robert Hagg",
+    "Name": "Robert Hagg",
     "_1": "VGK",
     "_2": "D",
     "_3": "64",
@@ -14174,7 +14174,7 @@
     "_12": "102"
   },
   {
-    "": "Matt Kiersted",
+    "Name": "Matt Kiersted",
     "_1": "FLA",
     "_2": "D",
     "_3": "10",
@@ -14193,7 +14193,7 @@
     "_12": "17"
   },
   {
-    "": "Greg Pateryn",
+    "Name": "Greg Pateryn",
     "_1": "FA",
     "_2": "D",
     "_3": "10",
@@ -14212,7 +14212,7 @@
     "_12": "7"
   },
   {
-    "": "Andrej Sustr",
+    "Name": "Andrej Sustr",
     "_1": "FA",
     "_2": "D",
     "_3": "38",
@@ -14231,7 +14231,7 @@
     "_12": "36"
   },
   {
-    "": "Buddy Robinson",
+    "Name": "Buddy Robinson",
     "_1": "FA",
     "_2": "RW",
     "_3": "32",
@@ -14250,7 +14250,7 @@
     "_12": "12"
   },
   {
-    "": "Tyler Pitlick",
+    "Name": "Tyler Pitlick",
     "_1": "FA",
     "_2": "C",
     "_3": "39",
@@ -14269,7 +14269,7 @@
     "_12": "26"
   },
   {
-    "": "Jarred Tinordi",
+    "Name": "Jarred Tinordi",
     "_1": "FA",
     "_2": "D",
     "_3": "7",
@@ -14288,7 +14288,7 @@
     "_12": "8"
   },
   {
-    "": "Matt Irwin",
+    "Name": "Matt Irwin",
     "_1": "FA",
     "_2": "D",
     "_3": "17",
@@ -14307,7 +14307,7 @@
     "_12": "21"
   },
   {
-    "": "Brad Malone",
+    "Name": "Brad Malone",
     "_1": "FA",
     "_2": "C",
     "_3": "10",
@@ -14326,7 +14326,7 @@
     "_12": "1"
   },
   {
-    "": "Logan Shaw",
+    "Name": "Logan Shaw",
     "_1": "FA",
     "_2": "RW",
     "_3": "17",
@@ -14345,7 +14345,7 @@
     "_12": "5"
   },
   {
-    "": "Andy Andreoff",
+    "Name": "Andy Andreoff",
     "_1": "FA",
     "_2": "C",
     "_3": "6",
@@ -14364,7 +14364,7 @@
     "_12": "1"
   },
   {
-    "": "Josh Leivo",
+    "Name": "Josh Leivo",
     "_1": "FA",
     "_2": "LW",
     "_3": "7",
@@ -14383,7 +14383,7 @@
     "_12": "1"
   },
   {
-    "": "Kyle Turris",
+    "Name": "Kyle Turris",
     "_1": "FA",
     "_2": "C",
     "_3": "23",
@@ -14402,7 +14402,7 @@
     "_12": "6"
   },
   {
-    "": "Jay Beagle",
+    "Name": "Jay Beagle",
     "_1": "FA",
     "_2": "C",
     "_3": "33",
@@ -14421,7 +14421,7 @@
     "_12": "16"
   },
   {
-    "": "Robert Bortuzzo",
+    "Name": "Robert Bortuzzo",
     "_1": "FA",
     "_2": "D",
     "_3": "83",
@@ -14440,7 +14440,7 @@
     "_12": "112"
   },
   {
-    "": "Kyle Clifford",
+    "Name": "Kyle Clifford",
     "_1": "FA",
     "_2": "LW",
     "_3": "26",
@@ -14459,7 +14459,7 @@
     "_12": "5"
   },
   {
-    "": "Jordie Benn",
+    "Name": "Jordie Benn",
     "_1": "FA",
     "_2": "D",
     "_3": "39",
@@ -14478,7 +14478,7 @@
     "_12": "41"
   },
   {
-    "": "Nate Thompson",
+    "Name": "Nate Thompson",
     "_1": "FA",
     "_2": "C",
     "_3": "33",
@@ -14497,7 +14497,7 @@
     "_12": "20"
   },
   {
-    "": "Keith Yandle",
+    "Name": "Keith Yandle",
     "_1": "FA",
     "_2": "D",
     "_3": "77",
@@ -14516,7 +14516,7 @@
     "_12": "40"
   },
   {
-    "": "Blake Comeau",
+    "Name": "Blake Comeau",
     "_1": "FA",
     "_2": "LW",
     "_3": "6",
@@ -14535,7 +14535,7 @@
     "_12": "3"
   },
   {
-    "": "Andrej Sekera",
+    "Name": "Andrej Sekera",
     "_1": "FA",
     "_2": "D",
     "_3": "32",
@@ -14554,7 +14554,7 @@
     "_12": "25"
   },
   {
-    "": "Michal Kempny",
+    "Name": "Michal Kempny",
     "_1": "FA",
     "_2": "D",
     "_3": "15",
@@ -14573,7 +14573,7 @@
     "_12": "19"
   },
   {
-    "": "Ethan Prow",
+    "Name": "Ethan Prow",
     "_1": "FA",
     "_2": "D",
     "_3": "4",
@@ -14592,7 +14592,7 @@
     "_12": "3"
   },
   {
-    "": "Lukas Vejdemo",
+    "Name": "Lukas Vejdemo",
     "_1": "FA",
     "_2": "C",
     "_3": "6",
@@ -14611,7 +14611,7 @@
     "_12": "4"
   },
   {
-    "": "Isaac Ratcliffe",
+    "Name": "Isaac Ratcliffe",
     "_1": "FA",
     "_2": "LW",
     "_3": "10",
@@ -14630,7 +14630,7 @@
     "_12": "8"
   },
   {
-    "": "Gustav Lindstrom",
+    "Name": "Gustav Lindstrom",
     "_1": "FA",
     "_2": "D",
     "_3": "63",
@@ -14649,7 +14649,7 @@
     "_12": "77"
   },
   {
-    "": "Lias Andersson",
+    "Name": "Lias Andersson",
     "_1": "FA",
     "_2": "LW",
     "_3": "20",
@@ -14668,7 +14668,7 @@
     "_12": "3"
   },
   {
-    "": "Radim Simek",
+    "Name": "Radim Simek",
     "_1": "FA",
     "_2": "D",
     "_3": "36",
@@ -14687,7 +14687,7 @@
     "_12": "39"
   },
   {
-    "": "Riley Damiani",
+    "Name": "Riley Damiani",
     "_1": "FA",
     "_2": "C",
     "_3": "7",
@@ -14706,7 +14706,7 @@
     "_12": "0"
   },
   {
-    "": "Ryan Merkley",
+    "Name": "Ryan Merkley",
     "_1": "FA",
     "_2": "D",
     "_3": "39",
@@ -14725,7 +14725,7 @@
     "_12": "22"
   },
   {
-    "": "Carson Meyer",
+    "Name": "Carson Meyer",
     "_1": "FA",
     "_2": "RW",
     "_3": "13",
@@ -14744,7 +14744,7 @@
     "_12": "2"
   },
   {
-    "": "Jackson Cates",
+    "Name": "Jackson Cates",
     "_1": "FA",
     "_2": "C",
     "_3": "11",
@@ -14763,7 +14763,7 @@
     "_12": "3"
   },
   {
-    "": "Jesper Froden",
+    "Name": "Jesper Froden",
     "_1": "FA",
     "_2": "RW",
     "_3": "7",
@@ -14782,7 +14782,7 @@
     "_12": "5"
   },
   {
-    "": "John Leonard",
+    "Name": "John Leonard",
     "_1": "FA",
     "_2": "C",
     "_3": "14",
@@ -14801,7 +14801,7 @@
     "_12": "8"
   },
   {
-    "": "Taro Hirose",
+    "Name": "Taro Hirose",
     "_1": "FA",
     "_2": "LW",
     "_3": "15",
@@ -14820,7 +14820,7 @@
     "_12": "2"
   },
   {
-    "": "Brayden Tracey",
+    "Name": "Brayden Tracey",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -14839,7 +14839,7 @@
     "_12": "0"
   },
   {
-    "": "Artemi Kniazev",
+    "Name": "Artemi Kniazev",
     "_1": "FA",
     "_2": "D",
     "_3": "1",
@@ -14858,7 +14858,7 @@
     "_12": "0"
   },
   {
-    "": "Mattias Norlinder",
+    "Name": "Mattias Norlinder",
     "_1": "FA",
     "_2": "D",
     "_3": "6",
@@ -14877,7 +14877,7 @@
     "_12": "3"
   },
   {
-    "": "Viktor Lodin",
+    "Name": "Viktor Lodin",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -14896,7 +14896,7 @@
     "_12": "0"
   },
   {
-    "": "Zack Hayes",
+    "Name": "Zack Hayes",
     "_1": "FA",
     "_2": "D",
     "_3": "3",
@@ -14915,7 +14915,7 @@
     "_12": "1"
   },
   {
-    "": "Bryce Kindopp",
+    "Name": "Bryce Kindopp",
     "_1": "FA",
     "_2": "RW",
     "_3": "1",
@@ -14934,7 +14934,7 @@
     "_12": "0"
   },
   {
-    "": "Linus Sandin",
+    "Name": "Linus Sandin",
     "_1": "FA",
     "_2": "RW",
     "_3": "1",
@@ -14953,7 +14953,7 @@
     "_12": "2"
   },
   {
-    "": "Josiah Slavin",
+    "Name": "Josiah Slavin",
     "_1": "FA",
     "_2": "LW",
     "_3": "15",
@@ -14972,7 +14972,7 @@
     "_12": "4"
   },
   {
-    "": "Kristians Rubins",
+    "Name": "Kristians Rubins",
     "_1": "FA",
     "_2": "D",
     "_3": "3",
@@ -14991,7 +14991,7 @@
     "_12": "2"
   },
   {
-    "": "Wyatt Kalynuk",
+    "Name": "Wyatt Kalynuk",
     "_1": "FA",
     "_2": "D",
     "_3": "5",
@@ -15010,7 +15010,7 @@
     "_12": "0"
   },
   {
-    "": "Jayden Halbgewachs",
+    "Name": "Jayden Halbgewachs",
     "_1": "FA",
     "_2": "C",
     "_3": "3",
@@ -15029,7 +15029,7 @@
     "_12": "0"
   },
   {
-    "": "Alex True",
+    "Name": "Alex True",
     "_1": "FA",
     "_2": "LW",
     "_3": "8",
@@ -15048,7 +15048,7 @@
     "_12": "2"
   },
   {
-    "": "Austin Strand",
+    "Name": "Austin Strand",
     "_1": "FA",
     "_2": "D",
     "_3": "8",
@@ -15067,7 +15067,7 @@
     "_12": "5"
   },
   {
-    "": "Sheldon Rempal",
+    "Name": "Sheldon Rempal",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -15086,7 +15086,7 @@
     "_12": "0"
   },
   {
-    "": "Jakub Galvas",
+    "Name": "Jakub Galvas",
     "_1": "FA",
     "_2": "D",
     "_3": "6",
@@ -15105,7 +15105,7 @@
     "_12": "9"
   },
   {
-    "": "Jordan Gross",
+    "Name": "Jordan Gross",
     "_1": "FA",
     "_2": "D",
     "_3": "1",
@@ -15124,7 +15124,7 @@
     "_12": "0"
   },
   {
-    "": "Juuso Riikola",
+    "Name": "Juuso Riikola",
     "_1": "FA",
     "_2": "D",
     "_3": "5",
@@ -15143,7 +15143,7 @@
     "_12": "2"
   },
   {
-    "": "Nicolas Beaudin",
+    "Name": "Nicolas Beaudin",
     "_1": "FA",
     "_2": "D",
     "_3": "2",
@@ -15162,7 +15162,7 @@
     "_12": "1"
   },
   {
-    "": "Martin Kaut",
+    "Name": "Martin Kaut",
     "_1": "FA",
     "_2": "RW",
     "_3": "6",
@@ -15181,7 +15181,7 @@
     "_12": "3"
   },
   {
-    "": "Liam Foudy",
+    "Name": "Liam Foudy",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -15200,7 +15200,7 @@
     "_12": "0"
   },
   {
-    "": "Hunter Drew",
+    "Name": "Hunter Drew",
     "_1": "FA",
     "_2": "D",
     "_3": "2",
@@ -15219,7 +15219,7 @@
     "_12": "0"
   },
   {
-    "": "Cameron Hillis",
+    "Name": "Cameron Hillis",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -15238,7 +15238,7 @@
     "_12": "0"
   },
   {
-    "": "Gavin Bayreuther",
+    "Name": "Gavin Bayreuther",
     "_1": "FA",
     "_2": "D",
     "_3": "43",
@@ -15257,7 +15257,7 @@
     "_12": "45"
   },
   {
-    "": "C.J. Smith",
+    "Name": "C.J. Smith",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -15276,7 +15276,7 @@
     "_12": "0"
   },
   {
-    "": "Mike Vecchione",
+    "Name": "Mike Vecchione",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -15295,7 +15295,7 @@
     "_12": "0"
   },
   {
-    "": "Dmitri Samorukov",
+    "Name": "Dmitri Samorukov",
     "_1": "FA",
     "_2": "D",
     "_3": "1",
@@ -15314,7 +15314,7 @@
     "_12": "0"
   },
   {
-    "": "Mason Shaw",
+    "Name": "Mason Shaw",
     "_1": "FA",
     "_2": "C",
     "_3": "3",
@@ -15333,7 +15333,7 @@
     "_12": "1"
   },
   {
-    "": "Sean Day",
+    "Name": "Sean Day",
     "_1": "FA",
     "_2": "D",
     "_3": "2",
@@ -15352,7 +15352,7 @@
     "_12": "2"
   },
   {
-    "": "Mikhail Maltsev",
+    "Name": "Mikhail Maltsev",
     "_1": "FA",
     "_2": "C",
     "_3": "18",
@@ -15371,7 +15371,7 @@
     "_12": "2"
   },
   {
-    "": "Connor Bunnaman",
+    "Name": "Connor Bunnaman",
     "_1": "FA",
     "_2": "C",
     "_3": "15",
@@ -15390,7 +15390,7 @@
     "_12": "2"
   },
   {
-    "": "Otto Koivula",
+    "Name": "Otto Koivula",
     "_1": "FA",
     "_2": "C",
     "_3": "8",
@@ -15409,7 +15409,7 @@
     "_12": "4"
   },
   {
-    "": "Linus Hogberg",
+    "Name": "Linus Hogberg",
     "_1": "FA",
     "_2": "D",
     "_3": "5",
@@ -15428,7 +15428,7 @@
     "_12": "8"
   },
   {
-    "": "Wade Allison",
+    "Name": "Wade Allison",
     "_1": "FA",
     "_2": "RW",
     "_3": "1",
@@ -15447,7 +15447,7 @@
     "_12": "0"
   },
   {
-    "": "Lucas Johansen",
+    "Name": "Lucas Johansen",
     "_1": "FA",
     "_2": "D",
     "_3": "1",
@@ -15466,7 +15466,7 @@
     "_12": "0"
   },
   {
-    "": "Libor Hajek",
+    "Name": "Libor Hajek",
     "_1": "FA",
     "_2": "D",
     "_3": "17",
@@ -15485,7 +15485,7 @@
     "_12": "26"
   },
   {
-    "": "Kyle Criscuolo",
+    "Name": "Kyle Criscuolo",
     "_1": "FA",
     "_2": "C",
     "_3": "6",
@@ -15504,7 +15504,7 @@
     "_12": "1"
   },
   {
-    "": "Anthony Greco",
+    "Name": "Anthony Greco",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -15523,7 +15523,7 @@
     "_12": "1"
   },
   {
-    "": "Olli Juolevi",
+    "Name": "Olli Juolevi",
     "_1": "FA",
     "_2": "D",
     "_3": "18",
@@ -15542,7 +15542,7 @@
     "_12": "10"
   },
   {
-    "": "Kirill Semyonov",
+    "Name": "Kirill Semyonov",
     "_1": "FA",
     "_2": "C",
     "_3": "3",
@@ -15561,7 +15561,7 @@
     "_12": "0"
   },
   {
-    "": "Andrew Poturalski",
+    "Name": "Andrew Poturalski",
     "_1": "FA",
     "_2": "C",
     "_3": "2",
@@ -15580,7 +15580,7 @@
     "_12": "1"
   },
   {
-    "": "Markus Nutivaara",
+    "Name": "Markus Nutivaara",
     "_1": "FA",
     "_2": "D",
     "_3": "1",
@@ -15599,7 +15599,7 @@
     "_12": "0"
   },
   {
-    "": "Sami Niku",
+    "Name": "Sami Niku",
     "_1": "FA",
     "_2": "D",
     "_3": "13",
@@ -15618,7 +15618,7 @@
     "_12": "17"
   },
   {
-    "": "Kole Sherwood",
+    "Name": "Kole Sherwood",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -15637,7 +15637,7 @@
     "_12": "0"
   },
   {
-    "": "Blake Speers",
+    "Name": "Blake Speers",
     "_1": "FA",
     "_2": "RW",
     "_3": "2",
@@ -15656,7 +15656,7 @@
     "_12": "2"
   },
   {
-    "": "Cooper Marody",
+    "Name": "Cooper Marody",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -15675,7 +15675,7 @@
     "_12": "0"
   },
   {
-    "": "Brendan Guhle",
+    "Name": "Brendan Guhle",
     "_1": "FA",
     "_2": "D",
     "_3": "6",
@@ -15694,7 +15694,7 @@
     "_12": "4"
   },
   {
-    "": "Christian Jaros",
+    "Name": "Christian Jaros",
     "_1": "FA",
     "_2": "D",
     "_3": "11",
@@ -15713,7 +15713,7 @@
     "_12": "10"
   },
   {
-    "": "Chase Pearson",
+    "Name": "Chase Pearson",
     "_1": "FA",
     "_2": "LW",
     "_3": "3",
@@ -15732,7 +15732,7 @@
     "_12": "0"
   },
   {
-    "": "Jakub Zboril",
+    "Name": "Jakub Zboril",
     "_1": "FA",
     "_2": "D",
     "_3": "10",
@@ -15751,7 +15751,7 @@
     "_12": "10"
   },
   {
-    "": "Zachary Senyshyn",
+    "Name": "Zachary Senyshyn",
     "_1": "FA",
     "_2": "RW",
     "_3": "2",
@@ -15770,7 +15770,7 @@
     "_12": "0"
   },
   {
-    "": "Jacob Larsson",
+    "Name": "Jacob Larsson",
     "_1": "FA",
     "_2": "D",
     "_3": "6",
@@ -15789,7 +15789,7 @@
     "_12": "5"
   },
   {
-    "": "Chase De Leo",
+    "Name": "Chase De Leo",
     "_1": "FA",
     "_2": "C",
     "_3": "2",
@@ -15808,7 +15808,7 @@
     "_12": "0"
   },
   {
-    "": "Austin Poganski",
+    "Name": "Austin Poganski",
     "_1": "FA",
     "_2": "RW",
     "_3": "16",
@@ -15827,7 +15827,7 @@
     "_12": "5"
   },
   {
-    "": "C.J. Suess",
+    "Name": "C.J. Suess",
     "_1": "FA",
     "_2": "LW",
     "_3": "3",
@@ -15846,7 +15846,7 @@
     "_12": "5"
   },
   {
-    "": "Sammy Blais",
+    "Name": "Sammy Blais",
     "_1": "FA",
     "_2": "LW",
     "_3": "14",
@@ -15865,7 +15865,7 @@
     "_12": "8"
   },
   {
-    "": "Dylan Sikura",
+    "Name": "Dylan Sikura",
     "_1": "FA",
     "_2": "LW",
     "_3": "5",
@@ -15884,7 +15884,7 @@
     "_12": "3"
   },
   {
-    "": "Vladimir Tkachev",
+    "Name": "Vladimir Tkachev",
     "_1": "FA",
     "_2": "LW",
     "_3": "4",
@@ -15903,7 +15903,7 @@
     "_12": "0"
   },
   {
-    "": "Brandon Baddock",
+    "Name": "Brandon Baddock",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -15922,7 +15922,7 @@
     "_12": "0"
   },
   {
-    "": "Ryan MacInnis",
+    "Name": "Ryan MacInnis",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -15941,7 +15941,7 @@
     "_12": "0"
   },
   {
-    "": "Michael Dal Colle",
+    "Name": "Michael Dal Colle",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -15960,7 +15960,7 @@
     "_12": "0"
   },
   {
-    "": "Frederik Gauthier",
+    "Name": "Frederik Gauthier",
     "_1": "FA",
     "_2": "C",
     "_3": "8",
@@ -15979,7 +15979,7 @@
     "_12": "3"
   },
   {
-    "": "Remi Elie",
+    "Name": "Remi Elie",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -15998,7 +15998,7 @@
     "_12": "0"
   },
   {
-    "": "Nicolas Petan",
+    "Name": "Nicolas Petan",
     "_1": "FA",
     "_2": "C",
     "_3": "18",
@@ -16017,7 +16017,7 @@
     "_12": "3"
   },
   {
-    "": "Dillon Heatherington",
+    "Name": "Dillon Heatherington",
     "_1": "FA",
     "_2": "D",
     "_3": "9",
@@ -16036,7 +16036,7 @@
     "_12": "2"
   },
   {
-    "": "Carl Dahlstrom",
+    "Name": "Carl Dahlstrom",
     "_1": "FA",
     "_2": "D",
     "_3": "3",
@@ -16055,7 +16055,7 @@
     "_12": "2"
   },
   {
-    "": "Madison Bowey",
+    "Name": "Madison Bowey",
     "_1": "FA",
     "_2": "D",
     "_3": "2",
@@ -16074,7 +16074,7 @@
     "_12": "2"
   },
   {
-    "": "Kurtis Gabriel",
+    "Name": "Kurtis Gabriel",
     "_1": "FA",
     "_2": "RW",
     "_3": "2",
@@ -16093,7 +16093,7 @@
     "_12": "0"
   },
   {
-    "": "John Moore",
+    "Name": "John Moore",
     "_1": "FA",
     "_2": "D",
     "_3": "7",
@@ -16112,7 +16112,7 @@
     "_12": "11"
   },
   {
-    "": "Richard Panik",
+    "Name": "Richard Panik",
     "_1": "FA",
     "_2": "RW",
     "_3": "4",
@@ -16131,7 +16131,7 @@
     "_12": "2"
   },
   {
-    "": "Thomas Hickey",
+    "Name": "Thomas Hickey",
     "_1": "FA",
     "_2": "D",
     "_3": "2",
@@ -16150,7 +16150,7 @@
     "_12": "3"
   },
   {
-    "": "Kyle Rau",
+    "Name": "Kyle Rau",
     "_1": "FA",
     "_2": "C",
     "_3": "5",
@@ -16169,7 +16169,7 @@
     "_12": "0"
   },
   {
-    "": "Joseph Cramarossa",
+    "Name": "Joseph Cramarossa",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -16188,7 +16188,7 @@
     "_12": "0"
   },
   {
-    "": "Steven Fogarty",
+    "Name": "Steven Fogarty",
     "_1": "FA",
     "_2": "C",
     "_3": "2",
@@ -16207,7 +16207,7 @@
     "_12": "0"
   },
   {
-    "": "Mark Borowiecki",
+    "Name": "Mark Borowiecki",
     "_1": "FA",
     "_2": "D",
     "_3": "59",
@@ -16226,7 +16226,7 @@
     "_12": "92"
   },
   {
-    "": "Sven Baertschi",
+    "Name": "Sven Baertschi",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -16245,7 +16245,7 @@
     "_12": "0"
   },
   {
-    "": "Nathan Beaulieu",
+    "Name": "Nathan Beaulieu",
     "_1": "FA",
     "_2": "D",
     "_3": "24",
@@ -16264,7 +16264,7 @@
     "_12": "19"
   },
   {
-    "": "Scott Harrington",
+    "Name": "Scott Harrington",
     "_1": "FA",
     "_2": "D",
     "_3": "7",
@@ -16283,7 +16283,7 @@
     "_12": "9"
   },
   {
-    "": "Rocco Grimaldi",
+    "Name": "Rocco Grimaldi",
     "_1": "FA",
     "_2": "C",
     "_3": "7",
@@ -16302,7 +16302,7 @@
     "_12": "0"
   },
   {
-    "": "Dmitrij Jaskin",
+    "Name": "Dmitrij Jaskin",
     "_1": "FA",
     "_2": "RW",
     "_3": "12",
@@ -16321,7 +16321,7 @@
     "_12": "9"
   },
   {
-    "": "Alex Biega",
+    "Name": "Alex Biega",
     "_1": "FA",
     "_2": "D",
     "_3": "2",
@@ -16340,7 +16340,7 @@
     "_12": "1"
   },
   {
-    "": "Brett Connolly",
+    "Name": "Brett Connolly",
     "_1": "FA",
     "_2": "RW",
     "_3": "9",
@@ -16359,7 +16359,7 @@
     "_12": "3"
   },
   {
-    "": "Danny DeKeyser",
+    "Name": "Danny DeKeyser",
     "_1": "FA",
     "_2": "D",
     "_3": "59",
@@ -16378,7 +16378,7 @@
     "_12": "102"
   },
   {
-    "": "Luke Witkowski",
+    "Name": "Luke Witkowski",
     "_1": "FA",
     "_2": "D",
     "_3": "1",
@@ -16397,7 +16397,7 @@
     "_12": "0"
   },
   {
-    "": "Jayson Megna",
+    "Name": "Jayson Megna",
     "_1": "FA",
     "_2": "LW",
     "_3": "20",
@@ -16416,7 +16416,7 @@
     "_12": "9"
   },
   {
-    "": "Cedric Paquette",
+    "Name": "Cedric Paquette",
     "_1": "FA",
     "_2": "C",
     "_3": "24",
@@ -16435,7 +16435,7 @@
     "_12": "14"
   },
   {
-    "": "Gemel Smith",
+    "Name": "Gemel Smith",
     "_1": "FA",
     "_2": "C",
     "_3": "3",
@@ -16454,7 +16454,7 @@
     "_12": "1"
   },
   {
-    "": "Seth Griffith",
+    "Name": "Seth Griffith",
     "_1": "FA",
     "_2": "RW",
     "_3": "1",
@@ -16473,7 +16473,7 @@
     "_12": "0"
   },
   {
-    "": "Danny O'Regan",
+    "Name": "Danny O'Regan",
     "_1": "FA",
     "_2": "C",
     "_3": "5",
@@ -16492,7 +16492,7 @@
     "_12": "4"
   },
   {
-    "": "Riley Barber",
+    "Name": "Riley Barber",
     "_1": "FA",
     "_2": "RW",
     "_3": "4",
@@ -16511,7 +16511,7 @@
     "_12": "1"
   },
   {
-    "": "Paul LaDue",
+    "Name": "Paul LaDue",
     "_1": "FA",
     "_2": "D",
     "_3": "1",
@@ -16530,7 +16530,7 @@
     "_12": "1"
   },
   {
-    "": "Turner Elson",
+    "Name": "Turner Elson",
     "_1": "FA",
     "_2": "LW",
     "_3": "2",
@@ -16549,7 +16549,7 @@
     "_12": "1"
   },
   {
-    "": "Fredrik Claesson",
+    "Name": "Fredrik Claesson",
     "_1": "FA",
     "_2": "D",
     "_3": "9",
@@ -16568,7 +16568,7 @@
     "_12": "6"
   },
   {
-    "": "Josh Archibald",
+    "Name": "Josh Archibald",
     "_1": "FA",
     "_2": "RW",
     "_3": "21",
@@ -16587,7 +16587,7 @@
     "_12": "7"
   },
   {
-    "": "Matthew Peca",
+    "Name": "Matthew Peca",
     "_1": "FA",
     "_2": "C",
     "_3": "5",
@@ -16606,7 +16606,7 @@
     "_12": "1"
   },
   {
-    "": "Leo Komarov",
+    "Name": "Leo Komarov",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -16625,7 +16625,7 @@
     "_12": "0"
   },
   {
-    "": "Ryan Murray",
+    "Name": "Ryan Murray",
     "_1": "FA",
     "_2": "D",
     "_3": "37",
@@ -16644,7 +16644,7 @@
     "_12": "41"
   },
   {
-    "": "Matt Tennyson",
+    "Name": "Matt Tennyson",
     "_1": "FA",
     "_2": "D",
     "_3": "8",
@@ -16663,7 +16663,7 @@
     "_12": "4"
   },
   {
-    "": "Slater Koekkoek",
+    "Name": "Slater Koekkoek",
     "_1": "FA",
     "_2": "D",
     "_3": "19",
@@ -16682,7 +16682,7 @@
     "_12": "18"
   },
   {
-    "": "Stefan Matteau",
+    "Name": "Stefan Matteau",
     "_1": "FA",
     "_2": "RW",
     "_3": "1",
@@ -16701,7 +16701,7 @@
     "_12": "0"
   },
   {
-    "": "Tobias Bjornfot",
+    "Name": "Tobias Bjornfot",
     "_1": "FLA",
     "_2": "D",
     "_3": "70",
@@ -16720,7 +16720,7 @@
     "_12": "58"
   },
   {
-    "": "Mason Geertsen",
+    "Name": "Mason Geertsen",
     "_1": "VGK",
     "_2": "D",
     "_3": "25",
@@ -16739,7 +16739,7 @@
     "_12": "7"
   },
   {
-    "": "Grigori Denisenko",
+    "Name": "Grigori Denisenko",
     "_1": "VGK",
     "_2": "LW",
     "_3": "1",
@@ -16758,7 +16758,7 @@
     "_12": "2"
   },
   {
-    "": "Pavel Dorofeyev",
+    "Name": "Pavel Dorofeyev",
     "_1": "VGK",
     "_2": "LW",
     "_3": "2",
@@ -16777,7 +16777,7 @@
     "_12": "1"
   },
   {
-    "": "Kaedan Korczak",
+    "Name": "Kaedan Korczak",
     "_1": "VGK",
     "_2": "D",
     "_3": "1",
@@ -16796,7 +16796,7 @@
     "_12": "1"
   },
   {
-    "": "Alexander Holtz",
+    "Name": "Alexander Holtz",
     "_1": "VGK",
     "_2": "RW",
     "_3": "9",
@@ -16815,7 +16815,7 @@
     "_12": "2"
   },
   {
-    "": "Tanner Laczynski",
+    "Name": "Tanner Laczynski",
     "_1": "VGK",
     "_2": "C",
     "_3": "1",
@@ -16834,7 +16834,7 @@
     "_12": "1"
   },
   {
-    "": "Aleksi Heponiemi",
+    "Name": "Aleksi Heponiemi",
     "_1": "FLA",
     "_2": "LW",
     "_3": "6",
@@ -16853,7 +16853,7 @@
     "_12": "1"
   },
   {
-    "": "William Lockwood",
+    "Name": "William Lockwood",
     "_1": "FLA",
     "_2": "RW",
     "_3": "13",
@@ -16872,7 +16872,7 @@
     "_12": "9"
   },
   {
-    "": "Zac Dalpe",
+    "Name": "Zac Dalpe",
     "_1": "FLA",
     "_2": "C",
     "_3": "1",
@@ -16891,7 +16891,7 @@
     "_12": "1"
   },
   {
-    "": "Petteri Lindbohm",
+    "Name": "Petteri Lindbohm",
     "_1": "FLA",
     "_2": "D",
     "_3": "9",
@@ -16910,7 +16910,7 @@
     "_12": "8"
   },
   {
-    "": "Dylan Holloway",
+    "Name": "Dylan Holloway",
     "_1": "EDM",
     "_2": "C",
     "_3": "1",
@@ -16929,7 +16929,7 @@
     "_12": "0"
   },
   {
-    "": "Markus Niemelainen",
+    "Name": "Markus Niemelainen",
     "_1": "EDM",
     "_2": "D",
     "_3": "20",
@@ -16948,7 +16948,7 @@
     "_12": "19"
   },
   {
-    "": "Cam Dineen",
+    "Name": "Cam Dineen",
     "_1": "EDM",
     "_2": "D",
     "_3": "34",
@@ -16967,7 +16967,7 @@
     "_12": "44"
   },
   {
-    "": "Josh Brown",
+    "Name": "Josh Brown",
     "_1": "EDM",
     "_2": "D",
     "_3": "53",
@@ -16986,7 +16986,7 @@
     "_12": "62"
   },
   {
-    "": "Lane Pederson",
+    "Name": "Lane Pederson",
     "_1": "EDM",
     "_2": "C",
     "_3": "29",
@@ -17005,7 +17005,7 @@
     "_12": "10"
   },
   {
-    "": "William Lagesson",
+    "Name": "William Lagesson",
     "_1": "DET",
     "_2": "D",
     "_3": "33",
@@ -17024,7 +17024,7 @@
     "_12": "20"
   },
   {
-    "": "Tim Gettinger",
+    "Name": "Tim Gettinger",
     "_1": "DET",
     "_2": "LW",
     "_3": "8",
@@ -17043,7 +17043,7 @@
     "_12": "5"
   },
   {
-    "": "Erik Brannstrom",
+    "Name": "Erik Brannstrom",
     "_1": "COL",
     "_2": "D",
     "_3": "53",
@@ -17062,7 +17062,7 @@
     "_12": "59"
   },
   {
-    "": "Sampo Ranta",
+    "Name": "Sampo Ranta",
     "_1": "COL",
     "_2": "LW",
     "_3": "10",
@@ -17081,7 +17081,7 @@
     "_12": "6"
   },
   {
-    "": "Tanner Kero",
+    "Name": "Tanner Kero",
     "_1": "COL",
     "_2": "LW",
     "_3": "23",
@@ -17100,7 +17100,7 @@
     "_12": "9"
   },
   {
-    "": "Jacob MacDonald",
+    "Name": "Jacob MacDonald",
     "_1": "COL",
     "_2": "D",
     "_3": "8",
@@ -17119,7 +17119,7 @@
     "_12": "3"
   },
   {
-    "": "Miles Wood",
+    "Name": "Miles Wood",
     "_1": "COL",
     "_2": "LW",
     "_3": "3",
@@ -17138,7 +17138,7 @@
     "_12": "1"
   },
   {
-    "": "Chris Wagner",
+    "Name": "Chris Wagner",
     "_1": "COL",
     "_2": "RW",
     "_3": "4",
@@ -17157,7 +17157,7 @@
     "_12": "1"
   },
   {
-    "": "Kent Johnson",
+    "Name": "Kent Johnson",
     "_1": "CLS",
     "_2": "C",
     "_3": "9",
@@ -17176,7 +17176,7 @@
     "_12": "1"
   },
   {
-    "": "T.J. Tynan",
+    "Name": "T.J. Tynan",
     "_1": "COL",
     "_2": "C",
     "_3": "2",
@@ -17195,7 +17195,7 @@
     "_12": "2"
   },
   {
-    "": "Jack Rathbone",
+    "Name": "Jack Rathbone",
     "_1": "BUF",
     "_2": "D",
     "_3": "9",
@@ -17214,7 +17214,7 @@
     "_12": "8"
   },
   {
-    "": "Mattias Samuelsson",
+    "Name": "Mattias Samuelsson",
     "_1": "BUF",
     "_2": "D",
     "_3": "42",
@@ -17233,7 +17233,7 @@
     "_12": "60"
   },
   {
-    "": "John-Jason Peterka",
+    "Name": "John-Jason Peterka",
     "_1": "BUF",
     "_2": "RW",
     "_3": "2",
@@ -17252,7 +17252,7 @@
     "_12": "2"
   },
   {
-    "": "Jalen Chatfield",
+    "Name": "Jalen Chatfield",
     "_1": "CAR",
     "_2": "D",
     "_3": "16",
@@ -17271,7 +17271,7 @@
     "_12": "10"
   },
   {
-    "": "Max Jones",
+    "Name": "Max Jones",
     "_1": "BOS",
     "_2": "LW",
     "_3": "2",
@@ -17290,7 +17290,7 @@
     "_12": "0"
   },
   {
-    "": "Dan Renouf",
+    "Name": "Dan Renouf",
     "_1": "BOS",
     "_2": "D",
     "_3": "4",
@@ -17309,7 +17309,7 @@
     "_12": "2"
   },
   {
-    "": "Ian Mitchell",
+    "Name": "Ian Mitchell",
     "_1": "BOS",
     "_2": "D",
     "_3": "8",
@@ -17328,7 +17328,7 @@
     "_12": "9"
   },
   {
-    "": "Tyler Lewington",
+    "Name": "Tyler Lewington",
     "_1": "BOS",
     "_2": "D",
     "_3": "2",
@@ -17347,7 +17347,7 @@
     "_12": "2"
   },
   {
-    "": "Urho Vaakanainen",
+    "Name": "Urho Vaakanainen",
     "_1": "ANH",
     "_2": "D",
     "_3": "29",
@@ -17366,7 +17366,7 @@
     "_12": "28"
   },
   {
-    "": "Brayden Pachal",
+    "Name": "Brayden Pachal",
     "_1": "CGY",
     "_2": "D",
     "_3": "2",
@@ -17385,7 +17385,7 @@
     "_12": "1"
   },
   {
-    "": "Daniil Miromanov",
+    "Name": "Daniil Miromanov",
     "_1": "CGY",
     "_2": "D",
     "_3": "11",
@@ -17404,7 +17404,7 @@
     "_12": "6"
   },
   {
-    "": "Cole Schwindt",
+    "Name": "Cole Schwindt",
     "_1": "CGY",
     "_2": "RW",
     "_3": "3",
@@ -17423,7 +17423,7 @@
     "_12": "2"
   },
   {
-    "": "Walker Duehr",
+    "Name": "Walker Duehr",
     "_1": "CGY",
     "_2": "RW",
     "_3": "1",
@@ -17442,7 +17442,7 @@
     "_12": "0"
   },
   {
-    "": "Clark Bishop",
+    "Name": "Clark Bishop",
     "_1": "CGY",
     "_2": "C",
     "_3": "9",
@@ -17461,7 +17461,7 @@
     "_12": "3"
   },
   {
-    "": "Sean Walker",
+    "Name": "Sean Walker",
     "_1": "CAR",
     "_2": "D",
     "_3": "6",
@@ -17480,7 +17480,7 @@
     "_12": "9"
   },
   {
-    "": "Joey Keane",
+    "Name": "Joey Keane",
     "_1": "CAR",
     "_2": "D",
     "_3": "1",
@@ -17499,7 +17499,7 @@
     "_12": "0"
   },
   {
-    "": "Joey Anderson",
+    "Name": "Joey Anderson",
     "_1": "CHI",
     "_2": "RW",
     "_3": "5",
@@ -17518,7 +17518,7 @@
     "_12": "0"
   },
   {
-    "": "Mathieu Olivier",
+    "Name": "Mathieu Olivier",
     "_1": "CLS",
     "_2": "RW",
     "_3": "13",
@@ -17537,7 +17537,7 @@
     "_12": "7"
   },
   {
-    "": "Lukas Reichel",
+    "Name": "Lukas Reichel",
     "_1": "CHI",
     "_2": "RW",
     "_3": "11",
@@ -17556,7 +17556,7 @@
     "_12": "3"
   },
   {
-    "": "Isaak Phillips",
+    "Name": "Isaak Phillips",
     "_1": "CHI",
     "_2": "D",
     "_3": "4",
@@ -17575,7 +17575,7 @@
     "_12": "1"
   },
   {
-    "": "Brett Seney",
+    "Name": "Brett Seney",
     "_1": "CHI",
     "_2": "LW",
     "_3": "2",
@@ -17594,7 +17594,7 @@
     "_12": "2"
   },
   {
-    "": "Andrew Agozzino",
+    "Name": "Andrew Agozzino",
     "_1": "UTA",
     "_2": "LW",
     "_3": "1",
@@ -17613,7 +17613,7 @@
     "_12": "0"
   },
   {
-    "": "Dakota Mermis",
+    "Name": "Dakota Mermis",
     "_1": "TOR",
     "_2": "D",
     "_3": "2",
@@ -17632,7 +17632,7 @@
     "_12": "1"
   },
   {
-    "": "Alex Steeves",
+    "Name": "Alex Steeves",
     "_1": "TOR",
     "_2": "LW",
     "_3": "3",
@@ -17651,7 +17651,7 @@
     "_12": "1"
   },
   {
-    "": "Kevin Stenlund",
+    "Name": "Kevin Stenlund",
     "_1": "UTA",
     "_2": "C",
     "_3": "3",
@@ -17670,7 +17670,7 @@
     "_12": "2"
   },
   {
-    "": "Ben McCartney",
+    "Name": "Ben McCartney",
     "_1": "UTA",
     "_2": "LW",
     "_3": "2",
@@ -17689,7 +17689,7 @@
     "_12": "0"
   },
   {
-    "": "Victor Soderstrom",
+    "Name": "Victor Soderstrom",
     "_1": "UTA",
     "_2": "D",
     "_3": "16",
@@ -17708,7 +17708,7 @@
     "_12": "23"
   },
   {
-    "": "Juuso Valimaki",
+    "Name": "Juuso Valimaki",
     "_1": "UTA",
     "_2": "D",
     "_3": "9",
@@ -17727,7 +17727,7 @@
     "_12": "9"
   },
   {
-    "": "Michael Eyssimont",
+    "Name": "Michael Eyssimont",
     "_1": "TB",
     "_2": "C",
     "_3": "1",
@@ -17746,7 +17746,7 @@
     "_12": "0"
   },
   {
-    "": "Darren Raddysh",
+    "Name": "Darren Raddysh",
     "_1": "TB",
     "_2": "D",
     "_3": "4",
@@ -17765,7 +17765,7 @@
     "_12": "6"
   },
   {
-    "": "Derrick Pouliot",
+    "Name": "Derrick Pouliot",
     "_1": "TB",
     "_2": "D",
     "_3": "11",
@@ -17784,7 +17784,7 @@
     "_12": "14"
   },
   {
-    "": "Steve Santini",
+    "Name": "Steve Santini",
     "_1": "TB",
     "_2": "D",
     "_3": "1",
@@ -17803,7 +17803,7 @@
     "_12": "0"
   },
   {
-    "": "Mitchell Chaffee",
+    "Name": "Mitchell Chaffee",
     "_1": "TB",
     "_2": "RW",
     "_3": "2",
@@ -17822,7 +17822,7 @@
     "_12": "0"
   },
   {
-    "": "Conor Timmins",
+    "Name": "Conor Timmins",
     "_1": "TOR",
     "_2": "D",
     "_3": "6",
@@ -17841,7 +17841,7 @@
     "_12": "9"
   },
   {
-    "": "Ville Heinola",
+    "Name": "Ville Heinola",
     "_1": "WPG",
     "_2": "D",
     "_3": "12",
@@ -17860,7 +17860,7 @@
     "_12": "7"
   },
   {
-    "": "Jaret Anderson-Dolan",
+    "Name": "Jaret Anderson-Dolan",
     "_1": "WPG",
     "_2": "C",
     "_3": "7",
@@ -17879,7 +17879,7 @@
     "_12": "3"
   },
   {
-    "": "Dylan Samberg",
+    "Name": "Dylan Samberg",
     "_1": "WPG",
     "_2": "D",
     "_3": "15",
@@ -17898,7 +17898,7 @@
     "_12": "19"
   },
   {
-    "": "David Gustafsson",
+    "Name": "David Gustafsson",
     "_1": "WPG",
     "_2": "C",
     "_3": "2",
@@ -17917,7 +17917,7 @@
     "_12": "0"
   },
   {
-    "": "Noah Juulsen",
+    "Name": "Noah Juulsen",
     "_1": "VAN",
     "_2": "D",
     "_3": "8",
@@ -17936,7 +17936,7 @@
     "_12": "11"
   },
   {
-    "": "Guillaume Brisebois",
+    "Name": "Guillaume Brisebois",
     "_1": "VAN",
     "_2": "D",
     "_3": "1",
@@ -17955,7 +17955,7 @@
     "_12": "1"
   },
   {
-    "": "Alexander Alexeyev",
+    "Name": "Alexander Alexeyev",
     "_1": "WAS",
     "_2": "D",
     "_3": "1",
@@ -17974,7 +17974,7 @@
     "_12": "0"
   },
   {
-    "": "Chase Priskie",
+    "Name": "Chase Priskie",
     "_1": "WAS",
     "_2": "D",
     "_3": "4",
@@ -17993,7 +17993,7 @@
     "_12": "3"
   },
   {
-    "": "Jacob Perreault",
+    "Name": "Jacob Perreault",
     "_1": "MON",
     "_2": "RW",
     "_3": "1",
@@ -18012,7 +18012,7 @@
     "_12": "1"
   },
   {
-    "": "Adam Raska",
+    "Name": "Adam Raska",
     "_1": "MIN",
     "_2": "LW",
     "_3": "5",
@@ -18031,7 +18031,7 @@
     "_12": "0"
   },
   {
-    "": "Marco Rossi",
+    "Name": "Marco Rossi",
     "_1": "MIN",
     "_2": "C",
     "_3": "2",
@@ -18050,7 +18050,7 @@
     "_12": "1"
   },
   {
-    "": "Anthony Angello",
+    "Name": "Anthony Angello",
     "_1": "NSH",
     "_2": "C",
     "_3": "4",
@@ -18069,7 +18069,7 @@
     "_12": "0"
   },
   {
-    "": "Ben Jones",
+    "Name": "Ben Jones",
     "_1": "MIN",
     "_2": "C",
     "_3": "2",
@@ -18088,7 +18088,7 @@
     "_12": "1"
   },
   {
-    "": "Declan Chisholm",
+    "Name": "Declan Chisholm",
     "_1": "MIN",
     "_2": "D",
     "_3": "2",
@@ -18107,7 +18107,7 @@
     "_12": "1"
   },
   {
-    "": "Alex Turcotte",
+    "Name": "Alex Turcotte",
     "_1": "LA",
     "_2": "C",
     "_3": "8",
@@ -18126,7 +18126,7 @@
     "_12": "2"
   },
   {
-    "": "Samuel Fagemo",
+    "Name": "Samuel Fagemo",
     "_1": "LA",
     "_2": "LW",
     "_3": "4",
@@ -18145,7 +18145,7 @@
     "_12": "3"
   },
   {
-    "": "Jeff Malott",
+    "Name": "Jeff Malott",
     "_1": "LA",
     "_2": "C",
     "_3": "1",
@@ -18164,7 +18164,7 @@
     "_12": "0"
   },
   {
-    "": "Jacob Moverare",
+    "Name": "Jacob Moverare",
     "_1": "LA",
     "_2": "D",
     "_3": "19",
@@ -18183,7 +18183,7 @@
     "_12": "21"
   },
   {
-    "": "Glenn Gawdin",
+    "Name": "Glenn Gawdin",
     "_1": "LA",
     "_2": "C",
     "_3": "2",
@@ -18202,7 +18202,7 @@
     "_12": "1"
   },
   {
-    "": "Jack Studnicka",
+    "Name": "Jack Studnicka",
     "_1": "LA",
     "_2": "C",
     "_3": "15",
@@ -18221,7 +18221,7 @@
     "_12": "5"
   },
   {
-    "": "Reilly Walsh",
+    "Name": "Reilly Walsh",
     "_1": "LA",
     "_2": "D",
     "_3": "1",
@@ -18240,7 +18240,7 @@
     "_12": "2"
   },
   {
-    "": "Tyce Thompson",
+    "Name": "Tyce Thompson",
     "_1": "NYI",
     "_2": "C",
     "_3": "2",
@@ -18259,7 +18259,7 @@
     "_12": "0"
   },
   {
-    "": "Riley Nash",
+    "Name": "Riley Nash",
     "_1": "NYR",
     "_2": "C",
     "_3": "57",
@@ -18278,7 +18278,7 @@
     "_12": "20"
   },
   {
-    "": "Fredrik Karlstrom",
+    "Name": "Fredrik Karlstrom",
     "_1": "NYI",
     "_2": "C",
     "_3": "3",
@@ -18297,7 +18297,7 @@
     "_12": "0"
   },
   {
-    "": "Dennis Cholowski",
+    "Name": "Dennis Cholowski",
     "_1": "NYI",
     "_2": "D",
     "_3": "11",
@@ -18316,7 +18316,7 @@
     "_12": "13"
   },
   {
-    "": "Hudson Fasching",
+    "Name": "Hudson Fasching",
     "_1": "NYI",
     "_2": "RW",
     "_3": "11",
@@ -18335,7 +18335,7 @@
     "_12": "6"
   },
   {
-    "": "Alex Belzile",
+    "Name": "Alex Belzile",
     "_1": "NYR",
     "_2": "LW",
     "_3": "11",
@@ -18354,7 +18354,7 @@
     "_12": "5"
   },
   {
-    "": "Ben Harpur",
+    "Name": "Ben Harpur",
     "_1": "NYR",
     "_2": "D",
     "_3": "19",
@@ -18373,7 +18373,7 @@
     "_12": "21"
   },
   {
-    "": "Casey Fitzgerald",
+    "Name": "Casey Fitzgerald",
     "_1": "NYR",
     "_2": "D",
     "_3": "36",
@@ -18392,7 +18392,7 @@
     "_12": "35"
   },
   {
-    "": "Johnny Kovacevic",
+    "Name": "Johnny Kovacevic",
     "_1": "NJ",
     "_2": "D",
     "_3": "4",
@@ -18411,7 +18411,7 @@
     "_12": "3"
   },
   {
-    "": "Adam Beckman",
+    "Name": "Adam Beckman",
     "_1": "NJ",
     "_2": "LW",
     "_3": "3",
@@ -18430,7 +18430,7 @@
     "_12": "1"
   },
   {
-    "": "Santeri Hatakka",
+    "Name": "Santeri Hatakka",
     "_1": "NJ",
     "_2": "D",
     "_3": "9",
@@ -18449,7 +18449,7 @@
     "_12": "7"
   },
   {
-    "": "Mike Hardman",
+    "Name": "Mike Hardman",
     "_1": "NJ",
     "_2": "RW",
     "_3": "21",
@@ -18468,7 +18468,7 @@
     "_12": "12"
   },
   {
-    "": "Colton White",
+    "Name": "Colton White",
     "_1": "NJ",
     "_2": "D",
     "_3": "27",
@@ -18487,7 +18487,7 @@
     "_12": "14"
   },
   {
-    "": "Stefan Noesen",
+    "Name": "Stefan Noesen",
     "_1": "NJ",
     "_2": "C",
     "_3": "2",
@@ -18506,7 +18506,7 @@
     "_12": "0"
   },
   {
-    "": "Cody Glass",
+    "Name": "Cody Glass",
     "_1": "NSH",
     "_2": "C",
     "_3": "10",
@@ -18525,7 +18525,7 @@
     "_12": "4"
   },
   {
-    "": "Cole Smith",
+    "Name": "Cole Smith",
     "_1": "NSH",
     "_2": "LW",
     "_3": "8",
@@ -18544,7 +18544,7 @@
     "_12": "1"
   },
   {
-    "": "Bobby Brink",
+    "Name": "Bobby Brink",
     "_1": "PHI",
     "_2": "RW",
     "_3": "10",
@@ -18563,7 +18563,7 @@
     "_12": "2"
   },
   {
-    "": "Victor Mete",
+    "Name": "Victor Mete",
     "_1": "PHI",
     "_2": "D",
     "_3": "37",
@@ -18582,7 +18582,7 @@
     "_12": "38"
   },
   {
-    "": "Rhett Gardner",
+    "Name": "Rhett Gardner",
     "_1": "PHI",
     "_2": "C",
     "_3": "4",
@@ -18601,7 +18601,7 @@
     "_12": "1"
   },
   {
-    "": "Egor Zamula",
+    "Name": "Egor Zamula",
     "_1": "PHI",
     "_2": "D",
     "_3": "10",
@@ -18620,7 +18620,7 @@
     "_12": "19"
   },
   {
-    "": "Cole Reinhardt",
+    "Name": "Cole Reinhardt",
     "_1": "OTT",
     "_2": "LW",
     "_3": "1",
@@ -18639,7 +18639,7 @@
     "_12": "0"
   },
   {
-    "": "Jacob Bernard-Docker",
+    "Name": "Jacob Bernard-Docker",
     "_1": "OTT",
     "_2": "D",
     "_3": "8",
@@ -18658,7 +18658,7 @@
     "_12": "3"
   },
   {
-    "": "Egor Sokolov",
+    "Name": "Egor Sokolov",
     "_1": "OTT",
     "_2": "LW",
     "_3": "8",
@@ -18677,7 +18677,7 @@
     "_12": "4"
   },
   {
-    "": "Lassi Thomson",
+    "Name": "Lassi Thomson",
     "_1": "OTT",
     "_2": "D",
     "_3": "16",
@@ -18696,7 +18696,7 @@
     "_12": "9"
   },
   {
-    "": "Shane Pinto",
+    "Name": "Shane Pinto",
     "_1": "OTT",
     "_2": "C",
     "_3": "5",
@@ -18715,7 +18715,7 @@
     "_12": "1"
   },
   {
-    "": "Jeremy Davies",
+    "Name": "Jeremy Davies",
     "_1": "OTT",
     "_2": "D",
     "_3": "6",
@@ -18734,7 +18734,7 @@
     "_12": "1"
   },
   {
-    "": "Zac Jones",
+    "Name": "Zac Jones",
     "_1": "NYR",
     "_2": "D",
     "_3": "12",
@@ -18753,7 +18753,7 @@
     "_12": "13"
   },
   {
-    "": "Connor Mackey",
+    "Name": "Connor Mackey",
     "_1": "NYR",
     "_2": "D",
     "_3": "3",
@@ -18772,7 +18772,7 @@
     "_12": "1"
   },
   {
-    "": "Filip Hallander",
+    "Name": "Filip Hallander",
     "_1": "PIT",
     "_2": "C",
     "_3": "1",
@@ -18791,7 +18791,7 @@
     "_12": "0"
   },
   {
-    "": "Valtteri Puustinen",
+    "Name": "Valtteri Puustinen",
     "_1": "PIT",
     "_2": "RW",
     "_3": "1",
@@ -18810,7 +18810,7 @@
     "_12": "0"
   },
   {
-    "": "Jon Lizotte",
+    "Name": "Jon Lizotte",
     "_1": "PIT",
     "_2": "D",
     "_3": "1",
@@ -18829,7 +18829,7 @@
     "_12": "4"
   },
   {
-    "": "Justin Bailey",
+    "Name": "Justin Bailey",
     "_1": "SJ",
     "_2": "RW",
     "_3": "14",
@@ -18848,7 +18848,7 @@
     "_12": "6"
   },
   {
-    "": "Matt Benning",
+    "Name": "Matt Benning",
     "_1": "SJ",
     "_2": "D",
     "_3": "68",
@@ -18867,7 +18867,7 @@
     "_12": "68"
   },
   {
-    "": "Scott Sabourin",
+    "Name": "Scott Sabourin",
     "_1": "SJ",
     "_2": "RW",
     "_3": "7",
@@ -18886,7 +18886,7 @@
     "_12": "4"
   },
   {
-    "": "Max McCormick",
+    "Name": "Max McCormick",
     "_1": "SEA",
     "_2": "LW",
     "_3": "10",
@@ -18905,7 +18905,7 @@
     "_12": "3"
   },
   {
-    "": "Thomas Bordeleau",
+    "Name": "Thomas Bordeleau",
     "_1": "SJ",
     "_2": "LW",
     "_3": "8",
@@ -18924,7 +18924,7 @@
     "_12": "4"
   },
   {
-    "": "William Eklund",
+    "Name": "William Eklund",
     "_1": "SJ",
     "_2": "LW",
     "_3": "9",
@@ -18943,7 +18943,7 @@
     "_12": "4"
   },
   {
-    "": "Alex Chmelevski",
+    "Name": "Alex Chmelevski",
     "_1": "SJ",
     "_2": "C",
     "_3": "19",
@@ -18962,7 +18962,7 @@
     "_12": "4"
   },
   {
-    "": "Ty Dellandrea",
+    "Name": "Ty Dellandrea",
     "_1": "SJ",
     "_2": "C",
     "_3": "2",
@@ -18981,7 +18981,7 @@
     "_12": "0"
   },
   {
-    "": "Max Lajoie",
+    "Name": "Max Lajoie",
     "_1": "SEA",
     "_2": "D",
     "_3": "5",
@@ -19000,7 +19000,7 @@
     "_12": "5"
   },
   {
-    "": "Cale Fleury",
+    "Name": "Cale Fleury",
     "_1": "SEA",
     "_2": "D",
     "_3": "9",
@@ -19019,7 +19019,7 @@
     "_12": "14"
   },
   {
-    "": "Brandon Biro",
+    "Name": "Brandon Biro",
     "_1": "SEA",
     "_2": "LW",
     "_3": "1",
@@ -19038,7 +19038,7 @@
     "_12": "0"
   },
   {
-    "": "Mitchell Stephens",
+    "Name": "Mitchell Stephens",
     "_1": "SEA",
     "_2": "C",
     "_3": "27",
@@ -19057,7 +19057,7 @@
     "_12": "9"
   },
   {
-    "": "Scott Perunovich",
+    "Name": "Scott Perunovich",
     "_1": "STL",
     "_2": "D",
     "_3": "26",
@@ -19076,7 +19076,7 @@
     "_12": "16"
   },
   {
-    "": "Pierre-Olivier Joseph",
+    "Name": "Pierre-Olivier Joseph",
     "_1": "STL",
     "_2": "D",
     "_3": "4",
@@ -19095,7 +19095,7 @@
     "_12": "4"
   },
   {
-    "": "Mackenzie MacEachern",
+    "Name": "Mackenzie MacEachern",
     "_1": "STL",
     "_2": "LW",
     "_3": "14",

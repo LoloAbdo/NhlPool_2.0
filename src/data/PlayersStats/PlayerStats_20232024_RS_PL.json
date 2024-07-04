@@ -1,25 +1,6 @@
 [
   {
-    "": "Player Name",
-    "_1": "Team",
-    "_2": "Pos",
-    "_3": "Games",
-    "Overall": "G",
-    "_4": "A",
-    "_5": "Pts",
-    "_6": "+/-",
-    "_7": "PIM",
-    "_8": "SOG",
-    "_9": "GWG",
-    "PP": "G",
-    "_10": "A",
-    "SH": "G",
-    "_11": "A",
-    "Defense": "Hits",
-    "_12": "BS"
-  },
-  {
-    "": "Zach Hyman",
+    "Name": "Zach Hyman",
     "_1": "EDM",
     "_2": "RW",
     "_3": "105",
@@ -38,7 +19,7 @@
     "_12": "48"
   },
   {
-    "": "Auston Matthews",
+    "Name": "Auston Matthews",
     "_1": "TOR",
     "_2": "C",
     "_3": "86",
@@ -57,7 +38,7 @@
     "_12": "97"
   },
   {
-    "": "Sam Reinhart",
+    "Name": "Sam Reinhart",
     "_1": "FLA",
     "_2": "RW",
     "_3": "106",
@@ -76,7 +57,7 @@
     "_12": "100"
   },
   {
-    "": "Nathan MacKinnon",
+    "Name": "Nathan MacKinnon",
     "_1": "COL",
     "_2": "C",
     "_3": "93",
@@ -95,7 +76,7 @@
     "_12": "82"
   },
   {
-    "": "Artemi Panarin",
+    "Name": "Artemi Panarin",
     "_1": "NYR",
     "_2": "LW",
     "_3": "98",
@@ -114,7 +95,7 @@
     "_12": "21"
   },
   {
-    "": "Leon Draisaitl",
+    "Name": "Leon Draisaitl",
     "_1": "EDM",
     "_2": "C",
     "_3": "106",
@@ -133,7 +114,7 @@
     "_12": "42"
   },
   {
-    "": "David Pastrnak",
+    "Name": "David Pastrnak",
     "_1": "BOS",
     "_2": "RW",
     "_3": "95",
@@ -152,7 +133,7 @@
     "_12": "28"
   },
   {
-    "": "Filip Forsberg",
+    "Name": "Filip Forsberg",
     "_1": "NSH",
     "_2": "RW",
     "_3": "88",
@@ -171,8 +152,8 @@
     "_12": "46"
   },
   {
-    "": "Brayden Point",
-    "_1": "TB",
+    "Name": "Brayden Point",
+    "_1": "TBL",
     "_2": "C",
     "_3": "86",
     "Overall": "48",
@@ -190,7 +171,7 @@
     "_12": "48"
   },
   {
-    "": "Brock Boeser",
+    "Name": "Brock Boeser",
     "_1": "VAN",
     "_2": "RW",
     "_3": "93",
@@ -209,7 +190,7 @@
     "_12": "37"
   },
   {
-    "": "Chris Kreider",
+    "Name": "Chris Kreider",
     "_1": "NYR",
     "_2": "LW",
     "_3": "98",
@@ -228,7 +209,7 @@
     "_12": "25"
   },
   {
-    "": "Kirill Kaprizov",
+    "Name": "Kirill Kaprizov",
     "_1": "MIN",
     "_2": "LW",
     "_3": "75",
@@ -247,7 +228,7 @@
     "_12": "38"
   },
   {
-    "": "Mikko Rantanen",
+    "Name": "Mikko Rantanen",
     "_1": "COL",
     "_2": "RW",
     "_3": "91",
@@ -266,7 +247,7 @@
     "_12": "62"
   },
   {
-    "": "Steven Stamkos",
+    "Name": "Steven Stamkos",
     "_1": "NSH",
     "_2": "C",
     "_3": "84",
@@ -285,7 +266,7 @@
     "_12": "46"
   },
   {
-    "": "Carter Verhaeghe",
+    "Name": "Carter Verhaeghe",
     "_1": "FLA",
     "_2": "C",
     "_3": "100",
@@ -304,7 +285,7 @@
     "_12": "34"
   },
   {
-    "": "Jonathan Marchessault",
+    "Name": "Jonathan Marchessault",
     "_1": "NSH",
     "_2": "LW",
     "_3": "89",
@@ -323,8 +304,8 @@
     "_12": "27"
   },
   {
-    "": "Nikita Kucherov",
-    "_1": "TB",
+    "Name": "Nikita Kucherov",
+    "_1": "TBL",
     "_2": "RW",
     "_3": "86",
     "Overall": "44",
@@ -342,7 +323,7 @@
     "_12": "38"
   },
   {
-    "": "William Nylander",
+    "Name": "William Nylander",
     "_1": "TOR",
     "_2": "C",
     "_3": "86",
@@ -361,7 +342,7 @@
     "_12": "34"
   },
   {
-    "": "Sidney Crosby",
+    "Name": "Sidney Crosby",
     "_1": "PIT",
     "_2": "C",
     "_3": "82",
@@ -380,7 +361,7 @@
     "_12": "37"
   },
   {
-    "": "Wyatt Johnston",
+    "Name": "Wyatt Johnston",
     "_1": "DAL",
     "_2": "C",
     "_3": "101",
@@ -399,7 +380,7 @@
     "_12": "56"
   },
   {
-    "": "Connor McDavid",
+    "Name": "Connor McDavid",
     "_1": "EDM",
     "_2": "C",
     "_3": "101",
@@ -418,7 +399,7 @@
     "_12": "55"
   },
   {
-    "": "Sebastian Aho",
+    "Name": "Sebastian Aho",
     "_1": "CAR",
     "_2": "LW",
     "_3": "89",
@@ -437,7 +418,7 @@
     "_12": "25"
   },
   {
-    "": "J.T. Miller",
+    "Name": "J.T. Miller",
     "_1": "VAN",
     "_2": "C",
     "_3": "94",
@@ -456,7 +437,7 @@
     "_12": "69"
   },
   {
-    "": "Seth Jarvis",
+    "Name": "Seth Jarvis",
     "_1": "CAR",
     "_2": "RW",
     "_3": "92",
@@ -475,7 +456,7 @@
     "_12": "63"
   },
   {
-    "": "Valeri Nichushkin",
+    "Name": "Valeri Nichushkin",
     "_1": "COL",
     "_2": "LW",
     "_3": "62",
@@ -494,8 +475,8 @@
     "_12": "33"
   },
   {
-    "": "Frank Vatrano",
-    "_1": "ANH",
+    "Name": "Frank Vatrano",
+    "_1": "ANA",
     "_2": "LW",
     "_3": "82",
     "Overall": "37",
@@ -513,7 +494,7 @@
     "_12": "78"
   },
   {
-    "": "Brady Tkachuk",
+    "Name": "Brady Tkachuk",
     "_1": "OTT",
     "_2": "LW",
     "_3": "81",
@@ -532,7 +513,7 @@
     "_12": "34"
   },
   {
-    "": "Kyle Connor",
+    "Name": "Kyle Connor",
     "_1": "WPG",
     "_2": "LW",
     "_3": "70",
@@ -551,7 +532,7 @@
     "_12": "21"
   },
   {
-    "": "Alexis Lafreniere",
+    "Name": "Alexis Lafreniere",
     "_1": "NYR",
     "_2": "LW",
     "_3": "98",
@@ -570,7 +551,7 @@
     "_12": "27"
   },
   {
-    "": "Brock Nelson",
+    "Name": "Brock Nelson",
     "_1": "NYI",
     "_2": "C",
     "_3": "87",
@@ -589,7 +570,7 @@
     "_12": "55"
   },
   {
-    "": "Jason Robertson",
+    "Name": "Jason Robertson",
     "_1": "DAL",
     "_2": "LW",
     "_3": "101",
@@ -608,8 +589,8 @@
     "_12": "51"
   },
   {
-    "": "Tyler Toffoli",
-    "_1": "SJ",
+    "Name": "Tyler Toffoli",
+    "_1": "SJS",
     "_2": "RW",
     "_3": "84",
     "Overall": "35",
@@ -627,7 +608,7 @@
     "_12": "13"
   },
   {
-    "": "Elias Pettersson",
+    "Name": "Elias Pettersson",
     "_1": "VAN",
     "_2": "C",
     "_3": "95",
@@ -646,8 +627,8 @@
     "_12": "79"
   },
   {
-    "": "Jake Guentzel",
-    "_1": "TB",
+    "Name": "Jake Guentzel",
+    "_1": "TBL",
     "_2": "LW",
     "_3": "78",
     "Overall": "34",
@@ -665,7 +646,7 @@
     "_12": "39"
   },
   {
-    "": "Jack Eichel",
+    "Name": "Jack Eichel",
     "_1": "VGK",
     "_2": "C",
     "_3": "70",
@@ -684,7 +665,7 @@
     "_12": "68"
   },
   {
-    "": "Bo Horvat",
+    "Name": "Bo Horvat",
     "_1": "NYI",
     "_2": "C",
     "_3": "86",
@@ -703,7 +684,7 @@
     "_12": "44"
   },
   {
-    "": "Vincent Trocheck",
+    "Name": "Vincent Trocheck",
     "_1": "NYR",
     "_2": "C",
     "_3": "98",
@@ -722,8 +703,8 @@
     "_12": "102"
   },
   {
-    "": "Nick Suzuki",
-    "_1": "MON",
+    "Name": "Nick Suzuki",
+    "_1": "MTL",
     "_2": "C",
     "_3": "82",
     "Overall": "33",
@@ -741,7 +722,7 @@
     "_12": "48"
   },
   {
-    "": "Dylan Larkin",
+    "Name": "Dylan Larkin",
     "_1": "DET",
     "_2": "C",
     "_3": "68",
@@ -760,8 +741,8 @@
     "_12": "34"
   },
   {
-    "": "Clayton Keller",
-    "_1": "UTA",
+    "Name": "Clayton Keller",
+    "_1": "ARI",
     "_2": "C",
     "_3": "78",
     "Overall": "33",
@@ -779,7 +760,7 @@
     "_12": "30"
   },
   {
-    "": "Travis Konecny",
+    "Name": "Travis Konecny",
     "_1": "PHI",
     "_2": "C",
     "_3": "76",
@@ -798,7 +779,7 @@
     "_12": "32"
   },
   {
-    "": "Roope Hintz",
+    "Name": "Roope Hintz",
     "_1": "DAL",
     "_2": "C",
     "_3": "95",
@@ -817,7 +798,7 @@
     "_12": "48"
   },
   {
-    "": "Matthew Tkachuk",
+    "Name": "Matthew Tkachuk",
     "_1": "FLA",
     "_2": "LW",
     "_3": "104",
@@ -836,8 +817,8 @@
     "_12": "38"
   },
   {
-    "": "Adrian Kempe",
-    "_1": "LA",
+    "Name": "Adrian Kempe",
+    "_1": "LAK",
     "_2": "C",
     "_3": "82",
     "Overall": "32",
@@ -855,8 +836,8 @@
     "_12": "32"
   },
   {
-    "": "Trevor Moore",
-    "_1": "LA",
+    "Name": "Trevor Moore",
+    "_1": "LAK",
     "_2": "LW",
     "_3": "87",
     "Overall": "32",
@@ -874,7 +855,7 @@
     "_12": "61"
   },
   {
-    "": "Brad Marchand",
+    "Name": "Brad Marchand",
     "_1": "BOS",
     "_2": "LW",
     "_3": "93",
@@ -893,7 +874,7 @@
     "_12": "44"
   },
   {
-    "": "Yegor Sharangovich",
+    "Name": "Yegor Sharangovich",
     "_1": "CGY",
     "_2": "LW",
     "_3": "82",
@@ -912,7 +893,7 @@
     "_12": "44"
   },
   {
-    "": "Aleksander Barkov",
+    "Name": "Aleksander Barkov",
     "_1": "FLA",
     "_2": "C",
     "_3": "97",
@@ -931,7 +912,7 @@
     "_12": "75"
   },
   {
-    "": "Lucas Raymond",
+    "Name": "Lucas Raymond",
     "_1": "DET",
     "_2": "RW",
     "_3": "82",
@@ -950,7 +931,7 @@
     "_12": "27"
   },
   {
-    "": "Kyle Palmieri",
+    "Name": "Kyle Palmieri",
     "_1": "NYI",
     "_2": "RW",
     "_3": "87",
@@ -969,8 +950,8 @@
     "_12": "50"
   },
   {
-    "": "Alex Ovechkin",
-    "_1": "WAS",
+    "Name": "Alex Ovechkin",
+    "_1": "WSH",
     "_2": "LW",
     "_3": "83",
     "Overall": "31",
@@ -988,7 +969,7 @@
     "_12": "28"
   },
   {
-    "": "Jordan Kyrou",
+    "Name": "Jordan Kyrou",
     "_1": "STL",
     "_2": "RW",
     "_3": "82",
@@ -1007,7 +988,7 @@
     "_12": "32"
   },
   {
-    "": "John Tavares",
+    "Name": "John Tavares",
     "_1": "TOR",
     "_2": "C",
     "_3": "87",
@@ -1026,7 +1007,7 @@
     "_12": "42"
   },
   {
-    "": "Joel Eriksson Ek",
+    "Name": "Joel Eriksson Ek",
     "_1": "MIN",
     "_2": "C",
     "_3": "77",
@@ -1045,7 +1026,7 @@
     "_12": "55"
   },
   {
-    "": "Tyler Seguin",
+    "Name": "Tyler Seguin",
     "_1": "DAL",
     "_2": "C",
     "_3": "87",
@@ -1064,7 +1045,7 @@
     "_12": "28"
   },
   {
-    "": "William Karlsson",
+    "Name": "William Karlsson",
     "_1": "VGK",
     "_2": "C",
     "_3": "77",
@@ -1083,8 +1064,8 @@
     "_12": "51"
   },
   {
-    "": "Kevin Fiala",
-    "_1": "LA",
+    "Name": "Kevin Fiala",
+    "_1": "LAK",
     "_2": "LW",
     "_3": "87",
     "Overall": "30",
@@ -1102,7 +1083,7 @@
     "_12": "30"
   },
   {
-    "": "Blake Coleman",
+    "Name": "Blake Coleman",
     "_1": "CGY",
     "_2": "C",
     "_3": "78",
@@ -1121,7 +1102,7 @@
     "_12": "57"
   },
   {
-    "": "Nazem Kadri",
+    "Name": "Nazem Kadri",
     "_1": "CGY",
     "_2": "C",
     "_3": "82",
@@ -1140,7 +1121,7 @@
     "_12": "24"
   },
   {
-    "": "Tage Thompson",
+    "Name": "Tage Thompson",
     "_1": "BUF",
     "_2": "C",
     "_3": "71",
@@ -1159,7 +1140,7 @@
     "_12": "29"
   },
   {
-    "": "Matt Boldy",
+    "Name": "Matt Boldy",
     "_1": "MIN",
     "_2": "LW",
     "_3": "75",
@@ -1178,7 +1159,7 @@
     "_12": "32"
   },
   {
-    "": "Mika Zibanejad",
+    "Name": "Mika Zibanejad",
     "_1": "NYR",
     "_2": "C",
     "_3": "97",
@@ -1197,8 +1178,8 @@
     "_12": "68"
   },
   {
-    "": "Brandon Hagel",
-    "_1": "TB",
+    "Name": "Brandon Hagel",
+    "_1": "TBL",
     "_2": "LW",
     "_3": "87",
     "Overall": "29",
@@ -1216,7 +1197,7 @@
     "_12": "49"
   },
   {
-    "": "Jared McCann",
+    "Name": "Jared McCann",
     "_1": "SEA",
     "_2": "LW",
     "_3": "80",
@@ -1235,7 +1216,7 @@
     "_12": "27"
   },
   {
-    "": "Owen Tippett",
+    "Name": "Owen Tippett",
     "_1": "PHI",
     "_2": "RW",
     "_3": "78",
@@ -1254,7 +1235,7 @@
     "_12": "47"
   },
   {
-    "": "Bryan Rust",
+    "Name": "Bryan Rust",
     "_1": "PIT",
     "_2": "RW",
     "_3": "62",
@@ -1273,7 +1254,7 @@
     "_12": "51"
   },
   {
-    "": "Drake Batherson",
+    "Name": "Drake Batherson",
     "_1": "OTT",
     "_2": "RW",
     "_3": "82",
@@ -1292,8 +1273,8 @@
     "_12": "33"
   },
   {
-    "": "Dylan Strome",
-    "_1": "WAS",
+    "Name": "Dylan Strome",
+    "_1": "WSH",
     "_2": "C",
     "_3": "86",
     "Overall": "28",
@@ -1311,8 +1292,8 @@
     "_12": "63"
   },
   {
-    "": "Timo Meier",
-    "_1": "NJ",
+    "Name": "Timo Meier",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "69",
     "Overall": "28",
@@ -1330,8 +1311,8 @@
     "_12": "42"
   },
   {
-    "": "Cole Caufield",
-    "_1": "MON",
+    "Name": "Cole Caufield",
+    "_1": "MTL",
     "_2": "RW",
     "_3": "82",
     "Overall": "28",
@@ -1349,7 +1330,7 @@
     "_12": "22"
   },
   {
-    "": "Adam Henrique",
+    "Name": "Adam Henrique",
     "_1": "EDM",
     "_2": "C",
     "_3": "99",
@@ -1368,7 +1349,7 @@
     "_12": "92"
   },
   {
-    "": "Evander Kane",
+    "Name": "Evander Kane",
     "_1": "EDM",
     "_2": "LW",
     "_3": "97",
@@ -1387,7 +1368,7 @@
     "_12": "35"
   },
   {
-    "": "John-Jason Peterka",
+    "Name": "John-Jason Peterka",
     "_1": "BUF",
     "_2": "RW",
     "_3": "82",
@@ -1406,7 +1387,7 @@
     "_12": "18"
   },
   {
-    "": "Martin Necas",
+    "Name": "Martin Necas",
     "_1": "CAR",
     "_2": "C",
     "_3": "88",
@@ -1425,7 +1406,7 @@
     "_12": "34"
   },
   {
-    "": "Joe Pavelski",
+    "Name": "Joe Pavelski",
     "_1": "FA",
     "_2": "RW",
     "_3": "101",
@@ -1444,7 +1425,7 @@
     "_12": "87"
   },
   {
-    "": "Vladimir Tarasenko",
+    "Name": "Vladimir Tarasenko",
     "_1": "FA",
     "_2": "RW",
     "_3": "100",
@@ -1463,7 +1444,7 @@
     "_12": "58"
   },
   {
-    "": "Teuvo Teravainen",
+    "Name": "Teuvo Teravainen",
     "_1": "CHI",
     "_2": "LW",
     "_3": "87",
@@ -1482,7 +1463,7 @@
     "_12": "33"
   },
   {
-    "": "Alex DeBrincat",
+    "Name": "Alex DeBrincat",
     "_1": "DET",
     "_2": "RW",
     "_3": "82",
@@ -1501,7 +1482,7 @@
     "_12": "35"
   },
   {
-    "": "Matt Duchene",
+    "Name": "Matt Duchene",
     "_1": "DAL",
     "_2": "C",
     "_3": "99",
@@ -1520,8 +1501,8 @@
     "_12": "69"
   },
   {
-    "": "Anze Kopitar",
-    "_1": "LA",
+    "Name": "Anze Kopitar",
+    "_1": "LAK",
     "_2": "C",
     "_3": "86",
     "Overall": "27",
@@ -1539,7 +1520,7 @@
     "_12": "69"
   },
   {
-    "": "Sam Bennett",
+    "Name": "Sam Bennett",
     "_1": "FLA",
     "_2": "LW",
     "_3": "88",
@@ -1558,7 +1539,7 @@
     "_12": "48"
   },
   {
-    "": "Ryan O'Reilly",
+    "Name": "Ryan O'Reilly",
     "_1": "NSH",
     "_2": "C",
     "_3": "88",
@@ -1577,8 +1558,8 @@
     "_12": "63"
   },
   {
-    "": "Jesper Bratt",
-    "_1": "NJ",
+    "Name": "Jesper Bratt",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "82",
     "Overall": "27",
@@ -1596,8 +1577,8 @@
     "_12": "33"
   },
   {
-    "": "Nico Hischier",
-    "_1": "NJ",
+    "Name": "Nico Hischier",
+    "_1": "NJD",
     "_2": "C",
     "_3": "71",
     "Overall": "27",
@@ -1615,8 +1596,8 @@
     "_12": "42"
   },
   {
-    "": "Jack Hughes",
-    "_1": "NJ",
+    "Name": "Jack Hughes",
+    "_1": "NJD",
     "_2": "C",
     "_3": "62",
     "Overall": "27",
@@ -1634,7 +1615,7 @@
     "_12": "24"
   },
   {
-    "": "Mitch Marner",
+    "Name": "Mitch Marner",
     "_1": "TOR",
     "_2": "RW",
     "_3": "76",
@@ -1653,7 +1634,7 @@
     "_12": "52"
   },
   {
-    "": "Pavel Buchnevich",
+    "Name": "Pavel Buchnevich",
     "_1": "STL",
     "_2": "LW",
     "_3": "80",
@@ -1672,7 +1653,7 @@
     "_12": "28"
   },
   {
-    "": "Jake Neighbours",
+    "Name": "Jake Neighbours",
     "_1": "STL",
     "_2": "LW",
     "_3": "77",
@@ -1691,7 +1672,7 @@
     "_12": "45"
   },
   {
-    "": "Evgeni Malkin",
+    "Name": "Evgeni Malkin",
     "_1": "PIT",
     "_2": "C",
     "_3": "82",
@@ -1710,7 +1691,7 @@
     "_12": "42"
   },
   {
-    "": "Mark Scheifele",
+    "Name": "Mark Scheifele",
     "_1": "WPG",
     "_2": "C",
     "_3": "79",
@@ -1729,8 +1710,8 @@
     "_12": "45"
   },
   {
-    "": "Nick Paul",
-    "_1": "TB",
+    "Name": "Nick Paul",
+    "_1": "TBL",
     "_2": "LW",
     "_3": "87",
     "Overall": "26",
@@ -1748,7 +1729,7 @@
     "_12": "47"
   },
   {
-    "": "Robert Thomas",
+    "Name": "Robert Thomas",
     "_1": "STL",
     "_2": "C",
     "_3": "82",
@@ -1767,7 +1748,7 @@
     "_12": "47"
   },
   {
-    "": "Brandon Saad",
+    "Name": "Brandon Saad",
     "_1": "STL",
     "_2": "LW",
     "_3": "82",
@@ -1786,8 +1767,8 @@
     "_12": "16"
   },
   {
-    "": "Sean Monahan",
-    "_1": "CLS",
+    "Name": "Sean Monahan",
+    "_1": "CBJ",
     "_2": "C",
     "_3": "88",
     "Overall": "26",
@@ -1805,7 +1786,7 @@
     "_12": "48"
   },
   {
-    "": "Cale Makar",
+    "Name": "Cale Makar",
     "_1": "COL",
     "_2": "D",
     "_3": "88",
@@ -1824,7 +1805,7 @@
     "_12": "171"
   },
   {
-    "": "Charlie Coyle",
+    "Name": "Charlie Coyle",
     "_1": "BOS",
     "_2": "C",
     "_3": "95",
@@ -1843,7 +1824,7 @@
     "_12": "86"
   },
   {
-    "": "Mathew Barzal",
+    "Name": "Mathew Barzal",
     "_1": "NYI",
     "_2": "C",
     "_3": "85",
@@ -1862,7 +1843,7 @@
     "_12": "55"
   },
   {
-    "": "Mason Marchment",
+    "Name": "Mason Marchment",
     "_1": "DAL",
     "_2": "LW",
     "_3": "94",
@@ -1881,7 +1862,7 @@
     "_12": "40"
   },
   {
-    "": "Jamie Benn",
+    "Name": "Jamie Benn",
     "_1": "DAL",
     "_2": "C",
     "_3": "101",
@@ -1900,7 +1881,7 @@
     "_12": "61"
   },
   {
-    "": "Ryan Nugent-Hopkins",
+    "Name": "Ryan Nugent-Hopkins",
     "_1": "EDM",
     "_2": "LW",
     "_3": "105",
@@ -1919,7 +1900,7 @@
     "_12": "48"
   },
   {
-    "": "Nils Hoglander",
+    "Name": "Nils Hoglander",
     "_1": "VAN",
     "_2": "LW",
     "_3": "91",
@@ -1938,7 +1919,7 @@
     "_12": "20"
   },
   {
-    "": "Nikolaj Ehlers",
+    "Name": "Nikolaj Ehlers",
     "_1": "WPG",
     "_2": "LW",
     "_3": "87",
@@ -1957,7 +1938,7 @@
     "_12": "41"
   },
   {
-    "": "Jake DeBrusk",
+    "Name": "Jake DeBrusk",
     "_1": "VAN",
     "_2": "LW",
     "_3": "93",
@@ -1976,8 +1957,8 @@
     "_12": "64"
   },
   {
-    "": "Fabian Zetterlund",
-    "_1": "SJ",
+    "Name": "Fabian Zetterlund",
+    "_1": "SJS",
     "_2": "LW",
     "_3": "82",
     "Overall": "24",
@@ -1995,7 +1976,7 @@
     "_12": "71"
   },
   {
-    "": "Jeff Skinner",
+    "Name": "Jeff Skinner",
     "_1": "EDM",
     "_2": "LW",
     "_3": "74",
@@ -2014,7 +1995,7 @@
     "_12": "13"
   },
   {
-    "": "Evan Bouchard",
+    "Name": "Evan Bouchard",
     "_1": "EDM",
     "_2": "D",
     "_3": "106",
@@ -2033,7 +2014,7 @@
     "_12": "150"
   },
   {
-    "": "Anthony Duclair",
+    "Name": "Anthony Duclair",
     "_1": "NYI",
     "_2": "LW",
     "_3": "78",
@@ -2052,7 +2033,7 @@
     "_12": "40"
   },
   {
-    "": "Roman Josi",
+    "Name": "Roman Josi",
     "_1": "NSH",
     "_2": "D",
     "_3": "88",
@@ -2071,7 +2052,7 @@
     "_12": "162"
   },
   {
-    "": "Gustav Nyquist",
+    "Name": "Gustav Nyquist",
     "_1": "NSH",
     "_2": "RW",
     "_3": "87",
@@ -2090,8 +2071,8 @@
     "_12": "40"
   },
   {
-    "": "Warren Foegele",
-    "_1": "LA",
+    "Name": "Warren Foegele",
+    "_1": "LAK",
     "_2": "LW",
     "_3": "104",
     "Overall": "23",
@@ -2109,8 +2090,8 @@
     "_12": "40"
   },
   {
-    "": "Kirill Marchenko",
-    "_1": "CLS",
+    "Name": "Kirill Marchenko",
+    "_1": "CBJ",
     "_2": "LW",
     "_3": "78",
     "Overall": "23",
@@ -2128,7 +2109,7 @@
     "_12": "39"
   },
   {
-    "": "Anthony Mantha",
+    "Name": "Anthony Mantha",
     "_1": "CGY",
     "_2": "RW",
     "_3": "77",
@@ -2147,7 +2128,7 @@
     "_12": "32"
   },
   {
-    "": "Conor Garland",
+    "Name": "Conor Garland",
     "_1": "VAN",
     "_2": "RW",
     "_3": "95",
@@ -2166,8 +2147,8 @@
     "_12": "45"
   },
   {
-    "": "Lawson Crouse",
-    "_1": "UTA",
+    "Name": "Lawson Crouse",
+    "_1": "ARI",
     "_2": "LW",
     "_3": "81",
     "Overall": "23",
@@ -2185,8 +2166,8 @@
     "_12": "57"
   },
   {
-    "": "Nick Bjugstad",
-    "_1": "UTA",
+    "Name": "Nick Bjugstad",
+    "_1": "ARI",
     "_2": "C",
     "_3": "76",
     "Overall": "22",
@@ -2204,8 +2185,8 @@
     "_12": "48"
   },
   {
-    "": "Nick Schmaltz",
-    "_1": "UTA",
+    "Name": "Nick Schmaltz",
+    "_1": "ARI",
     "_2": "RW",
     "_3": "79",
     "Overall": "22",
@@ -2223,7 +2204,7 @@
     "_12": "41"
   },
   {
-    "": "Dakota Joshua",
+    "Name": "Dakota Joshua",
     "_1": "VAN",
     "_2": "LW",
     "_3": "76",
@@ -2242,7 +2223,7 @@
     "_12": "47"
   },
   {
-    "": "Joel Farabee",
+    "Name": "Joel Farabee",
     "_1": "PHI",
     "_2": "LW",
     "_3": "82",
@@ -2261,7 +2242,7 @@
     "_12": "50"
   },
   {
-    "": "Gabriel Vilardi",
+    "Name": "Gabriel Vilardi",
     "_1": "WPG",
     "_2": "C",
     "_3": "52",
@@ -2280,7 +2261,7 @@
     "_12": "28"
   },
   {
-    "": "Andrei Kuzmenko",
+    "Name": "Andrei Kuzmenko",
     "_1": "CGY",
     "_2": "LW",
     "_3": "72",
@@ -2299,7 +2280,7 @@
     "_12": "17"
   },
   {
-    "": "Artturi Lehkonen",
+    "Name": "Artturi Lehkonen",
     "_1": "COL",
     "_2": "LW",
     "_3": "56",
@@ -2318,8 +2299,8 @@
     "_12": "26"
   },
   {
-    "": "Boone Jenner",
-    "_1": "CLS",
+    "Name": "Boone Jenner",
+    "_1": "CBJ",
     "_2": "LW",
     "_3": "58",
     "Overall": "22",
@@ -2337,7 +2318,7 @@
     "_12": "74"
   },
   {
-    "": "Connor Bedard",
+    "Name": "Connor Bedard",
     "_1": "CHI",
     "_2": "C",
     "_3": "68",
@@ -2356,7 +2337,7 @@
     "_12": "27"
   },
   {
-    "": "Jason Dickinson",
+    "Name": "Jason Dickinson",
     "_1": "CHI",
     "_2": "C",
     "_3": "82",
@@ -2375,7 +2356,7 @@
     "_12": "73"
   },
   {
-    "": "Tyler Bertuzzi",
+    "Name": "Tyler Bertuzzi",
     "_1": "CHI",
     "_2": "LW",
     "_3": "87",
@@ -2394,7 +2375,7 @@
     "_12": "48"
   },
   {
-    "": "Pavel Zacha",
+    "Name": "Pavel Zacha",
     "_1": "BOS",
     "_2": "C",
     "_3": "91",
@@ -2413,7 +2394,7 @@
     "_12": "38"
   },
   {
-    "": "Alex Tuch",
+    "Name": "Alex Tuch",
     "_1": "BUF",
     "_2": "RW",
     "_3": "75",
@@ -2432,7 +2413,7 @@
     "_12": "82"
   },
   {
-    "": "Trent Frederic",
+    "Name": "Trent Frederic",
     "_1": "BOS",
     "_2": "C",
     "_3": "95",
@@ -2451,7 +2432,7 @@
     "_12": "62"
   },
   {
-    "": "Morgan Geekie",
+    "Name": "Morgan Geekie",
     "_1": "BOS",
     "_2": "C",
     "_3": "89",
@@ -2470,7 +2451,7 @@
     "_12": "56"
   },
   {
-    "": "Casey Mittelstadt",
+    "Name": "Casey Mittelstadt",
     "_1": "COL",
     "_2": "C",
     "_3": "91",
@@ -2489,7 +2470,7 @@
     "_12": "37"
   },
   {
-    "": "Andrei Svechnikov",
+    "Name": "Andrei Svechnikov",
     "_1": "CAR",
     "_2": "RW",
     "_3": "70",
@@ -2508,7 +2489,7 @@
     "_12": "32"
   },
   {
-    "": "Ryan Hartman",
+    "Name": "Ryan Hartman",
     "_1": "MIN",
     "_2": "RW",
     "_3": "74",
@@ -2527,7 +2508,7 @@
     "_12": "65"
   },
   {
-    "": "Marco Rossi",
+    "Name": "Marco Rossi",
     "_1": "MIN",
     "_2": "C",
     "_3": "82",
@@ -2546,7 +2527,7 @@
     "_12": "37"
   },
   {
-    "": "Anders Lee",
+    "Name": "Anders Lee",
     "_1": "NYI",
     "_2": "C",
     "_3": "86",
@@ -2565,7 +2546,7 @@
     "_12": "56"
   },
   {
-    "": "Claude Giroux",
+    "Name": "Claude Giroux",
     "_1": "OTT",
     "_2": "C",
     "_3": "82",
@@ -2584,8 +2565,8 @@
     "_12": "30"
   },
   {
-    "": "Michael Carcone",
-    "_1": "UTA",
+    "Name": "Michael Carcone",
+    "_1": "ARI",
     "_2": "C",
     "_3": "74",
     "Overall": "21",
@@ -2603,8 +2584,8 @@
     "_12": "22"
   },
   {
-    "": "Logan Cooley",
-    "_1": "UTA",
+    "Name": "Logan Cooley",
+    "_1": "ARI",
     "_2": "C",
     "_3": "82",
     "Overall": "20",
@@ -2622,7 +2603,7 @@
     "_12": "27"
   },
   {
-    "": "Brayden Schenn",
+    "Name": "Brayden Schenn",
     "_1": "STL",
     "_2": "C",
     "_3": "82",
@@ -2641,8 +2622,8 @@
     "_12": "51"
   },
   {
-    "": "Anthony Cirelli",
-    "_1": "TB",
+    "Name": "Anthony Cirelli",
+    "_1": "TBL",
     "_2": "C",
     "_3": "84",
     "Overall": "20",
@@ -2660,7 +2641,7 @@
     "_12": "81"
   },
   {
-    "": "Tyson Foerster",
+    "Name": "Tyson Foerster",
     "_1": "PHI",
     "_2": "RW",
     "_3": "77",
@@ -2679,7 +2660,7 @@
     "_12": "49"
   },
   {
-    "": "Oliver Bjorkstrand",
+    "Name": "Oliver Bjorkstrand",
     "_1": "SEA",
     "_2": "RW",
     "_3": "82",
@@ -2698,8 +2679,8 @@
     "_12": "29"
   },
   {
-    "": "Dawson Mercer",
-    "_1": "NJ",
+    "Name": "Dawson Mercer",
+    "_1": "NJD",
     "_2": "C",
     "_3": "82",
     "Overall": "20",
@@ -2717,8 +2698,8 @@
     "_12": "43"
   },
   {
-    "": "Juraj Slafkovsky",
-    "_1": "MON",
+    "Name": "Juraj Slafkovsky",
+    "_1": "MTL",
     "_2": "LW",
     "_3": "82",
     "Overall": "20",
@@ -2736,8 +2717,8 @@
     "_12": "71"
   },
   {
-    "": "Quinton Byfield",
-    "_1": "LA",
+    "Name": "Quinton Byfield",
+    "_1": "LAK",
     "_2": "C",
     "_3": "85",
     "Overall": "20",
@@ -2755,7 +2736,7 @@
     "_12": "19"
   },
   {
-    "": "Patrick Kane",
+    "Name": "Patrick Kane",
     "_1": "DET",
     "_2": "RW",
     "_3": "50",
@@ -2774,7 +2755,7 @@
     "_12": "13"
   },
   {
-    "": "MacKenzie Weegar",
+    "Name": "MacKenzie Weegar",
     "_1": "CGY",
     "_2": "D",
     "_3": "82",
@@ -2793,7 +2774,7 @@
     "_12": "200"
   },
   {
-    "": "Rasmus Dahlin",
+    "Name": "Rasmus Dahlin",
     "_1": "BUF",
     "_2": "D",
     "_3": "81",
@@ -2812,7 +2793,7 @@
     "_12": "154"
   },
   {
-    "": "Elias Lindholm",
+    "Name": "Elias Lindholm",
     "_1": "BOS",
     "_2": "C",
     "_3": "88",
@@ -2831,8 +2812,8 @@
     "_12": "77"
   },
   {
-    "": "Troy Terry",
-    "_1": "ANH",
+    "Name": "Troy Terry",
+    "_1": "ANA",
     "_2": "RW",
     "_3": "76",
     "Overall": "20",
@@ -2850,8 +2831,8 @@
     "_12": "30"
   },
   {
-    "": "Mason McTavish",
-    "_1": "ANH",
+    "Name": "Mason McTavish",
+    "_1": "ANA",
     "_2": "C",
     "_3": "64",
     "Overall": "19",
@@ -2869,7 +2850,7 @@
     "_12": "33"
   },
   {
-    "": "Jonathan Drouin",
+    "Name": "Jonathan Drouin",
     "_1": "COL",
     "_2": "C",
     "_3": "82",
@@ -2888,7 +2869,7 @@
     "_12": "34"
   },
   {
-    "": "J.T. Compher",
+    "Name": "J.T. Compher",
     "_1": "DET",
     "_2": "C",
     "_3": "77",
@@ -2907,7 +2888,7 @@
     "_12": "59"
   },
   {
-    "": "Evan Rodrigues",
+    "Name": "Evan Rodrigues",
     "_1": "FLA",
     "_2": "C",
     "_3": "104",
@@ -2926,7 +2907,7 @@
     "_12": "38"
   },
   {
-    "": "Mark Stone",
+    "Name": "Mark Stone",
     "_1": "VGK",
     "_2": "RW",
     "_3": "63",
@@ -2945,7 +2926,7 @@
     "_12": "43"
   },
   {
-    "": "Ivan Barbashev",
+    "Name": "Ivan Barbashev",
     "_1": "VGK",
     "_2": "LW",
     "_3": "89",
@@ -2964,7 +2945,7 @@
     "_12": "45"
   },
   {
-    "": "Michael Bunting",
+    "Name": "Michael Bunting",
     "_1": "PIT",
     "_2": "LW",
     "_3": "81",
@@ -2983,8 +2964,8 @@
     "_12": "21"
   },
   {
-    "": "Tom Wilson",
-    "_1": "WAS",
+    "Name": "Tom Wilson",
+    "_1": "WSH",
     "_2": "RW",
     "_3": "78",
     "Overall": "19",
@@ -3002,8 +2983,8 @@
     "_12": "79"
   },
   {
-    "": "Connor McMichael",
-    "_1": "WAS",
+    "Name": "Connor McMichael",
+    "_1": "WSH",
     "_2": "C",
     "_3": "84",
     "Overall": "19",
@@ -3021,7 +3002,7 @@
     "_12": "39"
   },
   {
-    "": "Cole Perfetti",
+    "Name": "Cole Perfetti",
     "_1": "WPG",
     "_2": "LW",
     "_3": "72",
@@ -3040,7 +3021,7 @@
     "_12": "23"
   },
   {
-    "": "Nino Niederreiter",
+    "Name": "Nino Niederreiter",
     "_1": "WPG",
     "_2": "RW",
     "_3": "82",
@@ -3059,8 +3040,8 @@
     "_12": "45"
   },
   {
-    "": "Dylan Guenther",
-    "_1": "UTA",
+    "Name": "Dylan Guenther",
+    "_1": "ARI",
     "_2": "RW",
     "_3": "45",
     "Overall": "18",
@@ -3078,7 +3059,7 @@
     "_12": "24"
   },
   {
-    "": "Tim Stutzle",
+    "Name": "Tim Stutzle",
     "_1": "OTT",
     "_2": "C",
     "_3": "75",
@@ -3097,7 +3078,7 @@
     "_12": "41"
   },
   {
-    "": "Tomas Hertl",
+    "Name": "Tomas Hertl",
     "_1": "VGK",
     "_2": "C",
     "_3": "61",
@@ -3116,7 +3097,7 @@
     "_12": "53"
   },
   {
-    "": "Robby Fabbri",
+    "Name": "Robby Fabbri",
     "_1": "DET",
     "_2": "LW",
     "_3": "68",
@@ -3135,7 +3116,7 @@
     "_12": "29"
   },
   {
-    "": "Thomas Novak",
+    "Name": "Thomas Novak",
     "_1": "NSH",
     "_2": "C",
     "_3": "77",
@@ -3154,8 +3135,8 @@
     "_12": "36"
   },
   {
-    "": "Stefan Noesen",
-    "_1": "NJ",
+    "Name": "Stefan Noesen",
+    "_1": "NJD",
     "_2": "C",
     "_3": "92",
     "Overall": "18",
@@ -3173,8 +3154,8 @@
     "_12": "27"
   },
   {
-    "": "Dmitri Voronkov",
-    "_1": "CLS",
+    "Name": "Dmitri Voronkov",
+    "_1": "CBJ",
     "_2": "C",
     "_3": "75",
     "Overall": "18",
@@ -3192,7 +3173,7 @@
     "_12": "48"
   },
   {
-    "": "Ross Colton",
+    "Name": "Ross Colton",
     "_1": "COL",
     "_2": "LW",
     "_3": "91",
@@ -3211,7 +3192,7 @@
     "_12": "57"
   },
   {
-    "": "Philipp Kurashev",
+    "Name": "Philipp Kurashev",
     "_1": "CHI",
     "_2": "LW",
     "_3": "75",
@@ -3230,7 +3211,7 @@
     "_12": "48"
   },
   {
-    "": "Dylan Cozens",
+    "Name": "Dylan Cozens",
     "_1": "BUF",
     "_2": "C",
     "_3": "79",
@@ -3249,8 +3230,8 @@
     "_12": "27"
   },
   {
-    "": "Alex Killorn",
-    "_1": "ANH",
+    "Name": "Alex Killorn",
+    "_1": "ANA",
     "_2": "C",
     "_3": "63",
     "Overall": "18",
@@ -3268,7 +3249,7 @@
     "_12": "25"
   },
   {
-    "": "Daniel Sprong",
+    "Name": "Daniel Sprong",
     "_1": "FA",
     "_2": "RW",
     "_3": "76",
@@ -3287,7 +3268,7 @@
     "_12": "15"
   },
   {
-    "": "Tyler Johnson",
+    "Name": "Tyler Johnson",
     "_1": "FA",
     "_2": "C",
     "_3": "67",
@@ -3306,7 +3287,7 @@
     "_12": "31"
   },
   {
-    "": "Nick Foligno",
+    "Name": "Nick Foligno",
     "_1": "CHI",
     "_2": "LW",
     "_3": "74",
@@ -3325,7 +3306,7 @@
     "_12": "39"
   },
   {
-    "": "Luke Evangelista",
+    "Name": "Luke Evangelista",
     "_1": "NSH",
     "_2": "RW",
     "_3": "86",
@@ -3344,7 +3325,7 @@
     "_12": "23"
   },
   {
-    "": "Adam Fox",
+    "Name": "Adam Fox",
     "_1": "NYR",
     "_2": "D",
     "_3": "88",
@@ -3363,8 +3344,8 @@
     "_12": "164"
   },
   {
-    "": "Joel Armia",
-    "_1": "MON",
+    "Name": "Joel Armia",
+    "_1": "MTL",
     "_2": "RW",
     "_3": "66",
     "Overall": "17",
@@ -3382,8 +3363,8 @@
     "_12": "41"
   },
   {
-    "": "Drew Doughty",
-    "_1": "LA",
+    "Name": "Drew Doughty",
+    "_1": "LAK",
     "_2": "D",
     "_3": "87",
     "Overall": "17",
@@ -3401,8 +3382,8 @@
     "_12": "153"
   },
   {
-    "": "Phillip Danault",
-    "_1": "LA",
+    "Name": "Phillip Danault",
+    "_1": "LAK",
     "_2": "C",
     "_3": "83",
     "Overall": "17",
@@ -3420,7 +3401,7 @@
     "_12": "65"
   },
   {
-    "": "David Perron",
+    "Name": "David Perron",
     "_1": "OTT",
     "_2": "RW",
     "_3": "76",
@@ -3439,7 +3420,7 @@
     "_12": "27"
   },
   {
-    "": "Jordan Eberle",
+    "Name": "Jordan Eberle",
     "_1": "SEA",
     "_2": "RW",
     "_3": "78",
@@ -3458,8 +3439,8 @@
     "_12": "23"
   },
   {
-    "": "Matias Maccelli",
-    "_1": "UTA",
+    "Name": "Matias Maccelli",
+    "_1": "ARI",
     "_2": "LW",
     "_3": "82",
     "Overall": "17",
@@ -3477,7 +3458,7 @@
     "_12": "20"
   },
   {
-    "": "Matthew Knies",
+    "Name": "Matthew Knies",
     "_1": "TOR",
     "_2": "LW",
     "_3": "87",
@@ -3496,7 +3477,7 @@
     "_12": "39"
   },
   {
-    "": "Quinn Hughes",
+    "Name": "Quinn Hughes",
     "_1": "VAN",
     "_2": "D",
     "_3": "95",
@@ -3515,7 +3496,7 @@
     "_12": "69"
   },
   {
-    "": "Danton Heinen",
+    "Name": "Danton Heinen",
     "_1": "VAN",
     "_2": "LW",
     "_3": "82",
@@ -3534,8 +3515,8 @@
     "_12": "49"
   },
   {
-    "": "Pierre-Luc Dubois",
-    "_1": "WAS",
+    "Name": "Pierre-Luc Dubois",
+    "_1": "WSH",
     "_2": "C",
     "_3": "87",
     "Overall": "17",
@@ -3553,7 +3534,7 @@
     "_12": "38"
   },
   {
-    "": "Pius Suter",
+    "Name": "Pius Suter",
     "_1": "VAN",
     "_2": "LW",
     "_3": "80",
@@ -3572,7 +3553,7 @@
     "_12": "28"
   },
   {
-    "": "Chandler Stephenson",
+    "Name": "Chandler Stephenson",
     "_1": "SEA",
     "_2": "C",
     "_3": "82",
@@ -3591,8 +3572,8 @@
     "_12": "46"
   },
   {
-    "": "William Eklund",
-    "_1": "SJ",
+    "Name": "William Eklund",
+    "_1": "SJS",
     "_2": "LW",
     "_3": "80",
     "Overall": "16",
@@ -3610,7 +3591,7 @@
     "_12": "72"
   },
   {
-    "": "Eeli Tolvanen",
+    "Name": "Eeli Tolvanen",
     "_1": "SEA",
     "_2": "LW",
     "_3": "81",
@@ -3629,7 +3610,7 @@
     "_12": "75"
   },
   {
-    "": "Drew O'Connor",
+    "Name": "Drew O'Connor",
     "_1": "PIT",
     "_2": "C",
     "_3": "79",
@@ -3648,7 +3629,7 @@
     "_12": "58"
   },
   {
-    "": "Josh Norris",
+    "Name": "Josh Norris",
     "_1": "OTT",
     "_2": "C",
     "_3": "50",
@@ -3667,7 +3648,7 @@
     "_12": "30"
   },
   {
-    "": "Alexander Holtz",
+    "Name": "Alexander Holtz",
     "_1": "VGK",
     "_2": "RW",
     "_3": "82",
@@ -3686,7 +3667,7 @@
     "_12": "17"
   },
   {
-    "": "Anton Lundell",
+    "Name": "Anton Lundell",
     "_1": "FLA",
     "_2": "C",
     "_3": "102",
@@ -3705,7 +3686,7 @@
     "_12": "57"
   },
   {
-    "": "Ryan McLeod",
+    "Name": "Ryan McLeod",
     "_1": "EDM",
     "_2": "C",
     "_3": "105",
@@ -3724,7 +3705,7 @@
     "_12": "42"
   },
   {
-    "": "Mattias Ekholm",
+    "Name": "Mattias Ekholm",
     "_1": "EDM",
     "_2": "D",
     "_3": "104",
@@ -3743,7 +3724,7 @@
     "_12": "140"
   },
   {
-    "": "Colton Sissons",
+    "Name": "Colton Sissons",
     "_1": "NSH",
     "_2": "RW",
     "_3": "87",
@@ -3762,8 +3743,8 @@
     "_12": "65"
   },
   {
-    "": "Brendan Gallagher",
-    "_1": "MON",
+    "Name": "Brendan Gallagher",
+    "_1": "MTL",
     "_2": "RW",
     "_3": "77",
     "Overall": "16",
@@ -3781,8 +3762,8 @@
     "_12": "35"
   },
   {
-    "": "Erik Haula",
-    "_1": "NJ",
+    "Name": "Erik Haula",
+    "_1": "NJD",
     "_2": "C",
     "_3": "76",
     "Overall": "16",
@@ -3800,7 +3781,7 @@
     "_12": "49"
   },
   {
-    "": "Jordan Martinook",
+    "Name": "Jordan Martinook",
     "_1": "CAR",
     "_2": "LW",
     "_3": "93",
@@ -3819,8 +3800,8 @@
     "_12": "40"
   },
   {
-    "": "Yegor Chinakhov",
-    "_1": "CLS",
+    "Name": "Yegor Chinakhov",
+    "_1": "CBJ",
     "_2": "RW",
     "_3": "53",
     "Overall": "16",
@@ -3838,7 +3819,7 @@
     "_12": "28"
   },
   {
-    "": "Mikael Backlund",
+    "Name": "Mikael Backlund",
     "_1": "CGY",
     "_2": "C",
     "_3": "82",
@@ -3857,7 +3838,7 @@
     "_12": "33"
   },
   {
-    "": "Jason Zucker",
+    "Name": "Jason Zucker",
     "_1": "BUF",
     "_2": "LW",
     "_3": "75",
@@ -3876,7 +3857,7 @@
     "_12": "19"
   },
   {
-    "": "Simon Holmstrom",
+    "Name": "Simon Holmstrom",
     "_1": "NYI",
     "_2": "RW",
     "_3": "78",
@@ -3895,8 +3876,8 @@
     "_12": "47"
   },
   {
-    "": "Alex Newhook",
-    "_1": "MON",
+    "Name": "Alex Newhook",
+    "_1": "MTL",
     "_2": "C",
     "_3": "55",
     "Overall": "15",
@@ -3914,7 +3895,7 @@
     "_12": "31"
   },
   {
-    "": "Thomas Harley",
+    "Name": "Thomas Harley",
     "_1": "DAL",
     "_2": "D",
     "_3": "98",
@@ -3933,7 +3914,7 @@
     "_12": "185"
   },
   {
-    "": "Miro Heiskanen",
+    "Name": "Miro Heiskanen",
     "_1": "DAL",
     "_2": "D",
     "_3": "90",
@@ -3952,7 +3933,7 @@
     "_12": "139"
   },
   {
-    "": "Evgenii Dadonov",
+    "Name": "Evgenii Dadonov",
     "_1": "DAL",
     "_2": "RW",
     "_3": "70",
@@ -3971,7 +3952,7 @@
     "_12": "34"
   },
   {
-    "": "Noah Hanifin",
+    "Name": "Noah Hanifin",
     "_1": "VGK",
     "_2": "D",
     "_3": "87",
@@ -3990,7 +3971,7 @@
     "_12": "133"
   },
   {
-    "": "Michael Amadio",
+    "Name": "Michael Amadio",
     "_1": "OTT",
     "_2": "C",
     "_3": "77",
@@ -4009,7 +3990,7 @@
     "_12": "35"
   },
   {
-    "": "Rickard Rakell",
+    "Name": "Rickard Rakell",
     "_1": "PIT",
     "_2": "C",
     "_3": "70",
@@ -4028,7 +4009,7 @@
     "_12": "40"
   },
   {
-    "": "Lars Eller",
+    "Name": "Lars Eller",
     "_1": "PIT",
     "_2": "C",
     "_3": "82",
@@ -4047,7 +4028,7 @@
     "_12": "56"
   },
   {
-    "": "Matty Beniers",
+    "Name": "Matty Beniers",
     "_1": "SEA",
     "_2": "C",
     "_3": "77",
@@ -4066,8 +4047,8 @@
     "_12": "44"
   },
   {
-    "": "Sonny Milano",
-    "_1": "WAS",
+    "Name": "Sonny Milano",
+    "_1": "WSH",
     "_2": "LW",
     "_3": "53",
     "Overall": "15",
@@ -4085,7 +4066,7 @@
     "_12": "17"
   },
   {
-    "": "Bobby McMann",
+    "Name": "Bobby McMann",
     "_1": "TOR",
     "_2": "C",
     "_3": "56",
@@ -4104,7 +4085,7 @@
     "_12": "18"
   },
   {
-    "": "Nicholas Robertson",
+    "Name": "Nicholas Robertson",
     "_1": "TOR",
     "_2": "LW",
     "_3": "62",
@@ -4123,8 +4104,8 @@
     "_12": "25"
   },
   {
-    "": "Andrew Mangiapane",
-    "_1": "WAS",
+    "Name": "Andrew Mangiapane",
+    "_1": "WSH",
     "_2": "LW",
     "_3": "75",
     "Overall": "14",
@@ -4142,8 +4123,8 @@
     "_12": "33"
   },
   {
-    "": "Victor Hedman",
-    "_1": "TB",
+    "Name": "Victor Hedman",
+    "_1": "TBL",
     "_2": "D",
     "_3": "83",
     "Overall": "14",
@@ -4161,7 +4142,7 @@
     "_12": "111"
   },
   {
-    "": "Alexei Toropchenko",
+    "Name": "Alexei Toropchenko",
     "_1": "STL",
     "_2": "RW",
     "_3": "82",
@@ -4180,7 +4161,7 @@
     "_12": "55"
   },
   {
-    "": "Will Cuylle",
+    "Name": "Will Cuylle",
     "_1": "NYR",
     "_2": "LW",
     "_3": "97",
@@ -4199,8 +4180,8 @@
     "_12": "32"
   },
   {
-    "": "Jakob Chychrun",
-    "_1": "WAS",
+    "Name": "Jakob Chychrun",
+    "_1": "WSH",
     "_2": "D",
     "_3": "82",
     "Overall": "14",
@@ -4218,7 +4199,7 @@
     "_12": "154"
   },
   {
-    "": "Mason Appleton",
+    "Name": "Mason Appleton",
     "_1": "WPG",
     "_2": "C",
     "_3": "87",
@@ -4237,7 +4218,7 @@
     "_12": "46"
   },
   {
-    "": "Adam Lowry",
+    "Name": "Adam Lowry",
     "_1": "WPG",
     "_2": "LW",
     "_3": "86",
@@ -4256,7 +4237,7 @@
     "_12": "68"
   },
   {
-    "": "Eetu Luostarinen",
+    "Name": "Eetu Luostarinen",
     "_1": "FLA",
     "_2": "LW",
     "_3": "106",
@@ -4275,7 +4256,7 @@
     "_12": "76"
   },
   {
-    "": "Gustav Forsling",
+    "Name": "Gustav Forsling",
     "_1": "FLA",
     "_2": "D",
     "_3": "103",
@@ -4294,7 +4275,7 @@
     "_12": "132"
   },
   {
-    "": "Brady Skjei",
+    "Name": "Brady Skjei",
     "_1": "NSH",
     "_2": "D",
     "_3": "91",
@@ -4313,7 +4294,7 @@
     "_12": "104"
   },
   {
-    "": "Kaapo Kakko",
+    "Name": "Kaapo Kakko",
     "_1": "NYR",
     "_2": "RW",
     "_3": "76",
@@ -4332,7 +4313,7 @@
     "_12": "22"
   },
   {
-    "": "Jimmy Vesey",
+    "Name": "Jimmy Vesey",
     "_1": "NYR",
     "_2": "LW",
     "_3": "92",
@@ -4351,7 +4332,7 @@
     "_12": "37"
   },
   {
-    "": "Connor Zary",
+    "Name": "Connor Zary",
     "_1": "CGY",
     "_2": "C",
     "_3": "63",
@@ -4370,7 +4351,7 @@
     "_12": "29"
   },
   {
-    "": "Sam Lafferty",
+    "Name": "Sam Lafferty",
     "_1": "BUF",
     "_2": "RW",
     "_3": "90",
@@ -4389,8 +4370,8 @@
     "_12": "32"
   },
   {
-    "": "Cole Sillinger",
-    "_1": "CLS",
+    "Name": "Cole Sillinger",
+    "_1": "CBJ",
     "_2": "C",
     "_3": "77",
     "Overall": "13",
@@ -4408,7 +4389,7 @@
     "_12": "74"
   },
   {
-    "": "Devon Toews",
+    "Name": "Devon Toews",
     "_1": "COL",
     "_2": "D",
     "_3": "92",
@@ -4427,7 +4408,7 @@
     "_12": "123"
   },
   {
-    "": "Logan O'Connor",
+    "Name": "Logan O'Connor",
     "_1": "COL",
     "_2": "RW",
     "_3": "57",
@@ -4446,7 +4427,7 @@
     "_12": "38"
   },
   {
-    "": "Charlie McAvoy",
+    "Name": "Charlie McAvoy",
     "_1": "BOS",
     "_2": "D",
     "_3": "87",
@@ -4465,7 +4446,7 @@
     "_12": "193"
   },
   {
-    "": "Filip Zadina",
+    "Name": "Filip Zadina",
     "_1": "FA",
     "_2": "RW",
     "_3": "72",
@@ -4484,7 +4465,7 @@
     "_12": "28"
   },
   {
-    "": "Reilly Smith",
+    "Name": "Reilly Smith",
     "_1": "NYR",
     "_2": "RW",
     "_3": "76",
@@ -4503,7 +4484,7 @@
     "_12": "28"
   },
   {
-    "": "Yakov Trenin",
+    "Name": "Yakov Trenin",
     "_1": "MIN",
     "_2": "C",
     "_3": "86",
@@ -4522,7 +4503,7 @@
     "_12": "39"
   },
   {
-    "": "Nicolas Roy",
+    "Name": "Nicolas Roy",
     "_1": "VGK",
     "_2": "C",
     "_3": "77",
@@ -4541,7 +4522,7 @@
     "_12": "41"
   },
   {
-    "": "Pavel Dorofeyev",
+    "Name": "Pavel Dorofeyev",
     "_1": "VGK",
     "_2": "LW",
     "_3": "48",
@@ -4560,8 +4541,8 @@
     "_12": "23"
   },
   {
-    "": "Alex Laferriere",
-    "_1": "LA",
+    "Name": "Alex Laferriere",
+    "_1": "LAK",
     "_2": "RW",
     "_3": "86",
     "Overall": "13",
@@ -4579,7 +4560,7 @@
     "_12": "29"
   },
   {
-    "": "Andrew Copp",
+    "Name": "Andrew Copp",
     "_1": "DET",
     "_2": "C",
     "_3": "79",
@@ -4598,7 +4579,7 @@
     "_12": "51"
   },
   {
-    "": "Corey Perry",
+    "Name": "Corey Perry",
     "_1": "EDM",
     "_2": "RW",
     "_3": "73",
@@ -4617,7 +4598,7 @@
     "_12": "19"
   },
   {
-    "": "Michael Rasmussen",
+    "Name": "Michael Rasmussen",
     "_1": "DET",
     "_2": "C",
     "_3": "75",
@@ -4636,7 +4617,7 @@
     "_12": "76"
   },
   {
-    "": "Josh Morrissey",
+    "Name": "Josh Morrissey",
     "_1": "WPG",
     "_2": "D",
     "_3": "86",
@@ -4655,7 +4636,7 @@
     "_12": "115"
   },
   {
-    "": "Ryan Johansen",
+    "Name": "Ryan Johansen",
     "_1": "PHI",
     "_2": "C",
     "_3": "63",
@@ -4674,7 +4655,7 @@
     "_12": "15"
   },
   {
-    "": "Ridly Greig",
+    "Name": "Ridly Greig",
     "_1": "OTT",
     "_2": "C",
     "_3": "72",
@@ -4693,7 +4674,7 @@
     "_12": "41"
   },
   {
-    "": "Morgan Frost",
+    "Name": "Morgan Frost",
     "_1": "PHI",
     "_2": "C",
     "_3": "71",
@@ -4712,7 +4693,7 @@
     "_12": "55"
   },
   {
-    "": "Scott Laughton",
+    "Name": "Scott Laughton",
     "_1": "PHI",
     "_2": "C",
     "_3": "82",
@@ -4731,7 +4712,7 @@
     "_12": "56"
   },
   {
-    "": "Jaden Schwartz",
+    "Name": "Jaden Schwartz",
     "_1": "SEA",
     "_2": "LW",
     "_3": "62",
@@ -4750,7 +4731,7 @@
     "_12": "27"
   },
   {
-    "": "Kevin Hayes",
+    "Name": "Kevin Hayes",
     "_1": "PIT",
     "_2": "C",
     "_3": "79",
@@ -4769,8 +4750,8 @@
     "_12": "17"
   },
   {
-    "": "Cam Atkinson",
-    "_1": "TB",
+    "Name": "Cam Atkinson",
+    "_1": "TBL",
     "_2": "RW",
     "_3": "70",
     "Overall": "13",
@@ -4788,8 +4769,8 @@
     "_12": "46"
   },
   {
-    "": "Alex Kerfoot",
-    "_1": "UTA",
+    "Name": "Alex Kerfoot",
+    "_1": "ARI",
     "_2": "C",
     "_3": "82",
     "Overall": "13",
@@ -4807,8 +4788,8 @@
     "_12": "76"
   },
   {
-    "": "Nic Dowd",
-    "_1": "WAS",
+    "Name": "Nic Dowd",
+    "_1": "WSH",
     "_2": "C",
     "_3": "68",
     "Overall": "12",
@@ -4826,8 +4807,8 @@
     "_12": "77"
   },
   {
-    "": "T.J. Oshie",
-    "_1": "WAS",
+    "Name": "T.J. Oshie",
+    "_1": "WSH",
     "_2": "RW",
     "_3": "56",
     "Overall": "12",
@@ -4845,7 +4826,7 @@
     "_12": "58"
   },
   {
-    "": "Alexandre Texier",
+    "Name": "Alexandre Texier",
     "_1": "STL",
     "_2": "C",
     "_3": "78",
@@ -4864,8 +4845,8 @@
     "_12": "36"
   },
   {
-    "": "Mikael Granlund",
-    "_1": "SJ",
+    "Name": "Mikael Granlund",
+    "_1": "SJS",
     "_2": "C",
     "_3": "69",
     "Overall": "12",
@@ -4883,8 +4864,8 @@
     "_12": "55"
   },
   {
-    "": "Jake Walman",
-    "_1": "SJ",
+    "Name": "Jake Walman",
+    "_1": "SJS",
     "_2": "D",
     "_3": "63",
     "Overall": "12",
@@ -4902,7 +4883,7 @@
     "_12": "151"
   },
   {
-    "": "Vladislav Namestnikov",
+    "Name": "Vladislav Namestnikov",
     "_1": "WPG",
     "_2": "C",
     "_3": "82",
@@ -4921,7 +4902,7 @@
     "_12": "47"
   },
   {
-    "": "Joe Veleno",
+    "Name": "Joe Veleno",
     "_1": "DET",
     "_2": "C",
     "_3": "80",
@@ -4940,7 +4921,7 @@
     "_12": "35"
   },
   {
-    "": "Darnell Nurse",
+    "Name": "Darnell Nurse",
     "_1": "EDM",
     "_2": "D",
     "_3": "106",
@@ -4959,7 +4940,7 @@
     "_12": "234"
   },
   {
-    "": "Mats Zuccarello",
+    "Name": "Mats Zuccarello",
     "_1": "MIN",
     "_2": "RW",
     "_3": "69",
@@ -4978,7 +4959,7 @@
     "_12": "50"
   },
   {
-    "": "Michael McCarron",
+    "Name": "Michael McCarron",
     "_1": "NSH",
     "_2": "C",
     "_3": "76",
@@ -4997,7 +4978,7 @@
     "_12": "61"
   },
   {
-    "": "Jean-Gabriel Pageau",
+    "Name": "Jean-Gabriel Pageau",
     "_1": "NYI",
     "_2": "C",
     "_3": "86",
@@ -5016,8 +4997,8 @@
     "_12": "86"
   },
   {
-    "": "Leo Carlsson",
-    "_1": "ANH",
+    "Name": "Leo Carlsson",
+    "_1": "ANA",
     "_2": "C",
     "_3": "55",
     "Overall": "12",
@@ -5035,7 +5016,7 @@
     "_12": "25"
   },
   {
-    "": "Kyle Okposo",
+    "Name": "Kyle Okposo",
     "_1": "FA",
     "_2": "RW",
     "_3": "84",
@@ -5054,7 +5035,7 @@
     "_12": "44"
   },
   {
-    "": "James van Riemsdyk",
+    "Name": "James van Riemsdyk",
     "_1": "FA",
     "_2": "LW",
     "_3": "82",
@@ -5073,7 +5054,7 @@
     "_12": "27"
   },
   {
-    "": "Miles Wood",
+    "Name": "Miles Wood",
     "_1": "COL",
     "_2": "LW",
     "_3": "85",
@@ -5092,8 +5073,8 @@
     "_12": "41"
   },
   {
-    "": "Adam Fantilli",
-    "_1": "CLS",
+    "Name": "Adam Fantilli",
+    "_1": "CBJ",
     "_2": "C",
     "_3": "49",
     "Overall": "12",
@@ -5111,7 +5092,7 @@
     "_12": "25"
   },
   {
-    "": "Ryan Donato",
+    "Name": "Ryan Donato",
     "_1": "CHI",
     "_2": "C",
     "_3": "78",
@@ -5130,8 +5111,8 @@
     "_12": "24"
   },
   {
-    "": "Johnny Gaudreau",
-    "_1": "CLS",
+    "Name": "Johnny Gaudreau",
+    "_1": "CBJ",
     "_2": "LW",
     "_3": "81",
     "Overall": "12",
@@ -5149,7 +5130,7 @@
     "_12": "23"
   },
   {
-    "": "Evgeny Kuznetsov",
+    "Name": "Evgeny Kuznetsov",
     "_1": "CAR",
     "_2": "C",
     "_3": "73",
@@ -5168,7 +5149,7 @@
     "_12": "19"
   },
   {
-    "": "Jesperi Kotkaniemi",
+    "Name": "Jesperi Kotkaniemi",
     "_1": "CAR",
     "_2": "LW",
     "_3": "90",
@@ -5187,7 +5168,7 @@
     "_12": "41"
   },
   {
-    "": "Jonathan Huberdeau",
+    "Name": "Jonathan Huberdeau",
     "_1": "CGY",
     "_2": "LW",
     "_3": "81",
@@ -5206,7 +5187,7 @@
     "_12": "37"
   },
   {
-    "": "Bowen Byram",
+    "Name": "Bowen Byram",
     "_1": "BUF",
     "_2": "D",
     "_3": "73",
@@ -5225,7 +5206,7 @@
     "_12": "104"
   },
   {
-    "": "Zach Benson",
+    "Name": "Zach Benson",
     "_1": "BUF",
     "_2": "LW",
     "_3": "71",
@@ -5244,7 +5225,7 @@
     "_12": "35"
   },
   {
-    "": "Brent Burns",
+    "Name": "Brent Burns",
     "_1": "CAR",
     "_2": "D",
     "_3": "93",
@@ -5263,7 +5244,7 @@
     "_12": "104"
   },
   {
-    "": "Jordan Staal",
+    "Name": "Jordan Staal",
     "_1": "CAR",
     "_2": "C",
     "_3": "91",
@@ -5282,8 +5263,8 @@
     "_12": "52"
   },
   {
-    "": "Zach Werenski",
-    "_1": "CLS",
+    "Name": "Zach Werenski",
+    "_1": "CBJ",
     "_2": "D",
     "_3": "70",
     "Overall": "11",
@@ -5301,7 +5282,7 @@
     "_12": "130"
   },
   {
-    "": "Ilya Mikheyev",
+    "Name": "Ilya Mikheyev",
     "_1": "CHI",
     "_2": "RW",
     "_3": "89",
@@ -5320,7 +5301,7 @@
     "_12": "24"
   },
   {
-    "": "Craig Smith",
+    "Name": "Craig Smith",
     "_1": "CHI",
     "_2": "RW",
     "_3": "89",
@@ -5339,7 +5320,7 @@
     "_12": "39"
   },
   {
-    "": "Jeff Carter",
+    "Name": "Jeff Carter",
     "_1": "FA",
     "_2": "C",
     "_3": "72",
@@ -5358,7 +5339,7 @@
     "_12": "33"
   },
   {
-    "": "Jack Roslovic",
+    "Name": "Jack Roslovic",
     "_1": "FA",
     "_2": "RW",
     "_3": "75",
@@ -5377,7 +5358,7 @@
     "_12": "32"
   },
   {
-    "": "Alexander Nylander",
+    "Name": "Alexander Nylander",
     "_1": "FA",
     "_2": "RW",
     "_3": "28",
@@ -5396,7 +5377,7 @@
     "_12": "12"
   },
   {
-    "": "Dominik Kubalik",
+    "Name": "Dominik Kubalik",
     "_1": "FA",
     "_2": "LW",
     "_3": "74",
@@ -5415,8 +5396,8 @@
     "_12": "20"
   },
   {
-    "": "Brett Leason",
-    "_1": "ANH",
+    "Name": "Brett Leason",
+    "_1": "ANA",
     "_2": "RW",
     "_3": "68",
     "Overall": "11",
@@ -5434,8 +5415,8 @@
     "_12": "65"
   },
   {
-    "": "Ryan Strome",
-    "_1": "ANH",
+    "Name": "Ryan Strome",
+    "_1": "ANA",
     "_2": "C",
     "_3": "79",
     "Overall": "11",
@@ -5453,7 +5434,7 @@
     "_12": "21"
   },
   {
-    "": "Pierre Engvall",
+    "Name": "Pierre Engvall",
     "_1": "NYI",
     "_2": "LW",
     "_3": "79",
@@ -5472,8 +5453,8 @@
     "_12": "22"
   },
   {
-    "": "Ondrej Palat",
-    "_1": "NJ",
+    "Name": "Ondrej Palat",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "71",
     "Overall": "11",
@@ -5491,7 +5472,7 @@
     "_12": "49"
   },
   {
-    "": "Casey Cizikas",
+    "Name": "Casey Cizikas",
     "_1": "NYI",
     "_2": "C",
     "_3": "75",
@@ -5510,8 +5491,8 @@
     "_12": "76"
   },
   {
-    "": "Mike Matheson",
-    "_1": "MON",
+    "Name": "Mike Matheson",
+    "_1": "MTL",
     "_2": "D",
     "_3": "82",
     "Overall": "11",
@@ -5529,7 +5510,7 @@
     "_12": "186"
   },
   {
-    "": "Dylan Holloway",
+    "Name": "Dylan Holloway",
     "_1": "EDM",
     "_2": "C",
     "_3": "63",
@@ -5548,7 +5529,7 @@
     "_12": "35"
   },
   {
-    "": "Marcus Johansson",
+    "Name": "Marcus Johansson",
     "_1": "MIN",
     "_2": "LW",
     "_3": "78",
@@ -5567,7 +5548,7 @@
     "_12": "29"
   },
   {
-    "": "Alex Iafallo",
+    "Name": "Alex Iafallo",
     "_1": "WPG",
     "_2": "C",
     "_3": "87",
@@ -5586,7 +5567,7 @@
     "_12": "77"
   },
   {
-    "": "Morgan Barron",
+    "Name": "Morgan Barron",
     "_1": "WPG",
     "_2": "LW",
     "_3": "80",
@@ -5605,8 +5586,8 @@
     "_12": "45"
   },
   {
-    "": "Luke Kunin",
-    "_1": "SJ",
+    "Name": "Luke Kunin",
+    "_1": "SJS",
     "_2": "C",
     "_3": "77",
     "Overall": "11",
@@ -5624,7 +5605,7 @@
     "_12": "60"
   },
   {
-    "": "Yanni Gourde",
+    "Name": "Yanni Gourde",
     "_1": "SEA",
     "_2": "LW",
     "_3": "80",
@@ -5643,7 +5624,7 @@
     "_12": "52"
   },
   {
-    "": "Brandon Montour",
+    "Name": "Brandon Montour",
     "_1": "SEA",
     "_2": "D",
     "_3": "90",
@@ -5662,7 +5643,7 @@
     "_12": "103"
   },
   {
-    "": "Vince Dunn",
+    "Name": "Vince Dunn",
     "_1": "SEA",
     "_2": "D",
     "_3": "59",
@@ -5681,8 +5662,8 @@
     "_12": "64"
   },
   {
-    "": "Alexander Wennberg",
-    "_1": "SJ",
+    "Name": "Alexander Wennberg",
+    "_1": "SJS",
     "_2": "C",
     "_3": "95",
     "Overall": "11",
@@ -5700,7 +5681,7 @@
     "_12": "102"
   },
   {
-    "": "Sean Couturier",
+    "Name": "Sean Couturier",
     "_1": "PHI",
     "_2": "C",
     "_3": "74",
@@ -5719,7 +5700,7 @@
     "_12": "41"
   },
   {
-    "": "Ryan Poehling",
+    "Name": "Ryan Poehling",
     "_1": "PHI",
     "_2": "C",
     "_3": "77",
@@ -5738,7 +5719,7 @@
     "_12": "101"
   },
   {
-    "": "Erik Karlsson",
+    "Name": "Erik Karlsson",
     "_1": "PIT",
     "_2": "D",
     "_3": "82",
@@ -5757,7 +5738,7 @@
     "_12": "99"
   },
   {
-    "": "Bobby Brink",
+    "Name": "Bobby Brink",
     "_1": "PHI",
     "_2": "RW",
     "_3": "57",
@@ -5776,7 +5757,7 @@
     "_12": "24"
   },
   {
-    "": "Tye Kartye",
+    "Name": "Tye Kartye",
     "_1": "SEA",
     "_2": "C",
     "_3": "77",
@@ -5795,7 +5776,7 @@
     "_12": "27"
   },
   {
-    "": "Mathieu Joseph",
+    "Name": "Mathieu Joseph",
     "_1": "STL",
     "_2": "RW",
     "_3": "72",
@@ -5814,8 +5795,8 @@
     "_12": "49"
   },
   {
-    "": "Michael Eyssimont",
-    "_1": "TB",
+    "Name": "Michael Eyssimont",
+    "_1": "TBL",
     "_2": "C",
     "_3": "86",
     "Overall": "11",
@@ -5833,7 +5814,7 @@
     "_12": "31"
   },
   {
-    "": "Oliver Ekman-Larsson",
+    "Name": "Oliver Ekman-Larsson",
     "_1": "TOR",
     "_2": "D",
     "_3": "104",
@@ -5852,7 +5833,7 @@
     "_12": "88"
   },
   {
-    "": "Connor Dewar",
+    "Name": "Connor Dewar",
     "_1": "TOR",
     "_2": "C",
     "_3": "80",
@@ -5871,8 +5852,8 @@
     "_12": "40"
   },
   {
-    "": "John Carlson",
-    "_1": "WAS",
+    "Name": "John Carlson",
+    "_1": "WSH",
     "_2": "D",
     "_3": "86",
     "Overall": "11",
@@ -5890,7 +5871,7 @@
     "_12": "198"
   },
   {
-    "": "Kiefer Sherwood",
+    "Name": "Kiefer Sherwood",
     "_1": "VAN",
     "_2": "LW",
     "_3": "74",
@@ -5909,8 +5890,8 @@
     "_12": "25"
   },
   {
-    "": "Kevin Stenlund",
-    "_1": "UTA",
+    "Name": "Kevin Stenlund",
+    "_1": "ARI",
     "_2": "C",
     "_3": "105",
     "Overall": "11",
@@ -5928,7 +5909,7 @@
     "_12": "66"
   },
   {
-    "": "Max Domi",
+    "Name": "Max Domi",
     "_1": "TOR",
     "_2": "C",
     "_3": "87",
@@ -5947,7 +5928,7 @@
     "_12": "28"
   },
   {
-    "": "Calle Jarnkrok",
+    "Name": "Calle Jarnkrok",
     "_1": "TOR",
     "_2": "C",
     "_3": "59",
@@ -5966,7 +5947,7 @@
     "_12": "16"
   },
   {
-    "": "Colton Parayko",
+    "Name": "Colton Parayko",
     "_1": "STL",
     "_2": "D",
     "_3": "82",
@@ -5985,8 +5966,8 @@
     "_12": "218"
   },
   {
-    "": "Luke Glendening",
-    "_1": "TB",
+    "Name": "Luke Glendening",
+    "_1": "TBL",
     "_2": "C",
     "_3": "86",
     "Overall": "10",
@@ -6004,7 +5985,7 @@
     "_12": "55"
   },
   {
-    "": "Cam York",
+    "Name": "Cam York",
     "_1": "PHI",
     "_2": "D",
     "_3": "82",
@@ -6023,7 +6004,7 @@
     "_12": "174"
   },
   {
-    "": "Kris Letang",
+    "Name": "Kris Letang",
     "_1": "PIT",
     "_2": "D",
     "_3": "82",
@@ -6042,7 +6023,7 @@
     "_12": "136"
   },
   {
-    "": "Travis Sanheim",
+    "Name": "Travis Sanheim",
     "_1": "PHI",
     "_2": "D",
     "_3": "81",
@@ -6061,7 +6042,7 @@
     "_12": "149"
   },
   {
-    "": "Jake Sanderson",
+    "Name": "Jake Sanderson",
     "_1": "OTT",
     "_2": "D",
     "_3": "79",
@@ -6080,8 +6061,8 @@
     "_12": "139"
   },
   {
-    "": "Barclay Goodrow",
-    "_1": "SJ",
+    "Name": "Barclay Goodrow",
+    "_1": "SJS",
     "_2": "LW",
     "_3": "96",
     "Overall": "10",
@@ -6099,7 +6080,7 @@
     "_12": "115"
   },
   {
-    "": "Marcus Foligno",
+    "Name": "Marcus Foligno",
     "_1": "MIN",
     "_2": "LW",
     "_3": "55",
@@ -6118,7 +6099,7 @@
     "_12": "40"
   },
   {
-    "": "Sam Steel",
+    "Name": "Sam Steel",
     "_1": "DAL",
     "_2": "C",
     "_3": "96",
@@ -6137,7 +6118,7 @@
     "_12": "39"
   },
   {
-    "": "Josh Manson",
+    "Name": "Josh Manson",
     "_1": "COL",
     "_2": "D",
     "_3": "87",
@@ -6156,7 +6137,7 @@
     "_12": "131"
   },
   {
-    "": "Sam Carrick",
+    "Name": "Sam Carrick",
     "_1": "NYR",
     "_2": "C",
     "_3": "87",
@@ -6175,7 +6156,7 @@
     "_12": "38"
   },
   {
-    "": "Noah Dobson",
+    "Name": "Noah Dobson",
     "_1": "NYI",
     "_2": "D",
     "_3": "84",
@@ -6194,7 +6175,7 @@
     "_12": "187"
   },
   {
-    "": "Nikita Zadorov",
+    "Name": "Nikita Zadorov",
     "_1": "BOS",
     "_2": "D",
     "_3": "88",
@@ -6213,7 +6194,7 @@
     "_12": "86"
   },
   {
-    "": "Michael McLeod",
+    "Name": "Michael McLeod",
     "_1": "FA",
     "_2": "C",
     "_3": "45",
@@ -6232,7 +6213,7 @@
     "_12": "22"
   },
   {
-    "": "Mike Hoffman",
+    "Name": "Mike Hoffman",
     "_1": "FA",
     "_2": "LW",
     "_3": "66",
@@ -6251,8 +6232,8 @@
     "_12": "27"
   },
   {
-    "": "Justin Danforth",
-    "_1": "CLS",
+    "Name": "Justin Danforth",
+    "_1": "CBJ",
     "_2": "RW",
     "_3": "71",
     "Overall": "10",
@@ -6270,7 +6251,7 @@
     "_12": "46"
   },
   {
-    "": "Shayne Gostisbehere",
+    "Name": "Shayne Gostisbehere",
     "_1": "CAR",
     "_2": "D",
     "_3": "81",
@@ -6289,7 +6270,7 @@
     "_12": "75"
   },
   {
-    "": "Sean Walker",
+    "Name": "Sean Walker",
     "_1": "CAR",
     "_2": "D",
     "_3": "92",
@@ -6308,7 +6289,7 @@
     "_12": "143"
   },
   {
-    "": "Jordan Greenway",
+    "Name": "Jordan Greenway",
     "_1": "BUF",
     "_2": "LW",
     "_3": "67",
@@ -6327,7 +6308,7 @@
     "_12": "65"
   },
   {
-    "": "Jack Quinn",
+    "Name": "Jack Quinn",
     "_1": "BUF",
     "_2": "C",
     "_3": "27",
@@ -6346,7 +6327,7 @@
     "_12": "12"
   },
   {
-    "": "Rasmus Andersson",
+    "Name": "Rasmus Andersson",
     "_1": "CGY",
     "_2": "D",
     "_3": "78",
@@ -6365,7 +6346,7 @@
     "_12": "186"
   },
   {
-    "": "Jack Drury",
+    "Name": "Jack Drury",
     "_1": "CAR",
     "_2": "C",
     "_3": "85",
@@ -6384,8 +6365,8 @@
     "_12": "46"
   },
   {
-    "": "Sean Kuraly",
-    "_1": "CLS",
+    "Name": "Sean Kuraly",
+    "_1": "CBJ",
     "_2": "C",
     "_3": "62",
     "Overall": "9",
@@ -6403,8 +6384,8 @@
     "_12": "34"
   },
   {
-    "": "Damon Severson",
-    "_1": "CLS",
+    "Name": "Damon Severson",
+    "_1": "CBJ",
     "_2": "D",
     "_3": "67",
     "Overall": "9",
@@ -6422,7 +6403,7 @@
     "_12": "83"
   },
   {
-    "": "Blake Wheeler",
+    "Name": "Blake Wheeler",
     "_1": "FA",
     "_2": "RW",
     "_3": "55",
@@ -6441,7 +6422,7 @@
     "_12": "33"
   },
   {
-    "": "K'Andre Miller",
+    "Name": "K'Andre Miller",
     "_1": "NYR",
     "_2": "D",
     "_3": "96",
@@ -6460,8 +6441,8 @@
     "_12": "140"
   },
   {
-    "": "Luke Hughes",
-    "_1": "NJ",
+    "Name": "Luke Hughes",
+    "_1": "NJD",
     "_2": "D",
     "_3": "82",
     "Overall": "9",
@@ -6479,7 +6460,7 @@
     "_12": "55"
   },
   {
-    "": "Cole Smith",
+    "Name": "Cole Smith",
     "_1": "NSH",
     "_2": "LW",
     "_3": "85",
@@ -6498,8 +6479,8 @@
     "_12": "35"
   },
   {
-    "": "Tomas Tatar",
-    "_1": "NJ",
+    "Name": "Tomas Tatar",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "70",
     "Overall": "9",
@@ -6517,8 +6498,8 @@
     "_12": "24"
   },
   {
-    "": "Josh Anderson",
-    "_1": "MON",
+    "Name": "Josh Anderson",
+    "_1": "MTL",
     "_2": "RW",
     "_3": "78",
     "Overall": "9",
@@ -6536,7 +6517,7 @@
     "_12": "40"
   },
   {
-    "": "Logan Stankoven",
+    "Name": "Logan Stankoven",
     "_1": "DAL",
     "_2": "C",
     "_3": "43",
@@ -6555,7 +6536,7 @@
     "_12": "29"
   },
   {
-    "": "Moritz Seider",
+    "Name": "Moritz Seider",
     "_1": "DET",
     "_2": "D",
     "_3": "82",
@@ -6574,7 +6555,7 @@
     "_12": "212"
   },
   {
-    "": "Brett Howden",
+    "Name": "Brett Howden",
     "_1": "VGK",
     "_2": "C",
     "_3": "79",
@@ -6593,7 +6574,7 @@
     "_12": "56"
   },
   {
-    "": "Shane Pinto",
+    "Name": "Shane Pinto",
     "_1": "OTT",
     "_2": "C",
     "_3": "41",
@@ -6612,7 +6593,7 @@
     "_12": "31"
   },
   {
-    "": "Thomas Chabot",
+    "Name": "Thomas Chabot",
     "_1": "OTT",
     "_2": "D",
     "_3": "51",
@@ -6631,7 +6612,7 @@
     "_12": "88"
   },
   {
-    "": "Jake McCabe",
+    "Name": "Jake McCabe",
     "_1": "TOR",
     "_2": "D",
     "_3": "80",
@@ -6650,7 +6631,7 @@
     "_12": "142"
   },
   {
-    "": "David Kampf",
+    "Name": "David Kampf",
     "_1": "TOR",
     "_2": "RW",
     "_3": "85",
@@ -6669,8 +6650,8 @@
     "_12": "29"
   },
   {
-    "": "Sean Durzi",
-    "_1": "UTA",
+    "Name": "Sean Durzi",
+    "_1": "ARI",
     "_2": "D",
     "_3": "76",
     "Overall": "9",
@@ -6688,8 +6669,8 @@
     "_12": "160"
   },
   {
-    "": "Hendrix Lapierre",
-    "_1": "WAS",
+    "Name": "Hendrix Lapierre",
+    "_1": "WSH",
     "_2": "C",
     "_3": "55",
     "Overall": "9",
@@ -6707,8 +6688,8 @@
     "_12": "33"
   },
   {
-    "": "Jack McBain",
-    "_1": "UTA",
+    "Name": "Jack McBain",
+    "_1": "ARI",
     "_2": "C",
     "_3": "67",
     "Overall": "8",
@@ -6726,8 +6707,8 @@
     "_12": "42"
   },
   {
-    "": "Zemgus Girgensons",
-    "_1": "TB",
+    "Name": "Zemgus Girgensons",
+    "_1": "TBL",
     "_2": "C",
     "_3": "63",
     "Overall": "8",
@@ -6745,7 +6726,7 @@
     "_12": "36"
   },
   {
-    "": "Radek Faksa",
+    "Name": "Radek Faksa",
     "_1": "STL",
     "_2": "C",
     "_3": "82",
@@ -6764,8 +6745,8 @@
     "_12": "47"
   },
   {
-    "": "Carl Grundstrom",
-    "_1": "SJ",
+    "Name": "Carl Grundstrom",
+    "_1": "SJS",
     "_2": "LW",
     "_3": "55",
     "Overall": "8",
@@ -6783,8 +6764,8 @@
     "_12": "17"
   },
   {
-    "": "Klim Kostin",
-    "_1": "SJ",
+    "Name": "Klim Kostin",
+    "_1": "SJS",
     "_2": "RW",
     "_3": "52",
     "Overall": "8",
@@ -6802,7 +6783,7 @@
     "_12": "16"
   },
   {
-    "": "Emil Bemstrom",
+    "Name": "Emil Bemstrom",
     "_1": "PIT",
     "_2": "C",
     "_3": "56",
@@ -6821,7 +6802,7 @@
     "_12": "34"
   },
   {
-    "": "Blake Lizotte",
+    "Name": "Blake Lizotte",
     "_1": "PIT",
     "_2": "LW",
     "_3": "67",
@@ -6840,7 +6821,7 @@
     "_12": "31"
   },
   {
-    "": "Keegan Kolesar",
+    "Name": "Keegan Kolesar",
     "_1": "VGK",
     "_2": "RW",
     "_3": "85",
@@ -6859,8 +6840,8 @@
     "_12": "44"
   },
   {
-    "": "Trevor Lewis",
-    "_1": "LA",
+    "Name": "Trevor Lewis",
+    "_1": "LAK",
     "_2": "C",
     "_3": "87",
     "Overall": "8",
@@ -6878,7 +6859,7 @@
     "_12": "65"
   },
   {
-    "": "Mattias Janmark",
+    "Name": "Mattias Janmark",
     "_1": "EDM",
     "_2": "C",
     "_3": "96",
@@ -6897,7 +6878,7 @@
     "_12": "25"
   },
   {
-    "": "Esa Lindell",
+    "Name": "Esa Lindell",
     "_1": "DAL",
     "_2": "D",
     "_3": "101",
@@ -6916,7 +6897,7 @@
     "_12": "208"
   },
   {
-    "": "Colin Blackwell",
+    "Name": "Colin Blackwell",
     "_1": "DAL",
     "_2": "C",
     "_3": "44",
@@ -6935,7 +6916,7 @@
     "_12": "22"
   },
   {
-    "": "Brock Faber",
+    "Name": "Brock Faber",
     "_1": "MIN",
     "_2": "D",
     "_3": "82",
@@ -6954,7 +6935,7 @@
     "_12": "150"
   },
   {
-    "": "Mark Jankowski",
+    "Name": "Mark Jankowski",
     "_1": "NSH",
     "_2": "C",
     "_3": "38",
@@ -6973,7 +6954,7 @@
     "_12": "13"
   },
   {
-    "": "Juuso Parssinen",
+    "Name": "Juuso Parssinen",
     "_1": "NSH",
     "_2": "LW",
     "_3": "45",
@@ -6992,8 +6973,8 @@
     "_12": "16"
   },
   {
-    "": "Brenden Dillon",
-    "_1": "NJ",
+    "Name": "Brenden Dillon",
+    "_1": "NJD",
     "_2": "D",
     "_3": "80",
     "Overall": "8",
@@ -7011,7 +6992,7 @@
     "_12": "117"
   },
   {
-    "": "John Beecher",
+    "Name": "John Beecher",
     "_1": "BOS",
     "_2": "C",
     "_3": "64",
@@ -7030,7 +7011,7 @@
     "_12": "47"
   },
   {
-    "": "Kailer Yamamoto",
+    "Name": "Kailer Yamamoto",
     "_1": "FA",
     "_2": "LW",
     "_3": "59",
@@ -7049,7 +7030,7 @@
     "_12": "18"
   },
   {
-    "": "Seth Jones",
+    "Name": "Seth Jones",
     "_1": "CHI",
     "_2": "D",
     "_3": "67",
@@ -7068,7 +7049,7 @@
     "_12": "131"
   },
   {
-    "": "Parker Kelly",
+    "Name": "Parker Kelly",
     "_1": "COL",
     "_2": "C",
     "_3": "80",
@@ -7087,7 +7068,7 @@
     "_12": "67"
   },
   {
-    "": "Dmitry Orlov",
+    "Name": "Dmitry Orlov",
     "_1": "CAR",
     "_2": "D",
     "_3": "93",
@@ -7106,7 +7087,7 @@
     "_12": "79"
   },
   {
-    "": "Martin Pospisil",
+    "Name": "Martin Pospisil",
     "_1": "CGY",
     "_2": "C",
     "_3": "63",
@@ -7125,7 +7106,7 @@
     "_12": "22"
   },
   {
-    "": "Jalen Chatfield",
+    "Name": "Jalen Chatfield",
     "_1": "CAR",
     "_2": "D",
     "_3": "83",
@@ -7144,7 +7125,7 @@
     "_12": "83"
   },
   {
-    "": "Jaccob Slavin",
+    "Name": "Jaccob Slavin",
     "_1": "CAR",
     "_2": "D",
     "_3": "92",
@@ -7163,7 +7144,7 @@
     "_12": "140"
   },
   {
-    "": "William Carrier",
+    "Name": "William Carrier",
     "_1": "CAR",
     "_2": "LW",
     "_3": "46",
@@ -7182,7 +7163,7 @@
     "_12": "18"
   },
   {
-    "": "Jacob MacDonald",
+    "Name": "Jacob MacDonald",
     "_1": "COL",
     "_2": "D",
     "_3": "34",
@@ -7201,7 +7182,7 @@
     "_12": "17"
   },
   {
-    "": "Brandon Carlo",
+    "Name": "Brandon Carlo",
     "_1": "BOS",
     "_2": "D",
     "_3": "89",
@@ -7220,7 +7201,7 @@
     "_12": "164"
   },
   {
-    "": "Zach Parise",
+    "Name": "Zach Parise",
     "_1": "FA",
     "_2": "LW",
     "_3": "41",
@@ -7239,7 +7220,7 @@
     "_12": "35"
   },
   {
-    "": "Cal Clutterbuck",
+    "Name": "Cal Clutterbuck",
     "_1": "FA",
     "_2": "RW",
     "_3": "87",
@@ -7258,7 +7239,7 @@
     "_12": "58"
   },
   {
-    "": "Jakob Silfverberg",
+    "Name": "Jakob Silfverberg",
     "_1": "FA",
     "_2": "RW",
     "_3": "81",
@@ -7277,7 +7258,7 @@
     "_12": "36"
   },
   {
-    "": "Nick Cousins",
+    "Name": "Nick Cousins",
     "_1": "FA",
     "_2": "C",
     "_3": "81",
@@ -7296,7 +7277,7 @@
     "_12": "42"
   },
   {
-    "": "Justin Schultz",
+    "Name": "Justin Schultz",
     "_1": "FA",
     "_2": "D",
     "_3": "70",
@@ -7315,7 +7296,7 @@
     "_12": "68"
   },
   {
-    "": "Boris Katchouk",
+    "Name": "Boris Katchouk",
     "_1": "FA",
     "_2": "LW",
     "_3": "59",
@@ -7334,8 +7315,8 @@
     "_12": "14"
   },
   {
-    "": "Curtis Lazar",
-    "_1": "NJ",
+    "Name": "Curtis Lazar",
+    "_1": "NJD",
     "_2": "C",
     "_3": "71",
     "Overall": "7",
@@ -7353,7 +7334,7 @@
     "_12": "64"
   },
   {
-    "": "Alexander Romanov",
+    "Name": "Alexander Romanov",
     "_1": "NYI",
     "_2": "D",
     "_3": "86",
@@ -7372,7 +7353,7 @@
     "_12": "185"
   },
   {
-    "": "Mike Reilly",
+    "Name": "Mike Reilly",
     "_1": "NYI",
     "_2": "D",
     "_3": "66",
@@ -7391,8 +7372,8 @@
     "_12": "67"
   },
   {
-    "": "Paul Cotter",
-    "_1": "NJ",
+    "Name": "Paul Cotter",
+    "_1": "NJD",
     "_2": "C",
     "_3": "76",
     "Overall": "7",
@@ -7410,7 +7391,7 @@
     "_12": "29"
   },
   {
-    "": "Philip Tomasino",
+    "Name": "Philip Tomasino",
     "_1": "NSH",
     "_2": "C",
     "_3": "41",
@@ -7429,8 +7410,8 @@
     "_12": "18"
   },
   {
-    "": "Justin Barron",
-    "_1": "MON",
+    "Name": "Justin Barron",
+    "_1": "MTL",
     "_2": "D",
     "_3": "48",
     "Overall": "7",
@@ -7448,8 +7429,8 @@
     "_12": "59"
   },
   {
-    "": "Jake Evans",
-    "_1": "MON",
+    "Name": "Jake Evans",
+    "_1": "MTL",
     "_2": "LW",
     "_3": "82",
     "Overall": "7",
@@ -7467,7 +7448,7 @@
     "_12": "65"
   },
   {
-    "": "Jacob Middleton",
+    "Name": "Jacob Middleton",
     "_1": "MIN",
     "_2": "D",
     "_3": "80",
@@ -7486,7 +7467,7 @@
     "_12": "161"
   },
   {
-    "": "Jonas Brodin",
+    "Name": "Jonas Brodin",
     "_1": "MIN",
     "_2": "D",
     "_3": "62",
@@ -7505,7 +7486,7 @@
     "_12": "142"
   },
   {
-    "": "Tyler Motte",
+    "Name": "Tyler Motte",
     "_1": "DET",
     "_2": "C",
     "_3": "74",
@@ -7524,7 +7505,7 @@
     "_12": "43"
   },
   {
-    "": "Cody Ceci",
+    "Name": "Cody Ceci",
     "_1": "EDM",
     "_2": "D",
     "_3": "103",
@@ -7543,8 +7524,8 @@
     "_12": "136"
   },
   {
-    "": "Arthur Kaliyev",
-    "_1": "LA",
+    "Name": "Arthur Kaliyev",
+    "_1": "LAK",
     "_2": "RW",
     "_3": "51",
     "Overall": "7",
@@ -7562,8 +7543,8 @@
     "_12": "14"
   },
   {
-    "": "Tanner Jeannot",
-    "_1": "LA",
+    "Name": "Tanner Jeannot",
+    "_1": "LAK",
     "_2": "LW",
     "_3": "59",
     "Overall": "7",
@@ -7581,7 +7562,7 @@
     "_12": "28"
   },
   {
-    "": "Victor Olofsson",
+    "Name": "Victor Olofsson",
     "_1": "VGK",
     "_2": "LW",
     "_3": "51",
@@ -7600,7 +7581,7 @@
     "_12": "10"
   },
   {
-    "": "Brandon Tanev",
+    "Name": "Brandon Tanev",
     "_1": "SEA",
     "_2": "LW",
     "_3": "66",
@@ -7619,7 +7600,7 @@
     "_12": "62"
   },
   {
-    "": "Andre Burakovsky",
+    "Name": "Andre Burakovsky",
     "_1": "SEA",
     "_2": "LW",
     "_3": "49",
@@ -7638,7 +7619,7 @@
     "_12": "14"
   },
   {
-    "": "Garnet Hathaway",
+    "Name": "Garnet Hathaway",
     "_1": "PHI",
     "_2": "RW",
     "_3": "82",
@@ -7657,7 +7638,7 @@
     "_12": "73"
   },
   {
-    "": "Nathan Walker",
+    "Name": "Nathan Walker",
     "_1": "STL",
     "_2": "C",
     "_3": "45",
@@ -7676,7 +7657,7 @@
     "_12": "35"
   },
   {
-    "": "Morgan Rielly",
+    "Name": "Morgan Rielly",
     "_1": "TOR",
     "_2": "D",
     "_3": "79",
@@ -7695,7 +7676,7 @@
     "_12": "152"
   },
   {
-    "": "Pontus Holmberg",
+    "Name": "Pontus Holmberg",
     "_1": "TOR",
     "_2": "LW",
     "_3": "61",
@@ -7714,8 +7695,8 @@
     "_12": "43"
   },
   {
-    "": "Darren Raddysh",
-    "_1": "TB",
+    "Name": "Darren Raddysh",
+    "_1": "TBL",
     "_2": "D",
     "_3": "85",
     "Overall": "6",
@@ -7733,7 +7714,7 @@
     "_12": "111"
   },
   {
-    "": "Kasperi Kapanen",
+    "Name": "Kasperi Kapanen",
     "_1": "STL",
     "_2": "RW",
     "_3": "73",
@@ -7752,7 +7733,7 @@
     "_12": "27"
   },
   {
-    "": "Oskar Sundqvist",
+    "Name": "Oskar Sundqvist",
     "_1": "STL",
     "_2": "C",
     "_3": "71",
@@ -7771,7 +7752,7 @@
     "_12": "49"
   },
   {
-    "": "Filip Hronek",
+    "Name": "Filip Hronek",
     "_1": "VAN",
     "_2": "D",
     "_3": "94",
@@ -7790,7 +7771,7 @@
     "_12": "102"
   },
   {
-    "": "Phil Di Giuseppe",
+    "Name": "Phil Di Giuseppe",
     "_1": "VAN",
     "_2": "LW",
     "_3": "62",
@@ -7809,7 +7790,7 @@
     "_12": "28"
   },
   {
-    "": "Teddy Blueger",
+    "Name": "Teddy Blueger",
     "_1": "VAN",
     "_2": "C",
     "_3": "81",
@@ -7828,7 +7809,7 @@
     "_12": "57"
   },
   {
-    "": "Noah Cates",
+    "Name": "Noah Cates",
     "_1": "PHI",
     "_2": "LW",
     "_3": "59",
@@ -7847,7 +7828,7 @@
     "_12": "35"
   },
   {
-    "": "Noah Gregor",
+    "Name": "Noah Gregor",
     "_1": "OTT",
     "_2": "C",
     "_3": "65",
@@ -7866,8 +7847,8 @@
     "_12": "27"
   },
   {
-    "": "Thomas Bordeleau",
-    "_1": "SJ",
+    "Name": "Thomas Bordeleau",
+    "_1": "SJS",
     "_2": "LW",
     "_3": "27",
     "Overall": "6",
@@ -7885,7 +7866,7 @@
     "_12": "19"
   },
   {
-    "": "Anthony Beauvillier",
+    "Name": "Anthony Beauvillier",
     "_1": "PIT",
     "_2": "LW",
     "_3": "66",
@@ -7904,8 +7885,8 @@
     "_12": "35"
   },
   {
-    "": "Marc-Edouard Vlasic",
-    "_1": "SJ",
+    "Name": "Marc-Edouard Vlasic",
+    "_1": "SJS",
     "_2": "D",
     "_3": "57",
     "Overall": "6",
@@ -7923,8 +7904,8 @@
     "_12": "108"
   },
   {
-    "": "Brandon Duhaime",
-    "_1": "WAS",
+    "Name": "Brandon Duhaime",
+    "_1": "WSH",
     "_2": "LW",
     "_3": "91",
     "Overall": "6",
@@ -7942,8 +7923,8 @@
     "_12": "44"
   },
   {
-    "": "Aliaksei Protas",
-    "_1": "WAS",
+    "Name": "Aliaksei Protas",
+    "_1": "WSH",
     "_2": "C",
     "_3": "82",
     "Overall": "6",
@@ -7961,7 +7942,7 @@
     "_12": "52"
   },
   {
-    "": "Brayden McNabb",
+    "Name": "Brayden McNabb",
     "_1": "VGK",
     "_2": "D",
     "_3": "89",
@@ -7980,7 +7961,7 @@
     "_12": "234"
   },
   {
-    "": "Jesper Boqvist",
+    "Name": "Jesper Boqvist",
     "_1": "FLA",
     "_2": "C",
     "_3": "55",
@@ -7999,7 +7980,7 @@
     "_12": "19"
   },
   {
-    "": "A.J. Greer",
+    "Name": "A.J. Greer",
     "_1": "FLA",
     "_2": "LW",
     "_3": "59",
@@ -8018,8 +7999,8 @@
     "_12": "24"
   },
   {
-    "": "Vladislav Gavrikov",
-    "_1": "LA",
+    "Name": "Vladislav Gavrikov",
+    "_1": "LAK",
     "_2": "D",
     "_3": "82",
     "Overall": "6",
@@ -8037,7 +8018,7 @@
     "_12": "117"
   },
   {
-    "": "Erik Gustafsson",
+    "Name": "Erik Gustafsson",
     "_1": "DET",
     "_2": "D",
     "_3": "92",
@@ -8056,7 +8037,7 @@
     "_12": "82"
   },
   {
-    "": "Viktor Arvidsson",
+    "Name": "Viktor Arvidsson",
     "_1": "EDM",
     "_2": "LW",
     "_3": "23",
@@ -8075,7 +8056,7 @@
     "_12": "23"
   },
   {
-    "": "Connor Brown",
+    "Name": "Connor Brown",
     "_1": "EDM",
     "_2": "RW",
     "_3": "90",
@@ -8094,8 +8075,8 @@
     "_12": "34"
   },
   {
-    "": "David Savard",
-    "_1": "MON",
+    "Name": "David Savard",
+    "_1": "MTL",
     "_2": "D",
     "_3": "60",
     "Overall": "6",
@@ -8113,8 +8094,8 @@
     "_12": "163"
   },
   {
-    "": "Alex Barre-Boulet",
-    "_1": "MON",
+    "Name": "Alex Barre-Boulet",
+    "_1": "MTL",
     "_2": "C",
     "_3": "36",
     "Overall": "6",
@@ -8132,7 +8113,7 @@
     "_12": "8"
   },
   {
-    "": "Cody Glass",
+    "Name": "Cody Glass",
     "_1": "NSH",
     "_2": "C",
     "_3": "41",
@@ -8151,8 +8132,8 @@
     "_12": "20"
   },
   {
-    "": "Kaiden Guhle",
-    "_1": "MON",
+    "Name": "Kaiden Guhle",
+    "_1": "MTL",
     "_2": "D",
     "_3": "70",
     "Overall": "6",
@@ -8170,7 +8151,7 @@
     "_12": "178"
   },
   {
-    "": "Jeremy Lauzon",
+    "Name": "Jeremy Lauzon",
     "_1": "NSH",
     "_2": "D",
     "_3": "85",
@@ -8189,7 +8170,7 @@
     "_12": "120"
   },
   {
-    "": "Jonny Brodzinski",
+    "Name": "Jonny Brodzinski",
     "_1": "NYR",
     "_2": "RW",
     "_3": "60",
@@ -8208,8 +8189,8 @@
     "_12": "27"
   },
   {
-    "": "Johnny Kovacevic",
-    "_1": "NJ",
+    "Name": "Johnny Kovacevic",
+    "_1": "NJD",
     "_2": "D",
     "_3": "62",
     "Overall": "6",
@@ -8227,7 +8208,7 @@
     "_12": "83"
   },
   {
-    "": "Andrew Cogliano",
+    "Name": "Andrew Cogliano",
     "_1": "FA",
     "_2": "LW",
     "_3": "86",
@@ -8246,7 +8227,7 @@
     "_12": "47"
   },
   {
-    "": "Kevin Shattenkirk",
+    "Name": "Kevin Shattenkirk",
     "_1": "FA",
     "_2": "D",
     "_3": "67",
@@ -8265,7 +8246,7 @@
     "_12": "88"
   },
   {
-    "": "Nicolas Aube-Kubel",
+    "Name": "Nicolas Aube-Kubel",
     "_1": "BUF",
     "_2": "C",
     "_3": "63",
@@ -8284,7 +8265,7 @@
     "_12": "28"
   },
   {
-    "": "Justin Brazeau",
+    "Name": "Justin Brazeau",
     "_1": "BOS",
     "_2": "LW",
     "_3": "28",
@@ -8303,8 +8284,8 @@
     "_12": "17"
   },
   {
-    "": "Radko Gudas",
-    "_1": "ANH",
+    "Name": "Radko Gudas",
+    "_1": "ANA",
     "_2": "D",
     "_3": "66",
     "Overall": "6",
@@ -8322,8 +8303,8 @@
     "_12": "154"
   },
   {
-    "": "Brian Dumoulin",
-    "_1": "ANH",
+    "Name": "Brian Dumoulin",
+    "_1": "ANA",
     "_2": "D",
     "_3": "80",
     "Overall": "6",
@@ -8341,8 +8322,8 @@
     "_12": "79"
   },
   {
-    "": "Trevor Zegras",
-    "_1": "ANH",
+    "Name": "Trevor Zegras",
+    "_1": "ANA",
     "_2": "C",
     "_3": "31",
     "Overall": "6",
@@ -8360,8 +8341,8 @@
     "_12": "15"
   },
   {
-    "": "Kent Johnson",
-    "_1": "CLS",
+    "Name": "Kent Johnson",
+    "_1": "CBJ",
     "_2": "C",
     "_3": "42",
     "Overall": "6",
@@ -8379,8 +8360,8 @@
     "_12": "16"
   },
   {
-    "": "Patrik Laine",
-    "_1": "CLS",
+    "Name": "Patrik Laine",
+    "_1": "CBJ",
     "_2": "RW",
     "_3": "18",
     "Overall": "6",
@@ -8398,8 +8379,8 @@
     "_12": "14"
   },
   {
-    "": "Erik Gudbranson",
-    "_1": "CLS",
+    "Name": "Erik Gudbranson",
+    "_1": "CBJ",
     "_2": "D",
     "_3": "78",
     "Overall": "6",
@@ -8417,7 +8398,7 @@
     "_12": "170"
   },
   {
-    "": "Jesper Fast",
+    "Name": "Jesper Fast",
     "_1": "CAR",
     "_2": "RW",
     "_3": "73",
@@ -8436,7 +8417,7 @@
     "_12": "23"
   },
   {
-    "": "Owen Power",
+    "Name": "Owen Power",
     "_1": "BUF",
     "_2": "D",
     "_3": "76",
@@ -8455,7 +8436,7 @@
     "_12": "115"
   },
   {
-    "": "Beck Malenstyn",
+    "Name": "Beck Malenstyn",
     "_1": "BUF",
     "_2": "C",
     "_3": "85",
@@ -8474,7 +8455,7 @@
     "_12": "102"
   },
   {
-    "": "Matthew Poitras",
+    "Name": "Matthew Poitras",
     "_1": "BOS",
     "_2": "C",
     "_3": "33",
@@ -8493,7 +8474,7 @@
     "_12": "15"
   },
   {
-    "": "Ryan Lomberg",
+    "Name": "Ryan Lomberg",
     "_1": "CGY",
     "_2": "LW",
     "_3": "83",
@@ -8512,7 +8493,7 @@
     "_12": "24"
   },
   {
-    "": "Kevin Korchinski",
+    "Name": "Kevin Korchinski",
     "_1": "CHI",
     "_2": "D",
     "_3": "76",
@@ -8531,7 +8512,7 @@
     "_12": "82"
   },
   {
-    "": "Lukas Reichel",
+    "Name": "Lukas Reichel",
     "_1": "CHI",
     "_2": "RW",
     "_3": "65",
@@ -8550,8 +8531,8 @@
     "_12": "25"
   },
   {
-    "": "Mathieu Olivier",
-    "_1": "CLS",
+    "Name": "Mathieu Olivier",
+    "_1": "CBJ",
     "_2": "RW",
     "_3": "54",
     "Overall": "5",
@@ -8569,8 +8550,8 @@
     "_12": "36"
   },
   {
-    "": "Ivan Provorov",
-    "_1": "CLS",
+    "Name": "Ivan Provorov",
+    "_1": "CBJ",
     "_2": "D",
     "_3": "82",
     "Overall": "5",
@@ -8588,7 +8569,7 @@
     "_12": "155"
   },
   {
-    "": "Joey Anderson",
+    "Name": "Joey Anderson",
     "_1": "CHI",
     "_2": "RW",
     "_3": "55",
@@ -8607,8 +8588,8 @@
     "_12": "18"
   },
   {
-    "": "Cam Fowler",
-    "_1": "ANH",
+    "Name": "Cam Fowler",
+    "_1": "ANA",
     "_2": "D",
     "_3": "81",
     "Overall": "5",
@@ -8626,7 +8607,7 @@
     "_12": "119"
   },
   {
-    "": "Vinni Lettieri",
+    "Name": "Vinni Lettieri",
     "_1": "BOS",
     "_2": "C",
     "_3": "46",
@@ -8645,7 +8626,7 @@
     "_12": "27"
   },
   {
-    "": "Mark Kastelic",
+    "Name": "Mark Kastelic",
     "_1": "BOS",
     "_2": "C",
     "_3": "63",
@@ -8664,7 +8645,7 @@
     "_12": "31"
   },
   {
-    "": "Max Jones",
+    "Name": "Max Jones",
     "_1": "BOS",
     "_2": "LW",
     "_3": "52",
@@ -8683,7 +8664,7 @@
     "_12": "14"
   },
   {
-    "": "Mason Lohrei",
+    "Name": "Mason Lohrei",
     "_1": "BOS",
     "_2": "D",
     "_3": "52",
@@ -8702,8 +8683,8 @@
     "_12": "80"
   },
   {
-    "": "Isac Lundestrom",
-    "_1": "ANH",
+    "Name": "Isac Lundestrom",
+    "_1": "ANA",
     "_2": "LW",
     "_3": "46",
     "Overall": "5",
@@ -8721,7 +8702,7 @@
     "_12": "27"
   },
   {
-    "": "Sam Gagner",
+    "Name": "Sam Gagner",
     "_1": "FA",
     "_2": "C",
     "_3": "28",
@@ -8740,7 +8721,7 @@
     "_12": "17"
   },
   {
-    "": "Tanner Pearson",
+    "Name": "Tanner Pearson",
     "_1": "FA",
     "_2": "LW",
     "_3": "54",
@@ -8759,7 +8740,7 @@
     "_12": "35"
   },
   {
-    "": "Ryan Carpenter",
+    "Name": "Ryan Carpenter",
     "_1": "FA",
     "_2": "C",
     "_3": "62",
@@ -8778,8 +8759,8 @@
     "_12": "31"
   },
   {
-    "": "Nathan Bastian",
-    "_1": "NJ",
+    "Name": "Nathan Bastian",
+    "_1": "NJD",
     "_2": "RW",
     "_3": "54",
     "Overall": "5",
@@ -8797,8 +8778,8 @@
     "_12": "27"
   },
   {
-    "": "Dougie Hamilton",
-    "_1": "NJ",
+    "Name": "Dougie Hamilton",
+    "_1": "NJD",
     "_2": "D",
     "_3": "20",
     "Overall": "5",
@@ -8816,7 +8797,7 @@
     "_12": "24"
   },
   {
-    "": "Ryan Pulock",
+    "Name": "Ryan Pulock",
     "_1": "NYI",
     "_2": "D",
     "_3": "63",
@@ -8835,7 +8816,7 @@
     "_12": "162"
   },
   {
-    "": "Julien Gauthier",
+    "Name": "Julien Gauthier",
     "_1": "NYI",
     "_2": "RW",
     "_3": "27",
@@ -8854,7 +8835,7 @@
     "_12": "17"
   },
   {
-    "": "Kyle MacLean",
+    "Name": "Kyle MacLean",
     "_1": "NYI",
     "_2": "C",
     "_3": "37",
@@ -8873,7 +8854,7 @@
     "_12": "11"
   },
   {
-    "": "Alexandre Carrier",
+    "Name": "Alexandre Carrier",
     "_1": "NSH",
     "_2": "D",
     "_3": "79",
@@ -8892,8 +8873,8 @@
     "_12": "156"
   },
   {
-    "": "Christian Dvorak",
-    "_1": "MON",
+    "Name": "Christian Dvorak",
+    "_1": "MTL",
     "_2": "LW",
     "_3": "30",
     "Overall": "5",
@@ -8911,7 +8892,7 @@
     "_12": "19"
   },
   {
-    "": "Frederick Gaudreau",
+    "Name": "Frederick Gaudreau",
     "_1": "MIN",
     "_2": "C",
     "_3": "67",
@@ -8930,7 +8911,7 @@
     "_12": "47"
   },
   {
-    "": "Derek Ryan",
+    "Name": "Derek Ryan",
     "_1": "EDM",
     "_2": "C",
     "_3": "89",
@@ -8949,7 +8930,7 @@
     "_12": "36"
   },
   {
-    "": "Christian Fischer",
+    "Name": "Christian Fischer",
     "_1": "DET",
     "_2": "RW",
     "_3": "79",
@@ -8968,7 +8949,7 @@
     "_12": "32"
   },
   {
-    "": "Ben Chiarot",
+    "Name": "Ben Chiarot",
     "_1": "DET",
     "_2": "D",
     "_3": "77",
@@ -8987,7 +8968,7 @@
     "_12": "167"
   },
   {
-    "": "Brendan Smith",
+    "Name": "Brendan Smith",
     "_1": "DAL",
     "_2": "D",
     "_3": "63",
@@ -9006,7 +8987,7 @@
     "_12": "101"
   },
   {
-    "": "Niko Mikkola",
+    "Name": "Niko Mikkola",
     "_1": "FLA",
     "_2": "D",
     "_3": "106",
@@ -9025,7 +9006,7 @@
     "_12": "153"
   },
   {
-    "": "Aaron Ekblad",
+    "Name": "Aaron Ekblad",
     "_1": "FLA",
     "_2": "D",
     "_3": "75",
@@ -9044,7 +9025,7 @@
     "_12": "107"
   },
   {
-    "": "Mackenzie Entwistle",
+    "Name": "Mackenzie Entwistle",
     "_1": "FLA",
     "_2": "RW",
     "_3": "67",
@@ -9063,7 +9044,7 @@
     "_12": "32"
   },
   {
-    "": "Shea Theodore",
+    "Name": "Shea Theodore",
     "_1": "VGK",
     "_2": "D",
     "_3": "54",
@@ -9082,8 +9063,8 @@
     "_12": "90"
   },
   {
-    "": "Taylor Raddysh",
-    "_1": "WAS",
+    "Name": "Taylor Raddysh",
+    "_1": "WSH",
     "_2": "RW",
     "_3": "73",
     "Overall": "5",
@@ -9101,8 +9082,8 @@
     "_12": "28"
   },
   {
-    "": "Martin Fehervary",
-    "_1": "WAS",
+    "Name": "Martin Fehervary",
+    "_1": "WSH",
     "_2": "D",
     "_3": "70",
     "Overall": "5",
@@ -9120,7 +9101,7 @@
     "_12": "118"
   },
   {
-    "": "Neal Pionk",
+    "Name": "Neal Pionk",
     "_1": "WPG",
     "_2": "D",
     "_3": "87",
@@ -9139,7 +9120,7 @@
     "_12": "130"
   },
   {
-    "": "Valtteri Puustinen",
+    "Name": "Valtteri Puustinen",
     "_1": "PIT",
     "_2": "RW",
     "_3": "52",
@@ -9158,8 +9139,8 @@
     "_12": "33"
   },
   {
-    "": "Jan Rutta",
-    "_1": "SJ",
+    "Name": "Jan Rutta",
+    "_1": "SJS",
     "_2": "D",
     "_3": "69",
     "Overall": "5",
@@ -9177,8 +9158,8 @@
     "_12": "110"
   },
   {
-    "": "Justin Bailey",
-    "_1": "SJ",
+    "Name": "Justin Bailey",
+    "_1": "SJS",
     "_2": "RW",
     "_3": "59",
     "Overall": "5",
@@ -9196,8 +9177,8 @@
     "_12": "29"
   },
   {
-    "": "Nico Sturm",
-    "_1": "SJ",
+    "Name": "Nico Sturm",
+    "_1": "SJS",
     "_2": "C",
     "_3": "63",
     "Overall": "5",
@@ -9215,7 +9196,7 @@
     "_12": "39"
   },
   {
-    "": "Braden Schneider",
+    "Name": "Braden Schneider",
     "_1": "NYR",
     "_2": "D",
     "_3": "98",
@@ -9234,7 +9215,7 @@
     "_12": "167"
   },
   {
-    "": "Artem Zub",
+    "Name": "Artem Zub",
     "_1": "OTT",
     "_2": "D",
     "_3": "69",
@@ -9253,7 +9234,7 @@
     "_12": "122"
   },
   {
-    "": "Erik Johnson",
+    "Name": "Erik Johnson",
     "_1": "PHI",
     "_2": "D",
     "_3": "67",
@@ -9272,7 +9253,7 @@
     "_12": "97"
   },
   {
-    "": "Egor Zamula",
+    "Name": "Egor Zamula",
     "_1": "PHI",
     "_2": "D",
     "_3": "66",
@@ -9291,8 +9272,8 @@
     "_12": "79"
   },
   {
-    "": "Matt Roy",
-    "_1": "WAS",
+    "Name": "Matt Roy",
+    "_1": "WSH",
     "_2": "D",
     "_3": "86",
     "Overall": "5",
@@ -9310,8 +9291,8 @@
     "_12": "208"
   },
   {
-    "": "Michael Kesselring",
-    "_1": "UTA",
+    "Name": "Michael Kesselring",
+    "_1": "ARI",
     "_2": "D",
     "_3": "65",
     "Overall": "5",
@@ -9329,8 +9310,8 @@
     "_12": "59"
   },
   {
-    "": "Josh Doan",
-    "_1": "UTA",
+    "Name": "Josh Doan",
+    "_1": "ARI",
     "_2": "RW",
     "_3": "11",
     "Overall": "5",
@@ -9348,7 +9329,7 @@
     "_12": "7"
   },
   {
-    "": "Tyler Myers",
+    "Name": "Tyler Myers",
     "_1": "VAN",
     "_2": "D",
     "_3": "89",
@@ -9367,8 +9348,8 @@
     "_12": "162"
   },
   {
-    "": "Liam O'Brien",
-    "_1": "UTA",
+    "Name": "Liam O'Brien",
+    "_1": "ARI",
     "_2": "C",
     "_3": "75",
     "Overall": "5",
@@ -9386,7 +9367,7 @@
     "_12": "33"
   },
   {
-    "": "Zachary Bolduc",
+    "Name": "Zachary Bolduc",
     "_1": "STL",
     "_2": "C",
     "_3": "25",
@@ -9405,8 +9386,8 @@
     "_12": "12"
   },
   {
-    "": "J.J. Moser",
-    "_1": "TB",
+    "Name": "J.J. Moser",
+    "_1": "TBL",
     "_2": "D",
     "_3": "80",
     "Overall": "5",
@@ -9424,7 +9405,7 @@
     "_12": "112"
   },
   {
-    "": "Ryan Reaves",
+    "Name": "Ryan Reaves",
     "_1": "TOR",
     "_2": "RW",
     "_3": "54",
@@ -9443,8 +9424,8 @@
     "_12": "17"
   },
   {
-    "": "Mitchell Chaffee",
-    "_1": "TB",
+    "Name": "Mitchell Chaffee",
+    "_1": "TBL",
     "_2": "RW",
     "_3": "35",
     "Overall": "4",
@@ -9462,8 +9443,8 @@
     "_12": "23"
   },
   {
-    "": "Jesse Ylonen",
-    "_1": "TB",
+    "Name": "Jesse Ylonen",
+    "_1": "TBL",
     "_2": "LW",
     "_3": "59",
     "Overall": "4",
@@ -9481,8 +9462,8 @@
     "_12": "32"
   },
   {
-    "": "Conor Sheary",
-    "_1": "TB",
+    "Name": "Conor Sheary",
+    "_1": "TBL",
     "_2": "LW",
     "_3": "57",
     "Overall": "4",
@@ -9500,7 +9481,7 @@
     "_12": "35"
   },
   {
-    "": "Torey Krug",
+    "Name": "Torey Krug",
     "_1": "STL",
     "_2": "D",
     "_3": "77",
@@ -9519,7 +9500,7 @@
     "_12": "111"
   },
   {
-    "": "Shane Wright",
+    "Name": "Shane Wright",
     "_1": "SEA",
     "_2": "C",
     "_3": "8",
@@ -9538,8 +9519,8 @@
     "_12": "6"
   },
   {
-    "": "John Marino",
-    "_1": "UTA",
+    "Name": "John Marino",
+    "_1": "ARI",
     "_2": "D",
     "_3": "75",
     "Overall": "4",
@@ -9557,8 +9538,8 @@
     "_12": "89"
   },
   {
-    "": "Michael Sgarbossa",
-    "_1": "WAS",
+    "Name": "Michael Sgarbossa",
+    "_1": "WSH",
     "_2": "LW",
     "_3": "25",
     "Overall": "4",
@@ -9576,7 +9557,7 @@
     "_12": "3"
   },
   {
-    "": "Jacob Bernard-Docker",
+    "Name": "Jacob Bernard-Docker",
     "_1": "OTT",
     "_2": "D",
     "_3": "72",
@@ -9595,7 +9576,7 @@
     "_12": "156"
   },
   {
-    "": "Adam Larsson",
+    "Name": "Adam Larsson",
     "_1": "SEA",
     "_2": "D",
     "_3": "81",
@@ -9614,7 +9595,7 @@
     "_12": "151"
   },
   {
-    "": "Noel Acciari",
+    "Name": "Noel Acciari",
     "_1": "PIT",
     "_2": "C",
     "_3": "55",
@@ -9633,7 +9614,7 @@
     "_12": "85"
   },
   {
-    "": "Marcus Pettersson",
+    "Name": "Marcus Pettersson",
     "_1": "PIT",
     "_2": "D",
     "_3": "82",
@@ -9652,7 +9633,7 @@
     "_12": "159"
   },
   {
-    "": "David Gustafsson",
+    "Name": "David Gustafsson",
     "_1": "WPG",
     "_2": "C",
     "_3": "43",
@@ -9671,7 +9652,7 @@
     "_12": "26"
   },
   {
-    "": "Colin Miller",
+    "Name": "Colin Miller",
     "_1": "WPG",
     "_2": "D",
     "_3": "47",
@@ -9690,7 +9671,7 @@
     "_12": "38"
   },
   {
-    "": "Alex Pietrangelo",
+    "Name": "Alex Pietrangelo",
     "_1": "VGK",
     "_2": "D",
     "_3": "71",
@@ -9709,7 +9690,7 @@
     "_12": "177"
   },
   {
-    "": "Matt Dumba",
+    "Name": "Matt Dumba",
     "_1": "DAL",
     "_2": "D",
     "_3": "81",
@@ -9728,7 +9709,7 @@
     "_12": "115"
   },
   {
-    "": "Olli Maatta",
+    "Name": "Olli Maatta",
     "_1": "DET",
     "_2": "D",
     "_3": "72",
@@ -9747,7 +9728,7 @@
     "_12": "96"
   },
   {
-    "": "Brett Kulak",
+    "Name": "Brett Kulak",
     "_1": "EDM",
     "_2": "D",
     "_3": "107",
@@ -9766,7 +9747,7 @@
     "_12": "133"
   },
   {
-    "": "Jon Merrill",
+    "Name": "Jon Merrill",
     "_1": "MIN",
     "_2": "D",
     "_3": "65",
@@ -9785,8 +9766,8 @@
     "_12": "57"
   },
   {
-    "": "Joshua Roy",
-    "_1": "MON",
+    "Name": "Joshua Roy",
+    "_1": "MTL",
     "_2": "C",
     "_3": "23",
     "Overall": "4",
@@ -9804,7 +9785,7 @@
     "_12": "21"
   },
   {
-    "": "Hudson Fasching",
+    "Name": "Hudson Fasching",
     "_1": "NYI",
     "_2": "RW",
     "_3": "49",
@@ -9823,7 +9804,7 @@
     "_12": "35"
   },
   {
-    "": "Jacob Trouba",
+    "Name": "Jacob Trouba",
     "_1": "NYR",
     "_2": "D",
     "_3": "85",
@@ -9842,7 +9823,7 @@
     "_12": "255"
   },
   {
-    "": "Pierre-Edouard Bellemare",
+    "Name": "Pierre-Edouard Bellemare",
     "_1": "FA",
     "_2": "C",
     "_3": "40",
@@ -9861,7 +9842,7 @@
     "_12": "22"
   },
   {
-    "": "Alexander Barabanov",
+    "Name": "Alexander Barabanov",
     "_1": "FA",
     "_2": "RW",
     "_3": "46",
@@ -9880,7 +9861,7 @@
     "_12": "15"
   },
   {
-    "": "Chris Tierney",
+    "Name": "Chris Tierney",
     "_1": "FA",
     "_2": "C",
     "_3": "52",
@@ -9899,7 +9880,7 @@
     "_12": "12"
   },
   {
-    "": "Matt Martin",
+    "Name": "Matt Martin",
     "_1": "FA",
     "_2": "LW",
     "_3": "60",
@@ -9918,7 +9899,7 @@
     "_12": "32"
   },
   {
-    "": "Max Pacioretty",
+    "Name": "Max Pacioretty",
     "_1": "FA",
     "_2": "LW",
     "_3": "51",
@@ -9937,7 +9918,7 @@
     "_12": "23"
   },
   {
-    "": "Hampus Lindholm",
+    "Name": "Hampus Lindholm",
     "_1": "BOS",
     "_2": "D",
     "_3": "86",
@@ -9956,8 +9937,8 @@
     "_12": "121"
   },
   {
-    "": "Pavel Mintyukov",
-    "_1": "ANH",
+    "Name": "Pavel Mintyukov",
+    "_1": "ANA",
     "_2": "D",
     "_3": "63",
     "Overall": "4",
@@ -9975,7 +9956,7 @@
     "_12": "65"
   },
   {
-    "": "Connor Clifton",
+    "Name": "Connor Clifton",
     "_1": "BUF",
     "_2": "D",
     "_3": "79",
@@ -9994,7 +9975,7 @@
     "_12": "117"
   },
   {
-    "": "Radim Zohorna",
+    "Name": "Radim Zohorna",
     "_1": "FA",
     "_2": "RW",
     "_3": "33",
@@ -10013,7 +9994,7 @@
     "_12": "5"
   },
   {
-    "": "Cole Guttman",
+    "Name": "Cole Guttman",
     "_1": "CHI",
     "_2": "C",
     "_3": "27",
@@ -10032,7 +10013,7 @@
     "_12": "14"
   },
   {
-    "": "Joel Kiviranta",
+    "Name": "Joel Kiviranta",
     "_1": "COL",
     "_2": "RW",
     "_3": "64",
@@ -10051,7 +10032,7 @@
     "_12": "35"
   },
   {
-    "": "Jake Bean",
+    "Name": "Jake Bean",
     "_1": "CGY",
     "_2": "D",
     "_3": "72",
@@ -10070,7 +10051,7 @@
     "_12": "110"
   },
   {
-    "": "Patrick Maroon",
+    "Name": "Patrick Maroon",
     "_1": "CHI",
     "_2": "LW",
     "_3": "64",
@@ -10089,7 +10070,7 @@
     "_12": "18"
   },
   {
-    "": "Alec Martinez",
+    "Name": "Alec Martinez",
     "_1": "CHI",
     "_2": "D",
     "_3": "61",
@@ -10108,7 +10089,7 @@
     "_12": "175"
   },
   {
-    "": "Peyton Krebs",
+    "Name": "Peyton Krebs",
     "_1": "BUF",
     "_2": "C",
     "_3": "80",
@@ -10127,7 +10108,7 @@
     "_12": "23"
   },
   {
-    "": "Henri Jokiharju",
+    "Name": "Henri Jokiharju",
     "_1": "BUF",
     "_2": "D",
     "_3": "74",
@@ -10146,7 +10127,7 @@
     "_12": "106"
   },
   {
-    "": "Brendan Lemieux",
+    "Name": "Brendan Lemieux",
     "_1": "CAR",
     "_2": "LW",
     "_3": "32",
@@ -10165,7 +10146,7 @@
     "_12": "6"
   },
   {
-    "": "Eric Robinson",
+    "Name": "Eric Robinson",
     "_1": "CAR",
     "_2": "LW",
     "_3": "47",
@@ -10184,7 +10165,7 @@
     "_12": "11"
   },
   {
-    "": "Tyson Jost",
+    "Name": "Tyson Jost",
     "_1": "CAR",
     "_2": "C",
     "_3": "43",
@@ -10203,7 +10184,7 @@
     "_12": "20"
   },
   {
-    "": "Dryden Hunt",
+    "Name": "Dryden Hunt",
     "_1": "CGY",
     "_2": "LW",
     "_3": "28",
@@ -10222,7 +10203,7 @@
     "_12": "6"
   },
   {
-    "": "Kevin Rooney",
+    "Name": "Kevin Rooney",
     "_1": "CGY",
     "_2": "C",
     "_3": "33",
@@ -10241,7 +10222,7 @@
     "_12": "29"
   },
   {
-    "": "Daniil Miromanov",
+    "Name": "Daniil Miromanov",
     "_1": "CGY",
     "_2": "D",
     "_3": "24",
@@ -10260,7 +10241,7 @@
     "_12": "34"
   },
   {
-    "": "Erik Brannstrom",
+    "Name": "Erik Brannstrom",
     "_1": "COL",
     "_2": "D",
     "_3": "76",
@@ -10279,7 +10260,7 @@
     "_12": "111"
   },
   {
-    "": "Samuel Girard",
+    "Name": "Samuel Girard",
     "_1": "COL",
     "_2": "D",
     "_3": "68",
@@ -10298,7 +10279,7 @@
     "_12": "121"
   },
   {
-    "": "Calvin de Haan",
+    "Name": "Calvin de Haan",
     "_1": "COL",
     "_2": "D",
     "_3": "60",
@@ -10317,7 +10298,7 @@
     "_12": "84"
   },
   {
-    "": "Matthew Coronato",
+    "Name": "Matthew Coronato",
     "_1": "CGY",
     "_2": "LW",
     "_3": "34",
@@ -10336,8 +10317,8 @@
     "_12": "7"
   },
   {
-    "": "Jack Johnson",
-    "_1": "CLS",
+    "Name": "Jack Johnson",
+    "_1": "CBJ",
     "_2": "D",
     "_3": "91",
     "Overall": "3",
@@ -10355,7 +10336,7 @@
     "_12": "97"
   },
   {
-    "": "Gustav Lindstrom",
+    "Name": "Gustav Lindstrom",
     "_1": "FA",
     "_2": "D",
     "_3": "46",
@@ -10374,7 +10355,7 @@
     "_12": "63"
   },
   {
-    "": "Steven Lorentz",
+    "Name": "Steven Lorentz",
     "_1": "FA",
     "_2": "C",
     "_3": "54",
@@ -10393,7 +10374,7 @@
     "_12": "18"
   },
   {
-    "": "Adam Ruzicka",
+    "Name": "Adam Ruzicka",
     "_1": "FA",
     "_2": "C",
     "_3": "42",
@@ -10412,7 +10393,7 @@
     "_12": "16"
   },
   {
-    "": "Ryan Suter",
+    "Name": "Ryan Suter",
     "_1": "FA",
     "_2": "D",
     "_3": "101",
@@ -10431,7 +10412,7 @@
     "_12": "130"
   },
   {
-    "": "Mark Giordano",
+    "Name": "Mark Giordano",
     "_1": "FA",
     "_2": "D",
     "_3": "46",
@@ -10450,7 +10431,7 @@
     "_12": "86"
   },
   {
-    "": "Oliver Kylington",
+    "Name": "Oliver Kylington",
     "_1": "FA",
     "_2": "D",
     "_3": "33",
@@ -10469,7 +10450,7 @@
     "_12": "51"
   },
   {
-    "": "Dillon Dube",
+    "Name": "Dillon Dube",
     "_1": "FA",
     "_2": "C",
     "_3": "43",
@@ -10488,7 +10469,7 @@
     "_12": "18"
   },
   {
-    "": "Tony DeAngelo",
+    "Name": "Tony DeAngelo",
     "_1": "FA",
     "_2": "D",
     "_3": "40",
@@ -10507,7 +10488,7 @@
     "_12": "25"
   },
   {
-    "": "Fredrik Olofsson",
+    "Name": "Fredrik Olofsson",
     "_1": "FA",
     "_2": "C",
     "_3": "57",
@@ -10526,7 +10507,7 @@
     "_12": "29"
   },
   {
-    "": "Ryan Lindgren",
+    "Name": "Ryan Lindgren",
     "_1": "NYR",
     "_2": "D",
     "_3": "92",
@@ -10545,8 +10526,8 @@
     "_12": "123"
   },
   {
-    "": "Brett Pesce",
-    "_1": "NJ",
+    "Name": "Brett Pesce",
+    "_1": "NJD",
     "_2": "D",
     "_3": "72",
     "Overall": "3",
@@ -10564,8 +10545,8 @@
     "_12": "116"
   },
   {
-    "": "Max Willman",
-    "_1": "NJ",
+    "Name": "Max Willman",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "18",
     "Overall": "3",
@@ -10583,8 +10564,8 @@
     "_12": "7"
   },
   {
-    "": "Simon Nemec",
-    "_1": "NJ",
+    "Name": "Simon Nemec",
+    "_1": "NJD",
     "_2": "D",
     "_3": "60",
     "Overall": "3",
@@ -10602,8 +10583,8 @@
     "_12": "105"
   },
   {
-    "": "Arber Xhekaj",
-    "_1": "MON",
+    "Name": "Arber Xhekaj",
+    "_1": "MTL",
     "_2": "D",
     "_3": "44",
     "Overall": "3",
@@ -10621,8 +10602,8 @@
     "_12": "49"
   },
   {
-    "": "Jayden Struble",
-    "_1": "MON",
+    "Name": "Jayden Struble",
+    "_1": "MTL",
     "_2": "D",
     "_3": "56",
     "Overall": "3",
@@ -10640,8 +10621,8 @@
     "_12": "53"
   },
   {
-    "": "Michael Pezzetta",
-    "_1": "MON",
+    "Name": "Michael Pezzetta",
+    "_1": "MTL",
     "_2": "C",
     "_3": "61",
     "Overall": "3",
@@ -10659,7 +10640,7 @@
     "_12": "29"
   },
   {
-    "": "Dante Fabbro",
+    "Name": "Dante Fabbro",
     "_1": "NSH",
     "_2": "D",
     "_3": "59",
@@ -10678,7 +10659,7 @@
     "_12": "92"
   },
   {
-    "": "Jakub Lauko",
+    "Name": "Jakub Lauko",
     "_1": "MIN",
     "_2": "C",
     "_3": "65",
@@ -10697,7 +10678,7 @@
     "_12": "25"
   },
   {
-    "": "Declan Chisholm",
+    "Name": "Declan Chisholm",
     "_1": "MIN",
     "_2": "D",
     "_3": "31",
@@ -10716,7 +10697,7 @@
     "_12": "38"
   },
   {
-    "": "Zach Bogosian",
+    "Name": "Zach Bogosian",
     "_1": "MIN",
     "_2": "D",
     "_3": "65",
@@ -10735,8 +10716,8 @@
     "_12": "83"
   },
   {
-    "": "Jordan Harris",
-    "_1": "MON",
+    "Name": "Jordan Harris",
+    "_1": "MTL",
     "_2": "D",
     "_3": "56",
     "Overall": "3",
@@ -10754,7 +10735,7 @@
     "_12": "86"
   },
   {
-    "": "Josh Brown",
+    "Name": "Josh Brown",
     "_1": "EDM",
     "_2": "D",
     "_3": "51",
@@ -10773,7 +10754,7 @@
     "_12": "85"
   },
   {
-    "": "Nate Schmidt",
+    "Name": "Nate Schmidt",
     "_1": "FLA",
     "_2": "D",
     "_3": "66",
@@ -10792,7 +10773,7 @@
     "_12": "82"
   },
   {
-    "": "Jeff Petry",
+    "Name": "Jeff Petry",
     "_1": "DET",
     "_2": "D",
     "_3": "73",
@@ -10811,7 +10792,7 @@
     "_12": "134"
   },
   {
-    "": "Sam Malinski",
+    "Name": "Sam Malinski",
     "_1": "COL",
     "_2": "D",
     "_3": "23",
@@ -10830,8 +10811,8 @@
     "_12": "22"
   },
   {
-    "": "Mikey Anderson",
-    "_1": "LA",
+    "Name": "Mikey Anderson",
+    "_1": "LAK",
     "_2": "D",
     "_3": "79",
     "Overall": "3",
@@ -10849,8 +10830,8 @@
     "_12": "138"
   },
   {
-    "": "Akil Thomas",
-    "_1": "LA",
+    "Name": "Akil Thomas",
+    "_1": "LAK",
     "_2": "C",
     "_3": "7",
     "Overall": "3",
@@ -10868,7 +10849,7 @@
     "_12": "3"
   },
   {
-    "": "Mason Morelli",
+    "Name": "Mason Morelli",
     "_1": "VGK",
     "_2": "C",
     "_3": "9",
@@ -10887,7 +10868,7 @@
     "_12": "6"
   },
   {
-    "": "Dylan DeMelo",
+    "Name": "Dylan DeMelo",
     "_1": "WPG",
     "_2": "D",
     "_3": "87",
@@ -10906,8 +10887,8 @@
     "_12": "142"
   },
   {
-    "": "Rasmus Sandin",
-    "_1": "WAS",
+    "Name": "Rasmus Sandin",
+    "_1": "WSH",
     "_2": "D",
     "_3": "69",
     "Overall": "3",
@@ -10925,7 +10906,7 @@
     "_12": "108"
   },
   {
-    "": "Ryan Graves",
+    "Name": "Ryan Graves",
     "_1": "PIT",
     "_2": "D",
     "_3": "70",
@@ -10944,7 +10925,7 @@
     "_12": "142"
   },
   {
-    "": "Jesse Puljujarvi",
+    "Name": "Jesse Puljujarvi",
     "_1": "PIT",
     "_2": "RW",
     "_3": "22",
@@ -10963,8 +10944,8 @@
     "_12": "6"
   },
   {
-    "": "Mario Ferraro",
-    "_1": "SJ",
+    "Name": "Mario Ferraro",
+    "_1": "SJS",
     "_2": "D",
     "_3": "78",
     "Overall": "3",
@@ -10982,7 +10963,7 @@
     "_12": "195"
   },
   {
-    "": "John Ludvig",
+    "Name": "John Ludvig",
     "_1": "PIT",
     "_2": "D",
     "_3": "33",
@@ -11001,8 +10982,8 @@
     "_12": "33"
   },
   {
-    "": "Henry Thrun",
-    "_1": "SJ",
+    "Name": "Henry Thrun",
+    "_1": "SJS",
     "_2": "D",
     "_3": "51",
     "Overall": "3",
@@ -11020,8 +11001,8 @@
     "_12": "71"
   },
   {
-    "": "Ty Dellandrea",
-    "_1": "SJ",
+    "Name": "Ty Dellandrea",
+    "_1": "SJS",
     "_2": "C",
     "_3": "48",
     "Overall": "3",
@@ -11039,7 +11020,7 @@
     "_12": "19"
   },
   {
-    "": "Will Borgen",
+    "Name": "Will Borgen",
     "_1": "SEA",
     "_2": "D",
     "_3": "82",
@@ -11058,7 +11039,7 @@
     "_12": "111"
   },
   {
-    "": "Jamie Drysdale",
+    "Name": "Jamie Drysdale",
     "_1": "PHI",
     "_2": "D",
     "_3": "34",
@@ -11077,7 +11058,7 @@
     "_12": "43"
   },
   {
-    "": "Carson Soucy",
+    "Name": "Carson Soucy",
     "_1": "VAN",
     "_2": "D",
     "_3": "52",
@@ -11096,7 +11077,7 @@
     "_12": "76"
   },
   {
-    "": "Nils Aman",
+    "Name": "Nils Aman",
     "_1": "VAN",
     "_2": "C",
     "_3": "48",
@@ -11115,8 +11096,8 @@
     "_12": "24"
   },
   {
-    "": "Barrett Hayton",
-    "_1": "UTA",
+    "Name": "Barrett Hayton",
+    "_1": "ARI",
     "_2": "C",
     "_3": "33",
     "Overall": "3",
@@ -11134,7 +11115,7 @@
     "_12": "15"
   },
   {
-    "": "Nick Leddy",
+    "Name": "Nick Leddy",
     "_1": "STL",
     "_2": "D",
     "_3": "82",
@@ -11153,8 +11134,8 @@
     "_12": "127"
   },
   {
-    "": "Ryan McDonagh",
-    "_1": "TB",
+    "Name": "Ryan McDonagh",
+    "_1": "TBL",
     "_2": "D",
     "_3": "80",
     "Overall": "3",
@@ -11172,7 +11153,7 @@
     "_12": "154"
   },
   {
-    "": "Timothy Liljegren",
+    "Name": "Timothy Liljegren",
     "_1": "TOR",
     "_2": "D",
     "_3": "61",
@@ -11191,7 +11172,7 @@
     "_12": "121"
   },
   {
-    "": "Dakota Mermis",
+    "Name": "Dakota Mermis",
     "_1": "TOR",
     "_2": "D",
     "_3": "47",
@@ -11210,7 +11191,7 @@
     "_12": "59"
   },
   {
-    "": "Jani Hakanpaa",
+    "Name": "Jani Hakanpaa",
     "_1": "TOR",
     "_2": "D",
     "_3": "64",
@@ -11229,7 +11210,7 @@
     "_12": "123"
   },
   {
-    "": "Chris Tanev",
+    "Name": "Chris Tanev",
     "_1": "TOR",
     "_2": "D",
     "_3": "94",
@@ -11248,8 +11229,8 @@
     "_12": "280"
   },
   {
-    "": "Nick Perbix",
-    "_1": "TB",
+    "Name": "Nick Perbix",
+    "_1": "TBL",
     "_2": "D",
     "_3": "79",
     "Overall": "2",
@@ -11267,8 +11248,8 @@
     "_12": "117"
   },
   {
-    "": "Erik Cernak",
-    "_1": "TB",
+    "Name": "Erik Cernak",
+    "_1": "TBL",
     "_2": "D",
     "_3": "74",
     "Overall": "2",
@@ -11286,7 +11267,7 @@
     "_12": "116"
   },
   {
-    "": "Justin Faulk",
+    "Name": "Justin Faulk",
     "_1": "STL",
     "_2": "D",
     "_3": "60",
@@ -11305,7 +11286,7 @@
     "_12": "104"
   },
   {
-    "": "Brandon Biro",
+    "Name": "Brandon Biro",
     "_1": "SEA",
     "_2": "LW",
     "_3": "5",
@@ -11324,7 +11305,7 @@
     "_12": "2"
   },
   {
-    "": "Pierre-Olivier Joseph",
+    "Name": "Pierre-Olivier Joseph",
     "_1": "STL",
     "_2": "D",
     "_3": "52",
@@ -11343,8 +11324,8 @@
     "_12": "44"
   },
   {
-    "": "Juuso Valimaki",
-    "_1": "UTA",
+    "Name": "Juuso Valimaki",
+    "_1": "ARI",
     "_2": "D",
     "_3": "68",
     "Overall": "2",
@@ -11362,8 +11343,8 @@
     "_12": "90"
   },
   {
-    "": "Mikhail Sergachev",
-    "_1": "UTA",
+    "Name": "Mikhail Sergachev",
+    "_1": "ARI",
     "_2": "D",
     "_3": "36",
     "Overall": "2",
@@ -11381,8 +11362,8 @@
     "_12": "73"
   },
   {
-    "": "Ian Cole",
-    "_1": "UTA",
+    "Name": "Ian Cole",
+    "_1": "ARI",
     "_2": "D",
     "_3": "91",
     "Overall": "2",
@@ -11400,7 +11381,7 @@
     "_12": "193"
   },
   {
-    "": "Louis Belpedio",
+    "Name": "Louis Belpedio",
     "_1": "PHI",
     "_2": "D",
     "_3": "12",
@@ -11419,7 +11400,7 @@
     "_12": "18"
   },
   {
-    "": "Angus Crookshank",
+    "Name": "Angus Crookshank",
     "_1": "OTT",
     "_2": "LW",
     "_3": "13",
@@ -11438,7 +11419,7 @@
     "_12": "8"
   },
   {
-    "": "Zack MacEwen",
+    "Name": "Zack MacEwen",
     "_1": "OTT",
     "_2": "C",
     "_3": "30",
@@ -11457,7 +11438,7 @@
     "_12": "7"
   },
   {
-    "": "Rourke Chartier",
+    "Name": "Rourke Chartier",
     "_1": "OTT",
     "_2": "C",
     "_3": "37",
@@ -11476,7 +11457,7 @@
     "_12": "11"
   },
   {
-    "": "Matt Rempe",
+    "Name": "Matt Rempe",
     "_1": "NYR",
     "_2": "C",
     "_3": "28",
@@ -11495,7 +11476,7 @@
     "_12": "9"
   },
   {
-    "": "Travis Hamonic",
+    "Name": "Travis Hamonic",
     "_1": "OTT",
     "_2": "D",
     "_3": "48",
@@ -11514,7 +11495,7 @@
     "_12": "75"
   },
   {
-    "": "Mitchell Stephens",
+    "Name": "Mitchell Stephens",
     "_1": "SEA",
     "_2": "C",
     "_3": "23",
@@ -11533,7 +11514,7 @@
     "_12": "7"
   },
   {
-    "": "Jamie Oleksiak",
+    "Name": "Jamie Oleksiak",
     "_1": "SEA",
     "_2": "D",
     "_3": "82",
@@ -11552,7 +11533,7 @@
     "_12": "177"
   },
   {
-    "": "Sebastian Aho",
+    "Name": "Sebastian Aho",
     "_1": "PIT",
     "_2": "D",
     "_3": "58",
@@ -11571,7 +11552,7 @@
     "_12": "72"
   },
   {
-    "": "Matt Grzelcyk",
+    "Name": "Matt Grzelcyk",
     "_1": "PIT",
     "_2": "D",
     "_3": "66",
@@ -11590,8 +11571,8 @@
     "_12": "81"
   },
   {
-    "": "Ivan Miroshnichenko",
-    "_1": "WAS",
+    "Name": "Ivan Miroshnichenko",
+    "_1": "WSH",
     "_2": "LW",
     "_3": "22",
     "Overall": "2",
@@ -11609,7 +11590,7 @@
     "_12": "5"
   },
   {
-    "": "Axel Jonsson-Fjallby",
+    "Name": "Axel Jonsson-Fjallby",
     "_1": "WPG",
     "_2": "LW",
     "_3": "27",
@@ -11628,8 +11609,8 @@
     "_12": "7"
   },
   {
-    "": "Kyle Burroughs",
-    "_1": "LA",
+    "Name": "Kyle Burroughs",
+    "_1": "LAK",
     "_2": "D",
     "_3": "73",
     "Overall": "2",
@@ -11647,7 +11628,7 @@
     "_12": "134"
   },
   {
-    "": "Zach Whitecloud",
+    "Name": "Zach Whitecloud",
     "_1": "VGK",
     "_2": "D",
     "_3": "67",
@@ -11666,7 +11647,7 @@
     "_12": "110"
   },
   {
-    "": "Brendan Brisson",
+    "Name": "Brendan Brisson",
     "_1": "VGK",
     "_2": "C",
     "_3": "15",
@@ -11685,8 +11666,8 @@
     "_12": "4"
   },
   {
-    "": "Jordan Spence",
-    "_1": "LA",
+    "Name": "Jordan Spence",
+    "_1": "LAK",
     "_2": "D",
     "_3": "76",
     "Overall": "2",
@@ -11704,8 +11685,8 @@
     "_12": "60"
   },
   {
-    "": "Brandt Clarke",
-    "_1": "LA",
+    "Name": "Brandt Clarke",
+    "_1": "LAK",
     "_2": "D",
     "_3": "16",
     "Overall": "2",
@@ -11723,7 +11704,7 @@
     "_12": "21"
   },
   {
-    "": "Ben Hutton",
+    "Name": "Ben Hutton",
     "_1": "VGK",
     "_2": "D",
     "_3": "42",
@@ -11742,7 +11723,7 @@
     "_12": "57"
   },
   {
-    "": "Nicolas Hague",
+    "Name": "Nicolas Hague",
     "_1": "VGK",
     "_2": "D",
     "_3": "74",
@@ -11761,7 +11742,7 @@
     "_12": "111"
   },
   {
-    "": "Jonah Gadjovich",
+    "Name": "Jonah Gadjovich",
     "_1": "FLA",
     "_2": "LW",
     "_3": "39",
@@ -11780,7 +11761,7 @@
     "_12": "14"
   },
   {
-    "": "Nils Lundkvist",
+    "Name": "Nils Lundkvist",
     "_1": "DAL",
     "_2": "D",
     "_3": "71",
@@ -11799,7 +11780,7 @@
     "_12": "41"
   },
   {
-    "": "Tomas Nosek",
+    "Name": "Tomas Nosek",
     "_1": "FLA",
     "_2": "LW",
     "_3": "36",
@@ -11818,7 +11799,7 @@
     "_12": "20"
   },
   {
-    "": "James Hamblin",
+    "Name": "James Hamblin",
     "_1": "EDM",
     "_2": "C",
     "_3": "31",
@@ -11837,7 +11818,7 @@
     "_12": "21"
   },
   {
-    "": "Philip Broberg",
+    "Name": "Philip Broberg",
     "_1": "EDM",
     "_2": "D",
     "_3": "22",
@@ -11856,7 +11837,7 @@
     "_12": "28"
   },
   {
-    "": "Jonatan Berggren",
+    "Name": "Jonatan Berggren",
     "_1": "DET",
     "_2": "RW",
     "_3": "12",
@@ -11875,8 +11856,8 @@
     "_12": "7"
   },
   {
-    "": "Rafael Harvey-Pinard",
-    "_1": "MON",
+    "Name": "Rafael Harvey-Pinard",
+    "_1": "MTL",
     "_2": "LW",
     "_3": "45",
     "Overall": "2",
@@ -11894,7 +11875,7 @@
     "_12": "47"
   },
   {
-    "": "Reese Johnson",
+    "Name": "Reese Johnson",
     "_1": "MIN",
     "_2": "RW",
     "_3": "42",
@@ -11913,7 +11894,7 @@
     "_12": "16"
   },
   {
-    "": "Travis Boyd",
+    "Name": "Travis Boyd",
     "_1": "MIN",
     "_2": "C",
     "_3": "16",
@@ -11932,7 +11913,7 @@
     "_12": "10"
   },
   {
-    "": "Brendan Gaunce",
+    "Name": "Brendan Gaunce",
     "_1": "MIN",
     "_2": "C",
     "_3": "24",
@@ -11951,7 +11932,7 @@
     "_12": "8"
   },
   {
-    "": "Spencer Stastney",
+    "Name": "Spencer Stastney",
     "_1": "NSH",
     "_2": "D",
     "_3": "23",
@@ -11970,7 +11951,7 @@
     "_12": "30"
   },
   {
-    "": "Jake Lucchini",
+    "Name": "Jake Lucchini",
     "_1": "NSH",
     "_2": "LW",
     "_3": "40",
@@ -11989,8 +11970,8 @@
     "_12": "14"
   },
   {
-    "": "Nick DeSimone",
-    "_1": "NJ",
+    "Name": "Nick DeSimone",
+    "_1": "NJD",
     "_2": "D",
     "_3": "34",
     "Overall": "2",
@@ -12008,8 +11989,8 @@
     "_12": "42"
   },
   {
-    "": "Kurtis MacDermid",
-    "_1": "NJ",
+    "Name": "Kurtis MacDermid",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "45",
     "Overall": "2",
@@ -12027,7 +12008,7 @@
     "_12": "11"
   },
   {
-    "": "Zac Jones",
+    "Name": "Zac Jones",
     "_1": "NYR",
     "_2": "D",
     "_3": "31",
@@ -12046,7 +12027,7 @@
     "_12": "23"
   },
   {
-    "": "Adam Edstrom",
+    "Name": "Adam Edstrom",
     "_1": "NYR",
     "_2": "C",
     "_3": "11",
@@ -12065,7 +12046,7 @@
     "_12": "2"
   },
   {
-    "": "Samuel Bolduc",
+    "Name": "Samuel Bolduc",
     "_1": "NYI",
     "_2": "D",
     "_3": "34",
@@ -12084,7 +12065,7 @@
     "_12": "40"
   },
   {
-    "": "Oliver Wahlstrom",
+    "Name": "Oliver Wahlstrom",
     "_1": "NYI",
     "_2": "RW",
     "_3": "32",
@@ -12103,7 +12084,7 @@
     "_12": "22"
   },
   {
-    "": "Kevin Labanc",
+    "Name": "Kevin Labanc",
     "_1": "FA",
     "_2": "RW",
     "_3": "46",
@@ -12122,7 +12103,7 @@
     "_12": "17"
   },
   {
-    "": "Marco Scandella",
+    "Name": "Marco Scandella",
     "_1": "FA",
     "_2": "D",
     "_3": "65",
@@ -12141,7 +12122,7 @@
     "_12": "49"
   },
   {
-    "": "Jakub Vrana",
+    "Name": "Jakub Vrana",
     "_1": "FA",
     "_2": "RW",
     "_3": "21",
@@ -12160,7 +12141,7 @@
     "_12": "4"
   },
   {
-    "": "Travis Dermott",
+    "Name": "Travis Dermott",
     "_1": "FA",
     "_2": "D",
     "_3": "50",
@@ -12179,7 +12160,7 @@
     "_12": "64"
   },
   {
-    "": "Nikita Zaitsev",
+    "Name": "Nikita Zaitsev",
     "_1": "FA",
     "_2": "D",
     "_3": "38",
@@ -12198,7 +12179,7 @@
     "_12": "70"
   },
   {
-    "": "Austin Watson",
+    "Name": "Austin Watson",
     "_1": "FA",
     "_2": "LW",
     "_3": "33",
@@ -12217,7 +12198,7 @@
     "_12": "20"
   },
   {
-    "": "Sheldon Rempal",
+    "Name": "Sheldon Rempal",
     "_1": "FA",
     "_2": "LW",
     "_3": "9",
@@ -12236,8 +12217,8 @@
     "_12": "3"
   },
   {
-    "": "Jackson LaCombe",
-    "_1": "ANH",
+    "Name": "Jackson LaCombe",
+    "_1": "ANA",
     "_2": "D",
     "_3": "71",
     "Overall": "2",
@@ -12255,8 +12236,8 @@
     "_12": "129"
   },
   {
-    "": "Olen Zellweger",
-    "_1": "ANH",
+    "Name": "Olen Zellweger",
+    "_1": "ANA",
     "_2": "D",
     "_3": "26",
     "Overall": "2",
@@ -12274,7 +12255,7 @@
     "_12": "38"
   },
   {
-    "": "Taylor Hall",
+    "Name": "Taylor Hall",
     "_1": "CHI",
     "_2": "LW",
     "_3": "10",
@@ -12293,7 +12274,7 @@
     "_12": "3"
   },
   {
-    "": "Connor Murphy",
+    "Name": "Connor Murphy",
     "_1": "CHI",
     "_2": "D",
     "_3": "46",
@@ -12312,7 +12293,7 @@
     "_12": "113"
   },
   {
-    "": "Andreas Athanasiou",
+    "Name": "Andreas Athanasiou",
     "_1": "CHI",
     "_2": "C",
     "_3": "28",
@@ -12331,7 +12312,7 @@
     "_12": "21"
   },
   {
-    "": "Alex Vlasic",
+    "Name": "Alex Vlasic",
     "_1": "CHI",
     "_2": "D",
     "_3": "76",
@@ -12350,8 +12331,8 @@
     "_12": "148"
   },
   {
-    "": "James Malatesta",
-    "_1": "CLS",
+    "Name": "James Malatesta",
+    "_1": "CBJ",
     "_2": "LW",
     "_3": "11",
     "Overall": "2",
@@ -12369,8 +12350,8 @@
     "_12": "2"
   },
   {
-    "": "Trey Fix-Wolansky",
-    "_1": "CLS",
+    "Name": "Trey Fix-Wolansky",
+    "_1": "CBJ",
     "_2": "RW",
     "_3": "11",
     "Overall": "2",
@@ -12388,7 +12369,7 @@
     "_12": "6"
   },
   {
-    "": "Brayden Pachal",
+    "Name": "Brayden Pachal",
     "_1": "CGY",
     "_2": "D",
     "_3": "50",
@@ -12407,7 +12388,7 @@
     "_12": "68"
   },
   {
-    "": "Walker Duehr",
+    "Name": "Walker Duehr",
     "_1": "CGY",
     "_2": "RW",
     "_3": "40",
@@ -12426,7 +12407,7 @@
     "_12": "13"
   },
   {
-    "": "T.J. Brodie",
+    "Name": "T.J. Brodie",
     "_1": "CHI",
     "_2": "D",
     "_3": "79",
@@ -12445,7 +12426,7 @@
     "_12": "161"
   },
   {
-    "": "Jakob Pelletier",
+    "Name": "Jakob Pelletier",
     "_1": "CGY",
     "_2": "LW",
     "_3": "13",
@@ -12464,7 +12445,7 @@
     "_12": "3"
   },
   {
-    "": "Nikita Okhotyuk",
+    "Name": "Nikita Okhotyuk",
     "_1": "CGY",
     "_2": "D",
     "_3": "52",
@@ -12483,7 +12464,7 @@
     "_12": "80"
   },
   {
-    "": "Kevin Bahl",
+    "Name": "Kevin Bahl",
     "_1": "CGY",
     "_2": "D",
     "_3": "82",
@@ -12502,7 +12483,7 @@
     "_12": "103"
   },
   {
-    "": "Joel Hanley",
+    "Name": "Joel Hanley",
     "_1": "CGY",
     "_2": "D",
     "_3": "42",
@@ -12521,7 +12502,7 @@
     "_12": "47"
   },
   {
-    "": "Jacob Bryson",
+    "Name": "Jacob Bryson",
     "_1": "BUF",
     "_2": "D",
     "_3": "36",
@@ -12540,7 +12521,7 @@
     "_12": "40"
   },
   {
-    "": "Mattias Samuelsson",
+    "Name": "Mattias Samuelsson",
     "_1": "BUF",
     "_2": "D",
     "_3": "41",
@@ -12559,7 +12540,7 @@
     "_12": "87"
   },
   {
-    "": "Dennis Gilbert",
+    "Name": "Dennis Gilbert",
     "_1": "BUF",
     "_2": "D",
     "_3": "34",
@@ -12578,8 +12559,8 @@
     "_12": "49"
   },
   {
-    "": "David Jiricek",
-    "_1": "CLS",
+    "Name": "David Jiricek",
+    "_1": "CBJ",
     "_2": "D",
     "_3": "43",
     "Overall": "1",
@@ -12597,7 +12578,7 @@
     "_12": "45"
   },
   {
-    "": "Chris Wagner",
+    "Name": "Chris Wagner",
     "_1": "COL",
     "_2": "RW",
     "_3": "15",
@@ -12616,8 +12597,8 @@
     "_12": "5"
   },
   {
-    "": "Luca Del Bel Belluz",
-    "_1": "CLS",
+    "Name": "Luca Del Bel Belluz",
+    "_1": "CBJ",
     "_2": "C",
     "_3": "1",
     "Overall": "1",
@@ -12635,7 +12616,7 @@
     "_12": "0"
   },
   {
-    "": "Jean-Luc Foudy",
+    "Name": "Jean-Luc Foudy",
     "_1": "COL",
     "_2": "C",
     "_3": "4",
@@ -12654,7 +12635,7 @@
     "_12": "0"
   },
   {
-    "": "Adam Klapka",
+    "Name": "Adam Klapka",
     "_1": "CGY",
     "_2": "RW",
     "_3": "6",
@@ -12673,7 +12654,7 @@
     "_12": "3"
   },
   {
-    "": "Frank Nazar",
+    "Name": "Frank Nazar",
     "_1": "CHI",
     "_2": "C",
     "_3": "3",
@@ -12692,7 +12673,7 @@
     "_12": "1"
   },
   {
-    "": "Landon Slaggert",
+    "Name": "Landon Slaggert",
     "_1": "CHI",
     "_2": "RW",
     "_3": "16",
@@ -12711,8 +12692,8 @@
     "_12": "6"
   },
   {
-    "": "Urho Vaakanainen",
-    "_1": "ANH",
+    "Name": "Urho Vaakanainen",
+    "_1": "ANA",
     "_2": "D",
     "_3": "68",
     "Overall": "1",
@@ -12730,8 +12711,8 @@
     "_12": "79"
   },
   {
-    "": "Brock McGinn",
-    "_1": "ANH",
+    "Name": "Brock McGinn",
+    "_1": "ANA",
     "_2": "LW",
     "_3": "24",
     "Overall": "1",
@@ -12749,8 +12730,8 @@
     "_12": "11"
   },
   {
-    "": "Ross Johnston",
-    "_1": "ANH",
+    "Name": "Ross Johnston",
+    "_1": "ANA",
     "_2": "LW",
     "_3": "68",
     "Overall": "1",
@@ -12768,7 +12749,7 @@
     "_12": "27"
   },
   {
-    "": "Carson Meyer",
+    "Name": "Carson Meyer",
     "_1": "FA",
     "_2": "RW",
     "_3": "14",
@@ -12787,7 +12768,7 @@
     "_12": "2"
   },
   {
-    "": "Mason Shaw",
+    "Name": "Mason Shaw",
     "_1": "FA",
     "_2": "C",
     "_3": "20",
@@ -12806,7 +12787,7 @@
     "_12": "6"
   },
   {
-    "": "Adam Boqvist",
+    "Name": "Adam Boqvist",
     "_1": "FA",
     "_2": "D",
     "_3": "35",
@@ -12825,7 +12806,7 @@
     "_12": "42"
   },
   {
-    "": "Calen Addison",
+    "Name": "Calen Addison",
     "_1": "FA",
     "_2": "D",
     "_3": "72",
@@ -12844,7 +12825,7 @@
     "_12": "83"
   },
   {
-    "": "John Leonard",
+    "Name": "John Leonard",
     "_1": "FA",
     "_2": "C",
     "_3": "6",
@@ -12863,7 +12844,7 @@
     "_12": "5"
   },
   {
-    "": "Marc McLaughlin",
+    "Name": "Marc McLaughlin",
     "_1": "BOS",
     "_2": "C",
     "_3": "1",
@@ -12882,7 +12863,7 @@
     "_12": "1"
   },
   {
-    "": "Riley Tufte",
+    "Name": "Riley Tufte",
     "_1": "BOS",
     "_2": "LW",
     "_3": "5",
@@ -12901,7 +12882,7 @@
     "_12": "2"
   },
   {
-    "": "Andrew Peeke",
+    "Name": "Andrew Peeke",
     "_1": "BOS",
     "_2": "D",
     "_3": "44",
@@ -12920,8 +12901,8 @@
     "_12": "87"
   },
   {
-    "": "Tristan Luneau",
-    "_1": "ANH",
+    "Name": "Tristan Luneau",
+    "_1": "ANA",
     "_2": "D",
     "_3": "7",
     "Overall": "1",
@@ -12939,8 +12920,8 @@
     "_12": "4"
   },
   {
-    "": "Nikita Nesterenko",
-    "_1": "ANH",
+    "Name": "Nikita Nesterenko",
+    "_1": "ANA",
     "_2": "LW",
     "_3": "3",
     "Overall": "1",
@@ -12958,8 +12939,8 @@
     "_12": "0"
   },
   {
-    "": "Sam Colangelo",
-    "_1": "ANH",
+    "Name": "Sam Colangelo",
+    "_1": "ANA",
     "_2": "RW",
     "_3": "3",
     "Overall": "1",
@@ -12977,7 +12958,7 @@
     "_12": "2"
   },
   {
-    "": "Nick Bonino",
+    "Name": "Nick Bonino",
     "_1": "FA",
     "_2": "C",
     "_3": "45",
@@ -12996,7 +12977,7 @@
     "_12": "78"
   },
   {
-    "": "Tyson Barrie",
+    "Name": "Tyson Barrie",
     "_1": "FA",
     "_2": "D",
     "_3": "42",
@@ -13015,7 +12996,7 @@
     "_12": "47"
   },
   {
-    "": "Tyler Pitlick",
+    "Name": "Tyler Pitlick",
     "_1": "FA",
     "_2": "C",
     "_3": "34",
@@ -13034,7 +13015,7 @@
     "_12": "15"
   },
   {
-    "": "Marc Staal",
+    "Name": "Marc Staal",
     "_1": "FA",
     "_2": "D",
     "_3": "35",
@@ -13053,7 +13034,7 @@
     "_12": "44"
   },
   {
-    "": "Oskar Steen",
+    "Name": "Oskar Steen",
     "_1": "FA",
     "_2": "C",
     "_3": "34",
@@ -13072,7 +13053,7 @@
     "_12": "19"
   },
   {
-    "": "Matthew Phillips",
+    "Name": "Matthew Phillips",
     "_1": "FA",
     "_2": "C",
     "_3": "31",
@@ -13091,7 +13072,7 @@
     "_12": "15"
   },
   {
-    "": "Jiri Smejkal",
+    "Name": "Jiri Smejkal",
     "_1": "FA",
     "_2": "LW",
     "_3": "20",
@@ -13110,7 +13091,7 @@
     "_12": "13"
   },
   {
-    "": "Chad Ruhwedel",
+    "Name": "Chad Ruhwedel",
     "_1": "FA",
     "_2": "D",
     "_3": "52",
@@ -13129,7 +13110,7 @@
     "_12": "44"
   },
   {
-    "": "Adam Erne",
+    "Name": "Adam Erne",
     "_1": "FA",
     "_2": "RW",
     "_3": "24",
@@ -13148,7 +13129,7 @@
     "_12": "5"
   },
   {
-    "": "Haydn Fleury",
+    "Name": "Haydn Fleury",
     "_1": "FA",
     "_2": "D",
     "_3": "24",
@@ -13167,7 +13148,7 @@
     "_12": "40"
   },
   {
-    "": "Sammy Blais",
+    "Name": "Sammy Blais",
     "_1": "FA",
     "_2": "LW",
     "_3": "53",
@@ -13186,7 +13167,7 @@
     "_12": "19"
   },
   {
-    "": "Denis Gurianov",
+    "Name": "Denis Gurianov",
     "_1": "FA",
     "_2": "RW",
     "_3": "18",
@@ -13205,7 +13186,7 @@
     "_12": "6"
   },
   {
-    "": "Adam Pelech",
+    "Name": "Adam Pelech",
     "_1": "NYI",
     "_2": "D",
     "_3": "63",
@@ -13224,8 +13205,8 @@
     "_12": "123"
   },
   {
-    "": "Justin Dowling",
-    "_1": "NJ",
+    "Name": "Justin Dowling",
+    "_1": "NJD",
     "_2": "C",
     "_3": "2",
     "Overall": "1",
@@ -13243,7 +13224,7 @@
     "_12": "1"
   },
   {
-    "": "Nick Blankenburg",
+    "Name": "Nick Blankenburg",
     "_1": "NSH",
     "_2": "D",
     "_3": "12",
@@ -13262,8 +13243,8 @@
     "_12": "15"
   },
   {
-    "": "Jonas Siegenthaler",
-    "_1": "NJ",
+    "Name": "Jonas Siegenthaler",
+    "_1": "NJD",
     "_2": "D",
     "_3": "57",
     "Overall": "1",
@@ -13281,8 +13262,8 @@
     "_12": "97"
   },
   {
-    "": "Nolan Foote",
-    "_1": "NJ",
+    "Name": "Nolan Foote",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "4",
     "Overall": "1",
@@ -13300,7 +13281,7 @@
     "_12": "2"
   },
   {
-    "": "Vinnie Hinostroza",
+    "Name": "Vinnie Hinostroza",
     "_1": "NSH",
     "_2": "RW",
     "_3": "14",
@@ -13319,7 +13300,7 @@
     "_12": "7"
   },
   {
-    "": "Luke Schenn",
+    "Name": "Luke Schenn",
     "_1": "NSH",
     "_2": "D",
     "_3": "68",
@@ -13338,7 +13319,7 @@
     "_12": "81"
   },
   {
-    "": "Devin Shore",
+    "Name": "Devin Shore",
     "_1": "MIN",
     "_2": "C",
     "_3": "21",
@@ -13357,7 +13338,7 @@
     "_12": "9"
   },
   {
-    "": "Liam Ohgren",
+    "Name": "Liam Ohgren",
     "_1": "MIN",
     "_2": "LW",
     "_3": "4",
@@ -13376,8 +13357,8 @@
     "_12": "0"
   },
   {
-    "": "Brandon Gignac",
-    "_1": "MON",
+    "Name": "Brandon Gignac",
+    "_1": "MTL",
     "_2": "C",
     "_3": "7",
     "Overall": "1",
@@ -13395,7 +13376,7 @@
     "_12": "7"
   },
   {
-    "": "Marat Khusnutdinov",
+    "Name": "Marat Khusnutdinov",
     "_1": "MIN",
     "_2": "C",
     "_3": "16",
@@ -13414,7 +13395,7 @@
     "_12": "9"
   },
   {
-    "": "Simon Edvinsson",
+    "Name": "Simon Edvinsson",
     "_1": "DET",
     "_2": "D",
     "_3": "16",
@@ -13433,7 +13414,7 @@
     "_12": "25"
   },
   {
-    "": "Dmitry Kulikov",
+    "Name": "Dmitry Kulikov",
     "_1": "FLA",
     "_2": "D",
     "_3": "100",
@@ -13452,7 +13433,7 @@
     "_12": "109"
   },
   {
-    "": "Troy Stecher",
+    "Name": "Troy Stecher",
     "_1": "EDM",
     "_2": "D",
     "_3": "54",
@@ -13471,7 +13452,7 @@
     "_12": "77"
   },
   {
-    "": "Jason Polin",
+    "Name": "Jason Polin",
     "_1": "COL",
     "_2": "RW",
     "_3": "7",
@@ -13490,7 +13471,7 @@
     "_12": "1"
   },
   {
-    "": "Uvis Balinskis",
+    "Name": "Uvis Balinskis",
     "_1": "FLA",
     "_2": "D",
     "_3": "26",
@@ -13509,7 +13490,7 @@
     "_12": "15"
   },
   {
-    "": "Jonas Rondbjerg",
+    "Name": "Jonas Rondbjerg",
     "_1": "VGK",
     "_2": "RW",
     "_3": "20",
@@ -13528,8 +13509,8 @@
     "_12": "10"
   },
   {
-    "": "Samuel Fagemo",
-    "_1": "LA",
+    "Name": "Samuel Fagemo",
+    "_1": "LAK",
     "_2": "LW",
     "_3": "8",
     "Overall": "1",
@@ -13547,8 +13528,8 @@
     "_12": "3"
   },
   {
-    "": "Alex Turcotte",
-    "_1": "LA",
+    "Name": "Alex Turcotte",
+    "_1": "LAK",
     "_2": "C",
     "_3": "20",
     "Overall": "1",
@@ -13566,8 +13547,8 @@
     "_12": "10"
   },
   {
-    "": "Jack Studnicka",
-    "_1": "LA",
+    "Name": "Jack Studnicka",
+    "_1": "LAK",
     "_2": "C",
     "_3": "22",
     "Overall": "1",
@@ -13585,8 +13566,8 @@
     "_12": "11"
   },
   {
-    "": "Jacob Moverare",
-    "_1": "LA",
+    "Name": "Jacob Moverare",
+    "_1": "LAK",
     "_2": "D",
     "_3": "24",
     "Overall": "1",
@@ -13604,7 +13585,7 @@
     "_12": "23"
   },
   {
-    "": "Kaedan Korczak",
+    "Name": "Kaedan Korczak",
     "_1": "VGK",
     "_2": "D",
     "_3": "26",
@@ -13623,8 +13604,8 @@
     "_12": "31"
   },
   {
-    "": "Andreas Englund",
-    "_1": "LA",
+    "Name": "Andreas Englund",
+    "_1": "LAK",
     "_2": "D",
     "_3": "87",
     "Overall": "1",
@@ -13642,8 +13623,8 @@
     "_12": "95"
   },
   {
-    "": "Joel Edmundson",
-    "_1": "LA",
+    "Name": "Joel Edmundson",
+    "_1": "LAK",
     "_2": "D",
     "_3": "60",
     "Overall": "1",
@@ -13661,7 +13642,7 @@
     "_12": "77"
   },
   {
-    "": "Logan Stanley",
+    "Name": "Logan Stanley",
     "_1": "WPG",
     "_2": "D",
     "_3": "28",
@@ -13680,7 +13661,7 @@
     "_12": "43"
   },
   {
-    "": "Dominic Toninato",
+    "Name": "Dominic Toninato",
     "_1": "WPG",
     "_2": "LW",
     "_3": "15",
@@ -13699,7 +13680,7 @@
     "_12": "9"
   },
   {
-    "": "Nikita Chibrikov",
+    "Name": "Nikita Chibrikov",
     "_1": "WPG",
     "_2": "RW",
     "_3": "1",
@@ -13718,7 +13699,7 @@
     "_12": "0"
   },
   {
-    "": "Jaret Anderson-Dolan",
+    "Name": "Jaret Anderson-Dolan",
     "_1": "WPG",
     "_2": "C",
     "_3": "31",
@@ -13737,7 +13718,7 @@
     "_12": "22"
   },
   {
-    "": "Dylan Samberg",
+    "Name": "Dylan Samberg",
     "_1": "WPG",
     "_2": "D",
     "_3": "83",
@@ -13756,8 +13737,8 @@
     "_12": "123"
   },
   {
-    "": "Alexander Alexeyev",
-    "_1": "WAS",
+    "Name": "Alexander Alexeyev",
+    "_1": "WSH",
     "_2": "D",
     "_3": "43",
     "Overall": "1",
@@ -13775,7 +13756,7 @@
     "_12": "66"
   },
   {
-    "": "Ryan Shea",
+    "Name": "Ryan Shea",
     "_1": "PIT",
     "_2": "D",
     "_3": "31",
@@ -13794,7 +13775,7 @@
     "_12": "24"
   },
   {
-    "": "Johnny Gruden",
+    "Name": "Johnny Gruden",
     "_1": "PIT",
     "_2": "LW",
     "_3": "13",
@@ -13813,7 +13794,7 @@
     "_12": "5"
   },
   {
-    "": "Vasily Ponomarev",
+    "Name": "Vasily Ponomarev",
     "_1": "PIT",
     "_2": "C",
     "_3": "2",
@@ -13832,8 +13813,8 @@
     "_12": "1"
   },
   {
-    "": "Ty Emberson",
-    "_1": "SJ",
+    "Name": "Ty Emberson",
+    "_1": "SJS",
     "_2": "D",
     "_3": "30",
     "Overall": "1",
@@ -13851,8 +13832,8 @@
     "_12": "46"
   },
   {
-    "": "Givani Smith",
-    "_1": "SJ",
+    "Name": "Givani Smith",
+    "_1": "SJS",
     "_2": "LW",
     "_3": "36",
     "Overall": "1",
@@ -13870,8 +13851,8 @@
     "_12": "12"
   },
   {
-    "": "Danil Gushchin",
-    "_1": "SJ",
+    "Name": "Danil Gushchin",
+    "_1": "SJS",
     "_2": "RW",
     "_3": "4",
     "Overall": "1",
@@ -13889,7 +13870,7 @@
     "_12": "7"
   },
   {
-    "": "Ryker Evans",
+    "Name": "Ryker Evans",
     "_1": "SEA",
     "_2": "D",
     "_3": "36",
@@ -13908,7 +13889,7 @@
     "_12": "38"
   },
   {
-    "": "Nick Jensen",
+    "Name": "Nick Jensen",
     "_1": "OTT",
     "_2": "D",
     "_3": "79",
@@ -13927,7 +13908,7 @@
     "_12": "125"
   },
   {
-    "": "Nicolas Deslauriers",
+    "Name": "Nicolas Deslauriers",
     "_1": "PHI",
     "_2": "LW",
     "_3": "60",
@@ -13946,7 +13927,7 @@
     "_12": "21"
   },
   {
-    "": "Nick Seeler",
+    "Name": "Nick Seeler",
     "_1": "PHI",
     "_2": "D",
     "_3": "71",
@@ -13965,7 +13946,7 @@
     "_12": "205"
   },
   {
-    "": "Rasmus Ristolainen",
+    "Name": "Rasmus Ristolainen",
     "_1": "PHI",
     "_2": "D",
     "_3": "31",
@@ -13984,7 +13965,7 @@
     "_12": "45"
   },
   {
-    "": "Olle Lycksell",
+    "Name": "Olle Lycksell",
     "_1": "PHI",
     "_2": "RW",
     "_3": "18",
@@ -14003,7 +13984,7 @@
     "_12": "4"
   },
   {
-    "": "Anthony Richard",
+    "Name": "Anthony Richard",
     "_1": "PHI",
     "_2": "C",
     "_3": "9",
@@ -14022,7 +14003,7 @@
     "_12": "5"
   },
   {
-    "": "Matt Nieto",
+    "Name": "Matt Nieto",
     "_1": "PIT",
     "_2": "LW",
     "_3": "22",
@@ -14041,7 +14022,7 @@
     "_12": "9"
   },
   {
-    "": "Adam Ginning",
+    "Name": "Adam Ginning",
     "_1": "PHI",
     "_2": "D",
     "_3": "9",
@@ -14060,8 +14041,8 @@
     "_12": "9"
   },
   {
-    "": "Vladislav Kolyachonok",
-    "_1": "UTA",
+    "Name": "Vladislav Kolyachonok",
+    "_1": "ARI",
     "_2": "D",
     "_3": "5",
     "Overall": "1",
@@ -14079,7 +14060,7 @@
     "_12": "6"
   },
   {
-    "": "Vincent Desharnais",
+    "Name": "Vincent Desharnais",
     "_1": "VAN",
     "_2": "D",
     "_3": "94",
@@ -14098,7 +14079,7 @@
     "_12": "163"
   },
   {
-    "": "Noah Juulsen",
+    "Name": "Noah Juulsen",
     "_1": "VAN",
     "_2": "D",
     "_3": "56",
@@ -14117,8 +14098,8 @@
     "_12": "86"
   },
   {
-    "": "Ethan Bear",
-    "_1": "WAS",
+    "Name": "Ethan Bear",
+    "_1": "WSH",
     "_2": "D",
     "_3": "24",
     "Overall": "1",
@@ -14136,7 +14117,7 @@
     "_12": "31"
   },
   {
-    "": "Ben Meyers",
+    "Name": "Ben Meyers",
     "_1": "SEA",
     "_2": "LW",
     "_3": "23",
@@ -14155,7 +14136,7 @@
     "_12": "3"
   },
   {
-    "": "Matt Kessel",
+    "Name": "Matt Kessel",
     "_1": "STL",
     "_2": "D",
     "_3": "39",
@@ -14174,7 +14155,7 @@
     "_12": "65"
   },
   {
-    "": "Tyler Tucker",
+    "Name": "Tyler Tucker",
     "_1": "STL",
     "_2": "D",
     "_3": "26",
@@ -14193,8 +14174,8 @@
     "_12": "27"
   },
   {
-    "": "Waltteri Merela",
-    "_1": "TB",
+    "Name": "Waltteri Merela",
+    "_1": "TBL",
     "_2": "RW",
     "_3": "19",
     "Overall": "1",
@@ -14212,7 +14193,7 @@
     "_12": "6"
   },
   {
-    "": "Conor Timmins",
+    "Name": "Conor Timmins",
     "_1": "TOR",
     "_2": "D",
     "_3": "25",
@@ -14231,7 +14212,7 @@
     "_12": "28"
   },
   {
-    "": "Simon Benoit",
+    "Name": "Simon Benoit",
     "_1": "TOR",
     "_2": "D",
     "_3": "71",
@@ -14250,7 +14231,7 @@
     "_12": "113"
   },
   {
-    "": "Philippe Myers",
+    "Name": "Philippe Myers",
     "_1": "TOR",
     "_2": "D",
     "_3": "5",
@@ -14269,8 +14250,8 @@
     "_12": "6"
   },
   {
-    "": "Max Crozier",
-    "_1": "TB",
+    "Name": "Max Crozier",
+    "_1": "TBL",
     "_2": "D",
     "_3": "16",
     "Overall": "0",
@@ -14288,8 +14269,8 @@
     "_12": "13"
   },
   {
-    "": "Gage Goncalves",
-    "_1": "TB",
+    "Name": "Gage Goncalves",
+    "_1": "TBL",
     "_2": "C",
     "_3": "2",
     "Overall": "0",
@@ -14307,8 +14288,8 @@
     "_12": "0"
   },
   {
-    "": "Emil Lilleberg",
-    "_1": "TB",
+    "Name": "Emil Lilleberg",
+    "_1": "TBL",
     "_2": "D",
     "_3": "42",
     "Overall": "0",
@@ -14326,8 +14307,8 @@
     "_12": "52"
   },
   {
-    "": "Declan Carlile",
-    "_1": "TB",
+    "Name": "Declan Carlile",
+    "_1": "TBL",
     "_2": "D",
     "_3": "1",
     "Overall": "0",
@@ -14345,7 +14326,7 @@
     "_12": "2"
   },
   {
-    "": "Nikita Alexandrov",
+    "Name": "Nikita Alexandrov",
     "_1": "STL",
     "_2": "C",
     "_3": "23",
@@ -14364,7 +14345,7 @@
     "_12": "7"
   },
   {
-    "": "Scott Perunovich",
+    "Name": "Scott Perunovich",
     "_1": "STL",
     "_2": "D",
     "_3": "54",
@@ -14383,7 +14364,7 @@
     "_12": "53"
   },
   {
-    "": "Hugh McGing",
+    "Name": "Hugh McGing",
     "_1": "STL",
     "_2": "LW",
     "_3": "5",
@@ -14402,7 +14383,7 @@
     "_12": "3"
   },
   {
-    "": "Zach Dean",
+    "Name": "Zach Dean",
     "_1": "STL",
     "_2": "C",
     "_3": "9",
@@ -14421,8 +14402,8 @@
     "_12": "5"
   },
   {
-    "": "Derrick Pouliot",
-    "_1": "TB",
+    "Name": "Derrick Pouliot",
+    "_1": "TBL",
     "_2": "D",
     "_3": "5",
     "Overall": "0",
@@ -14440,7 +14421,7 @@
     "_12": "5"
   },
   {
-    "": "Mackenzie MacEachern",
+    "Name": "Mackenzie MacEachern",
     "_1": "STL",
     "_2": "LW",
     "_3": "8",
@@ -14459,8 +14440,8 @@
     "_12": "2"
   },
   {
-    "": "Trevor van Riemsdyk",
-    "_1": "WAS",
+    "Name": "Trevor van Riemsdyk",
+    "_1": "WSH",
     "_2": "D",
     "_3": "73",
     "Overall": "0",
@@ -14478,8 +14459,8 @@
     "_12": "109"
   },
   {
-    "": "Dylan McIlrath",
-    "_1": "WAS",
+    "Name": "Dylan McIlrath",
+    "_1": "WSH",
     "_2": "D",
     "_3": "7",
     "Overall": "0",
@@ -14497,8 +14478,8 @@
     "_12": "5"
   },
   {
-    "": "Nicklas Backstrom",
-    "_1": "WAS",
+    "Name": "Nicklas Backstrom",
+    "_1": "WSH",
     "_2": "C",
     "_3": "8",
     "Overall": "0",
@@ -14516,7 +14497,7 @@
     "_12": "5"
   },
   {
-    "": "Linus Karlsson",
+    "Name": "Linus Karlsson",
     "_1": "VAN",
     "_2": "C",
     "_3": "6",
@@ -14535,7 +14516,7 @@
     "_12": "2"
   },
   {
-    "": "Vasily Podkolzin",
+    "Name": "Vasily Podkolzin",
     "_1": "VAN",
     "_2": "RW",
     "_3": "21",
@@ -14554,7 +14535,7 @@
     "_12": "4"
   },
   {
-    "": "Mark Friedman",
+    "Name": "Mark Friedman",
     "_1": "VAN",
     "_2": "D",
     "_3": "23",
@@ -14573,7 +14554,7 @@
     "_12": "35"
   },
   {
-    "": "Arshdeep Bains",
+    "Name": "Arshdeep Bains",
     "_1": "VAN",
     "_2": "LW",
     "_3": "8",
@@ -14592,7 +14573,7 @@
     "_12": "2"
   },
   {
-    "": "Akito Hirose",
+    "Name": "Akito Hirose",
     "_1": "VAN",
     "_2": "D",
     "_3": "3",
@@ -14611,7 +14592,7 @@
     "_12": "5"
   },
   {
-    "": "Cole McWard",
+    "Name": "Cole McWard",
     "_1": "VAN",
     "_2": "D",
     "_3": "1",
@@ -14630,8 +14611,8 @@
     "_12": "0"
   },
   {
-    "": "Aku Raty",
-    "_1": "UTA",
+    "Name": "Aku Raty",
+    "_1": "ARI",
     "_2": "RW",
     "_3": "1",
     "Overall": "0",
@@ -14649,8 +14630,8 @@
     "_12": "0"
   },
   {
-    "": "Maksymilian Szuber",
-    "_1": "UTA",
+    "Name": "Maksymilian Szuber",
+    "_1": "ARI",
     "_2": "D",
     "_3": "1",
     "Overall": "0",
@@ -14668,7 +14649,7 @@
     "_12": "1"
   },
   {
-    "": "Derek Forbort",
+    "Name": "Derek Forbort",
     "_1": "VAN",
     "_2": "D",
     "_3": "38",
@@ -14687,8 +14668,8 @@
     "_12": "72"
   },
   {
-    "": "Jan Jenik",
-    "_1": "UTA",
+    "Name": "Jan Jenik",
+    "_1": "ARI",
     "_2": "C",
     "_3": "5",
     "Overall": "0",
@@ -14706,8 +14687,8 @@
     "_12": "7"
   },
   {
-    "": "Milos Kelemen",
-    "_1": "UTA",
+    "Name": "Milos Kelemen",
+    "_1": "ARI",
     "_2": "LW",
     "_3": "10",
     "Overall": "0",
@@ -14725,8 +14706,8 @@
     "_12": "3"
   },
   {
-    "": "Patrik Koch",
-    "_1": "UTA",
+    "Name": "Patrik Koch",
+    "_1": "ARI",
     "_2": "D",
     "_3": "1",
     "Overall": "0",
@@ -14744,8 +14725,8 @@
     "_12": "1"
   },
   {
-    "": "Victor Soderstrom",
-    "_1": "UTA",
+    "Name": "Victor Soderstrom",
+    "_1": "ARI",
     "_2": "D",
     "_3": "3",
     "Overall": "0",
@@ -14763,7 +14744,7 @@
     "_12": "6"
   },
   {
-    "": "Alex Steeves",
+    "Name": "Alex Steeves",
     "_1": "TOR",
     "_2": "LW",
     "_3": "1",
@@ -14782,7 +14763,7 @@
     "_12": "0"
   },
   {
-    "": "Fraser Minten",
+    "Name": "Fraser Minten",
     "_1": "TOR",
     "_2": "C",
     "_3": "4",
@@ -14801,7 +14782,7 @@
     "_12": "1"
   },
   {
-    "": "Marshall Rifai",
+    "Name": "Marshall Rifai",
     "_1": "TOR",
     "_2": "D",
     "_3": "2",
@@ -14820,7 +14801,7 @@
     "_12": "1"
   },
   {
-    "": "Ronnie Attard",
+    "Name": "Ronnie Attard",
     "_1": "PHI",
     "_2": "D",
     "_3": "12",
@@ -14839,7 +14820,7 @@
     "_12": "14"
   },
   {
-    "": "Emil Andrae",
+    "Name": "Emil Andrae",
     "_1": "PHI",
     "_2": "D",
     "_3": "4",
@@ -14858,7 +14839,7 @@
     "_12": "6"
   },
   {
-    "": "Victor Mete",
+    "Name": "Victor Mete",
     "_1": "PHI",
     "_2": "D",
     "_3": "1",
@@ -14877,7 +14858,7 @@
     "_12": "1"
   },
   {
-    "": "Rhett Gardner",
+    "Name": "Rhett Gardner",
     "_1": "PHI",
     "_2": "C",
     "_3": "1",
@@ -14896,7 +14877,7 @@
     "_12": "1"
   },
   {
-    "": "Roby Jarventie",
+    "Name": "Roby Jarventie",
     "_1": "OTT",
     "_2": "LW",
     "_3": "7",
@@ -14915,7 +14896,7 @@
     "_12": "6"
   },
   {
-    "": "Tyler Kleven",
+    "Name": "Tyler Kleven",
     "_1": "OTT",
     "_2": "D",
     "_3": "9",
@@ -14934,7 +14915,7 @@
     "_12": "9"
   },
   {
-    "": "Zack Ostapchuk",
+    "Name": "Zack Ostapchuk",
     "_1": "OTT",
     "_2": "C",
     "_3": "7",
@@ -14953,7 +14934,7 @@
     "_12": "6"
   },
   {
-    "": "Filip Roos",
+    "Name": "Filip Roos",
     "_1": "OTT",
     "_2": "D",
     "_3": "4",
@@ -14972,7 +14953,7 @@
     "_12": "2"
   },
   {
-    "": "Nikolas Matinpalo",
+    "Name": "Nikolas Matinpalo",
     "_1": "OTT",
     "_2": "D",
     "_3": "4",
@@ -14991,7 +14972,7 @@
     "_12": "2"
   },
   {
-    "": "Matthew Highmore",
+    "Name": "Matthew Highmore",
     "_1": "OTT",
     "_2": "C",
     "_3": "7",
@@ -15010,7 +14991,7 @@
     "_12": "4"
   },
   {
-    "": "Maxence Guenette",
+    "Name": "Maxence Guenette",
     "_1": "OTT",
     "_2": "D",
     "_3": "7",
@@ -15029,7 +15010,7 @@
     "_12": "6"
   },
   {
-    "": "Brennan Othmann",
+    "Name": "Brennan Othmann",
     "_1": "NYR",
     "_2": "LW",
     "_3": "3",
@@ -15048,7 +15029,7 @@
     "_12": "1"
   },
   {
-    "": "Brandon Scanlin",
+    "Name": "Brandon Scanlin",
     "_1": "NYR",
     "_2": "D",
     "_3": "1",
@@ -15067,7 +15048,7 @@
     "_12": "0"
   },
   {
-    "": "Connor Mackey",
+    "Name": "Connor Mackey",
     "_1": "NYR",
     "_2": "D",
     "_3": "1",
@@ -15086,7 +15067,7 @@
     "_12": "3"
   },
   {
-    "": "Adam Gaudette",
+    "Name": "Adam Gaudette",
     "_1": "OTT",
     "_2": "C",
     "_3": "2",
@@ -15105,7 +15086,7 @@
     "_12": "1"
   },
   {
-    "": "Ryan Winterton",
+    "Name": "Ryan Winterton",
     "_1": "SEA",
     "_2": "C",
     "_3": "9",
@@ -15124,7 +15105,7 @@
     "_12": "4"
   },
   {
-    "": "Logan Morrison",
+    "Name": "Logan Morrison",
     "_1": "SEA",
     "_2": "C",
     "_3": "4",
@@ -15143,7 +15124,7 @@
     "_12": "8"
   },
   {
-    "": "Max Lajoie",
+    "Name": "Max Lajoie",
     "_1": "SEA",
     "_2": "D",
     "_3": "7",
@@ -15162,7 +15143,7 @@
     "_12": "7"
   },
   {
-    "": "Cale Fleury",
+    "Name": "Cale Fleury",
     "_1": "SEA",
     "_2": "D",
     "_3": "1",
@@ -15181,8 +15162,8 @@
     "_12": "0"
   },
   {
-    "": "Collin Graf",
-    "_1": "SJ",
+    "Name": "Collin Graf",
+    "_1": "SJS",
     "_2": "RW",
     "_3": "7",
     "Overall": "0",
@@ -15200,8 +15181,8 @@
     "_12": "7"
   },
   {
-    "": "Jack Thompson",
-    "_1": "SJ",
+    "Name": "Jack Thompson",
+    "_1": "SJS",
     "_2": "D",
     "_3": "3",
     "Overall": "0",
@@ -15219,8 +15200,8 @@
     "_12": "3"
   },
   {
-    "": "Shakir Mukhamadullin",
-    "_1": "SJ",
+    "Name": "Shakir Mukhamadullin",
+    "_1": "SJS",
     "_2": "D",
     "_3": "3",
     "Overall": "0",
@@ -15238,7 +15219,7 @@
     "_12": "11"
   },
   {
-    "": "Max McCormick",
+    "Name": "Max McCormick",
     "_1": "SEA",
     "_2": "LW",
     "_3": "1",
@@ -15257,7 +15238,7 @@
     "_12": "0"
   },
   {
-    "": "Gustav Olofsson",
+    "Name": "Gustav Olofsson",
     "_1": "SEA",
     "_2": "D",
     "_3": "1",
@@ -15276,7 +15257,7 @@
     "_12": "3"
   },
   {
-    "": "John Hayden",
+    "Name": "John Hayden",
     "_1": "SEA",
     "_2": "C",
     "_3": "2",
@@ -15295,7 +15276,7 @@
     "_12": "1"
   },
   {
-    "": "Marc Johnstone",
+    "Name": "Marc Johnstone",
     "_1": "PIT",
     "_2": "RW",
     "_3": "1",
@@ -15314,8 +15295,8 @@
     "_12": "0"
   },
   {
-    "": "Logan Couture",
-    "_1": "SJ",
+    "Name": "Logan Couture",
+    "_1": "SJS",
     "_2": "C",
     "_3": "6",
     "Overall": "0",
@@ -15333,8 +15314,8 @@
     "_12": "8"
   },
   {
-    "": "Matt Benning",
-    "_1": "SJ",
+    "Name": "Matt Benning",
+    "_1": "SJS",
     "_2": "D",
     "_3": "14",
     "Overall": "0",
@@ -15352,8 +15333,8 @@
     "_12": "29"
   },
   {
-    "": "Scott Sabourin",
-    "_1": "SJ",
+    "Name": "Scott Sabourin",
+    "_1": "SJS",
     "_2": "RW",
     "_3": "3",
     "Overall": "0",
@@ -15371,7 +15352,7 @@
     "_12": "1"
   },
   {
-    "": "Jack St. Ivany",
+    "Name": "Jack St. Ivany",
     "_1": "PIT",
     "_2": "D",
     "_3": "14",
@@ -15390,7 +15371,7 @@
     "_12": "14"
   },
   {
-    "": "Joona Koppanen",
+    "Name": "Joona Koppanen",
     "_1": "PIT",
     "_2": "LW",
     "_3": "4",
@@ -15409,7 +15390,7 @@
     "_12": "2"
   },
   {
-    "": "Samuel Poulin",
+    "Name": "Samuel Poulin",
     "_1": "PIT",
     "_2": "RW",
     "_3": "3",
@@ -15428,7 +15409,7 @@
     "_12": "3"
   },
   {
-    "": "Bokondji Imama",
+    "Name": "Bokondji Imama",
     "_1": "PIT",
     "_2": "LW",
     "_3": "6",
@@ -15447,8 +15428,8 @@
     "_12": "1"
   },
   {
-    "": "Hardy Haman-Aktell",
-    "_1": "WAS",
+    "Name": "Hardy Haman-Aktell",
+    "_1": "WSH",
     "_2": "D",
     "_3": "6",
     "Overall": "0",
@@ -15466,8 +15447,8 @@
     "_12": "5"
   },
   {
-    "": "Pierrick Dube",
-    "_1": "WAS",
+    "Name": "Pierrick Dube",
+    "_1": "WSH",
     "_2": "RW",
     "_3": "3",
     "Overall": "0",
@@ -15485,8 +15466,8 @@
     "_12": "3"
   },
   {
-    "": "Vincent Iorio",
-    "_1": "WAS",
+    "Name": "Vincent Iorio",
+    "_1": "WSH",
     "_2": "D",
     "_3": "7",
     "Overall": "0",
@@ -15504,7 +15485,7 @@
     "_12": "3"
   },
   {
-    "": "Rasmus Kupari",
+    "Name": "Rasmus Kupari",
     "_1": "WPG",
     "_2": "C",
     "_3": "28",
@@ -15523,7 +15504,7 @@
     "_12": "10"
   },
   {
-    "": "Brad Lambert",
+    "Name": "Brad Lambert",
     "_1": "WPG",
     "_2": "C",
     "_3": "1",
@@ -15542,7 +15523,7 @@
     "_12": "1"
   },
   {
-    "": "Grigori Denisenko",
+    "Name": "Grigori Denisenko",
     "_1": "VGK",
     "_2": "LW",
     "_3": "6",
@@ -15561,7 +15542,7 @@
     "_12": "2"
   },
   {
-    "": "Lukas Cormier",
+    "Name": "Lukas Cormier",
     "_1": "VGK",
     "_2": "D",
     "_3": "2",
@@ -15580,7 +15561,7 @@
     "_12": "2"
   },
   {
-    "": "Callahan Burke",
+    "Name": "Callahan Burke",
     "_1": "VGK",
     "_2": "C",
     "_3": "1",
@@ -15599,8 +15580,8 @@
     "_12": "0"
   },
   {
-    "": "Glenn Gawdin",
-    "_1": "LA",
+    "Name": "Glenn Gawdin",
+    "_1": "LAK",
     "_2": "C",
     "_3": "1",
     "Overall": "0",
@@ -15618,7 +15599,7 @@
     "_12": "1"
   },
   {
-    "": "Zach Aston-Reese",
+    "Name": "Zach Aston-Reese",
     "_1": "VGK",
     "_2": "C",
     "_3": "3",
@@ -15637,7 +15618,7 @@
     "_12": "0"
   },
   {
-    "": "Robert Hagg",
+    "Name": "Robert Hagg",
     "_1": "VGK",
     "_2": "D",
     "_3": "5",
@@ -15656,7 +15637,7 @@
     "_12": "10"
   },
   {
-    "": "William Lockwood",
+    "Name": "William Lockwood",
     "_1": "FLA",
     "_2": "RW",
     "_3": "26",
@@ -15675,7 +15656,7 @@
     "_12": "8"
   },
   {
-    "": "Tobias Bjornfot",
+    "Name": "Tobias Bjornfot",
     "_1": "FLA",
     "_2": "D",
     "_3": "4",
@@ -15694,7 +15675,7 @@
     "_12": "7"
   },
   {
-    "": "Justin Sourdif",
+    "Name": "Justin Sourdif",
     "_1": "FLA",
     "_2": "C",
     "_3": "3",
@@ -15713,7 +15694,7 @@
     "_12": "2"
   },
   {
-    "": "Mackie Samoskevich",
+    "Name": "Mackie Samoskevich",
     "_1": "FLA",
     "_2": "C",
     "_3": "7",
@@ -15732,7 +15713,7 @@
     "_12": "3"
   },
   {
-    "": "Alex Petrovic",
+    "Name": "Alex Petrovic",
     "_1": "DAL",
     "_2": "D",
     "_3": "8",
@@ -15751,7 +15732,7 @@
     "_12": "4"
   },
   {
-    "": "Kole Lind",
+    "Name": "Kole Lind",
     "_1": "DAL",
     "_2": "RW",
     "_3": "1",
@@ -15770,7 +15751,7 @@
     "_12": "0"
   },
   {
-    "": "Ilya Lyubushkin",
+    "Name": "Ilya Lyubushkin",
     "_1": "DAL",
     "_2": "D",
     "_3": "81",
@@ -15789,7 +15770,7 @@
     "_12": "175"
   },
   {
-    "": "Mavrik Bourque",
+    "Name": "Mavrik Bourque",
     "_1": "DAL",
     "_2": "C",
     "_3": "2",
@@ -15808,7 +15789,7 @@
     "_12": "0"
   },
   {
-    "": "Justin Holl",
+    "Name": "Justin Holl",
     "_1": "DET",
     "_2": "D",
     "_3": "38",
@@ -15827,7 +15808,7 @@
     "_12": "39"
   },
   {
-    "": "William Lagesson",
+    "Name": "William Lagesson",
     "_1": "DET",
     "_2": "D",
     "_3": "40",
@@ -15846,7 +15827,7 @@
     "_12": "58"
   },
   {
-    "": "Philip Kemp",
+    "Name": "Philip Kemp",
     "_1": "EDM",
     "_2": "D",
     "_3": "1",
@@ -15865,7 +15846,7 @@
     "_12": "0"
   },
   {
-    "": "Raphael Lavoie",
+    "Name": "Raphael Lavoie",
     "_1": "EDM",
     "_2": "C",
     "_3": "7",
@@ -15884,7 +15865,7 @@
     "_12": "1"
   },
   {
-    "": "Joe Snively",
+    "Name": "Joe Snively",
     "_1": "DET",
     "_2": "LW",
     "_3": "3",
@@ -15903,7 +15884,7 @@
     "_12": "0"
   },
   {
-    "": "Daemon Hunt",
+    "Name": "Daemon Hunt",
     "_1": "MIN",
     "_2": "D",
     "_3": "12",
@@ -15922,8 +15903,8 @@
     "_12": "17"
   },
   {
-    "": "Kirby Dach",
-    "_1": "MON",
+    "Name": "Kirby Dach",
+    "_1": "MTL",
     "_2": "C",
     "_3": "2",
     "Overall": "0",
@@ -15941,7 +15922,7 @@
     "_12": "0"
   },
   {
-    "": "Jared Spurgeon",
+    "Name": "Jared Spurgeon",
     "_1": "MIN",
     "_2": "D",
     "_3": "16",
@@ -15960,7 +15941,7 @@
     "_12": "29"
   },
   {
-    "": "Graeme Clarke",
+    "Name": "Graeme Clarke",
     "_1": "MIN",
     "_2": "RW",
     "_3": "3",
@@ -15979,7 +15960,7 @@
     "_12": "0"
   },
   {
-    "": "Adam Raska",
+    "Name": "Adam Raska",
     "_1": "MIN",
     "_2": "LW",
     "_3": "5",
@@ -15998,7 +15979,7 @@
     "_12": "1"
   },
   {
-    "": "Cameron Crotty",
+    "Name": "Cameron Crotty",
     "_1": "MIN",
     "_2": "D",
     "_3": "1",
@@ -16017,7 +15998,7 @@
     "_12": "2"
   },
   {
-    "": "Samuel Walker",
+    "Name": "Samuel Walker",
     "_1": "MIN",
     "_2": "RW",
     "_3": "4",
@@ -16036,8 +16017,8 @@
     "_12": "1"
   },
   {
-    "": "Lucas Condotta",
-    "_1": "MON",
+    "Name": "Lucas Condotta",
+    "_1": "MTL",
     "_2": "LW",
     "_3": "3",
     "Overall": "0",
@@ -16055,8 +16036,8 @@
     "_12": "1"
   },
   {
-    "": "Lane Hutson",
-    "_1": "MON",
+    "Name": "Lane Hutson",
+    "_1": "MTL",
     "_2": "D",
     "_3": "2",
     "Overall": "0",
@@ -16074,8 +16055,8 @@
     "_12": "0"
   },
   {
-    "": "Emil Heineman",
-    "_1": "MON",
+    "Name": "Emil Heineman",
+    "_1": "MTL",
     "_2": "LW",
     "_3": "4",
     "Overall": "0",
@@ -16093,8 +16074,8 @@
     "_12": "1"
   },
   {
-    "": "Logan Mailloux",
-    "_1": "MON",
+    "Name": "Logan Mailloux",
+    "_1": "MTL",
     "_2": "D",
     "_3": "1",
     "Overall": "0",
@@ -16112,7 +16093,7 @@
     "_12": "1"
   },
   {
-    "": "Marc Del Gaizo",
+    "Name": "Marc Del Gaizo",
     "_1": "NSH",
     "_2": "D",
     "_3": "9",
@@ -16131,8 +16112,8 @@
     "_12": "10"
   },
   {
-    "": "Adam Beckman",
-    "_1": "NJ",
+    "Name": "Adam Beckman",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "11",
     "Overall": "0",
@@ -16150,8 +16131,8 @@
     "_12": "3"
   },
   {
-    "": "Santeri Hatakka",
-    "_1": "NJ",
+    "Name": "Santeri Hatakka",
+    "_1": "NJD",
     "_2": "D",
     "_3": "12",
     "Overall": "0",
@@ -16169,8 +16150,8 @@
     "_12": "12"
   },
   {
-    "": "Shane Bowers",
-    "_1": "NJ",
+    "Name": "Shane Bowers",
+    "_1": "NJD",
     "_2": "C",
     "_3": "8",
     "Overall": "0",
@@ -16188,8 +16169,8 @@
     "_12": "3"
   },
   {
-    "": "Brian Halonen",
-    "_1": "NJ",
+    "Name": "Brian Halonen",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "2",
     "Overall": "0",
@@ -16207,7 +16188,7 @@
     "_12": "0"
   },
   {
-    "": "Scott Mayfield",
+    "Name": "Scott Mayfield",
     "_1": "NYI",
     "_2": "D",
     "_3": "41",
@@ -16226,8 +16207,8 @@
     "_12": "106"
   },
   {
-    "": "Samuel Laberge",
-    "_1": "NJ",
+    "Name": "Samuel Laberge",
+    "_1": "NJD",
     "_2": "LW",
     "_3": "2",
     "Overall": "0",
@@ -16245,7 +16226,7 @@
     "_12": "0"
   },
   {
-    "": "Ruslan Iskhakov",
+    "Name": "Ruslan Iskhakov",
     "_1": "NYI",
     "_2": "RW",
     "_3": "2",
@@ -16264,7 +16245,7 @@
     "_12": "1"
   },
   {
-    "": "Riley Nash",
+    "Name": "Riley Nash",
     "_1": "NYR",
     "_2": "C",
     "_3": "1",
@@ -16283,7 +16264,7 @@
     "_12": "0"
   },
   {
-    "": "Grant Hutton",
+    "Name": "Grant Hutton",
     "_1": "NYI",
     "_2": "D",
     "_3": "2",
@@ -16302,7 +16283,7 @@
     "_12": "1"
   },
   {
-    "": "Benoit-Olivier Groulx",
+    "Name": "Benoit-Olivier Groulx",
     "_1": "NYR",
     "_2": "C",
     "_3": "45",
@@ -16321,7 +16302,7 @@
     "_12": "30"
   },
   {
-    "": "Filip Chytil",
+    "Name": "Filip Chytil",
     "_1": "NYR",
     "_2": "C",
     "_3": "16",
@@ -16340,7 +16321,7 @@
     "_12": "9"
   },
   {
-    "": "Jake Leschyshyn",
+    "Name": "Jake Leschyshyn",
     "_1": "NYR",
     "_2": "C",
     "_3": "1",
@@ -16359,7 +16340,7 @@
     "_12": "1"
   },
   {
-    "": "Anton Blidh",
+    "Name": "Anton Blidh",
     "_1": "NYR",
     "_2": "LW",
     "_3": "1",
@@ -16378,7 +16359,7 @@
     "_12": "0"
   },
   {
-    "": "Colin White",
+    "Name": "Colin White",
     "_1": "FA",
     "_2": "C",
     "_3": "28",
@@ -16397,7 +16378,7 @@
     "_12": "12"
   },
   {
-    "": "Austin Czarnik",
+    "Name": "Austin Czarnik",
     "_1": "FA",
     "_2": "C",
     "_3": "34",
@@ -16416,7 +16397,7 @@
     "_12": "16"
   },
   {
-    "": "Oskar Lindblom",
+    "Name": "Oskar Lindblom",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -16435,7 +16416,7 @@
     "_12": "1"
   },
   {
-    "": "Justin Kirkland",
+    "Name": "Justin Kirkland",
     "_1": "FA",
     "_2": "LW",
     "_3": "2",
@@ -16454,7 +16435,7 @@
     "_12": "1"
   },
   {
-    "": "Nicolas Petan",
+    "Name": "Nicolas Petan",
     "_1": "FA",
     "_2": "C",
     "_3": "6",
@@ -16473,7 +16454,7 @@
     "_12": "1"
   },
   {
-    "": "Cal Foote",
+    "Name": "Cal Foote",
     "_1": "FA",
     "_2": "D",
     "_3": "4",
@@ -16492,7 +16473,7 @@
     "_12": "9"
   },
   {
-    "": "Rem Pitlick",
+    "Name": "Rem Pitlick",
     "_1": "FA",
     "_2": "C",
     "_3": "9",
@@ -16511,7 +16492,7 @@
     "_12": "6"
   },
   {
-    "": "Josh Mahura",
+    "Name": "Josh Mahura",
     "_1": "FA",
     "_2": "D",
     "_3": "30",
@@ -16530,7 +16511,7 @@
     "_12": "27"
   },
   {
-    "": "Andrew Poturalski",
+    "Name": "Andrew Poturalski",
     "_1": "FA",
     "_2": "C",
     "_3": "2",
@@ -16549,7 +16530,7 @@
     "_12": "0"
   },
   {
-    "": "Lucas Johansen",
+    "Name": "Lucas Johansen",
     "_1": "FA",
     "_2": "D",
     "_3": "8",
@@ -16568,7 +16549,7 @@
     "_12": "7"
   },
   {
-    "": "Caleb Jones",
+    "Name": "Caleb Jones",
     "_1": "FA",
     "_2": "D",
     "_3": "28",
@@ -16587,7 +16568,7 @@
     "_12": "28"
   },
   {
-    "": "Alex Goligoski",
+    "Name": "Alex Goligoski",
     "_1": "FA",
     "_2": "D",
     "_3": "36",
@@ -16606,7 +16587,7 @@
     "_12": "41"
   },
   {
-    "": "Milan Lucic",
+    "Name": "Milan Lucic",
     "_1": "FA",
     "_2": "LW",
     "_3": "4",
@@ -16625,7 +16606,7 @@
     "_12": "2"
   },
   {
-    "": "Robert Bortuzzo",
+    "Name": "Robert Bortuzzo",
     "_1": "FA",
     "_2": "D",
     "_3": "32",
@@ -16644,7 +16625,7 @@
     "_12": "64"
   },
   {
-    "": "John Klingberg",
+    "Name": "John Klingberg",
     "_1": "FA",
     "_2": "D",
     "_3": "14",
@@ -16663,7 +16644,7 @@
     "_12": "15"
   },
   {
-    "": "Jarred Tinordi",
+    "Name": "Jarred Tinordi",
     "_1": "FA",
     "_2": "D",
     "_3": "52",
@@ -16682,7 +16663,7 @@
     "_12": "94"
   },
   {
-    "": "Jujhar Khaira",
+    "Name": "Jujhar Khaira",
     "_1": "FA",
     "_2": "C",
     "_3": "1",
@@ -16701,7 +16682,7 @@
     "_12": "1"
   },
   {
-    "": "Jaycob Megna",
+    "Name": "Jaycob Megna",
     "_1": "FA",
     "_2": "D",
     "_3": "44",
@@ -16720,7 +16701,7 @@
     "_12": "87"
   },
   {
-    "": "Jayson Megna",
+    "Name": "Jayson Megna",
     "_1": "FA",
     "_2": "LW",
     "_3": "1",
@@ -16739,7 +16720,7 @@
     "_12": "0"
   },
   {
-    "": "Byron Froese",
+    "Name": "Byron Froese",
     "_1": "FA",
     "_2": "C",
     "_3": "16",
@@ -16758,7 +16739,7 @@
     "_12": "8"
   },
   {
-    "": "Parker Wotherspoon",
+    "Name": "Parker Wotherspoon",
     "_1": "BOS",
     "_2": "D",
     "_3": "51",
@@ -16777,7 +16758,7 @@
     "_12": "91"
   },
   {
-    "": "Jordan Oesterle",
+    "Name": "Jordan Oesterle",
     "_1": "BOS",
     "_2": "D",
     "_3": "22",
@@ -16796,7 +16777,7 @@
     "_12": "33"
   },
   {
-    "": "Patrick Brown",
+    "Name": "Patrick Brown",
     "_1": "BOS",
     "_2": "C",
     "_3": "12",
@@ -16815,7 +16796,7 @@
     "_12": "4"
   },
   {
-    "": "Cole Koepke",
+    "Name": "Cole Koepke",
     "_1": "BOS",
     "_2": "LW",
     "_3": "9",
@@ -16834,7 +16815,7 @@
     "_12": "1"
   },
   {
-    "": "Ian Mitchell",
+    "Name": "Ian Mitchell",
     "_1": "BOS",
     "_2": "D",
     "_3": "13",
@@ -16853,7 +16834,7 @@
     "_12": "13"
   },
   {
-    "": "Georgi Merkulov",
+    "Name": "Georgi Merkulov",
     "_1": "BOS",
     "_2": "LW",
     "_3": "4",
@@ -16872,7 +16853,7 @@
     "_12": "4"
   },
   {
-    "": "Nikolai Knyzhov",
+    "Name": "Nikolai Knyzhov",
     "_1": "FA",
     "_2": "D",
     "_3": "10",
@@ -16891,7 +16872,7 @@
     "_12": "17"
   },
   {
-    "": "Egor Afanasyev",
+    "Name": "Egor Afanasyev",
     "_1": "FA",
     "_2": "LW",
     "_3": "2",
@@ -16910,7 +16891,7 @@
     "_12": "2"
   },
   {
-    "": "Tyler Angle",
+    "Name": "Tyler Angle",
     "_1": "FA",
     "_2": "LW",
     "_3": "2",
@@ -16929,7 +16910,7 @@
     "_12": "1"
   },
   {
-    "": "Liam Foudy",
+    "Name": "Liam Foudy",
     "_1": "FA",
     "_2": "C",
     "_3": "13",
@@ -16948,7 +16929,7 @@
     "_12": "4"
   },
   {
-    "": "Max Comtois",
+    "Name": "Max Comtois",
     "_1": "FA",
     "_2": "LW",
     "_3": "2",
@@ -16967,7 +16948,7 @@
     "_12": "2"
   },
   {
-    "": "Jacob Peterson",
+    "Name": "Jacob Peterson",
     "_1": "FA",
     "_2": "LW",
     "_3": "6",
@@ -16986,7 +16967,7 @@
     "_12": "5"
   },
   {
-    "": "Marian Studenic",
+    "Name": "Marian Studenic",
     "_1": "FA",
     "_2": "RW",
     "_3": "2",
@@ -17005,8 +16986,8 @@
     "_12": "0"
   },
   {
-    "": "Jansen Harkins",
-    "_1": "ANH",
+    "Name": "Jansen Harkins",
+    "_1": "ANA",
     "_2": "C",
     "_3": "45",
     "Overall": "0",
@@ -17024,8 +17005,8 @@
     "_12": "13"
   },
   {
-    "": "Pavol Regenda",
-    "_1": "ANH",
+    "Name": "Pavol Regenda",
+    "_1": "ANA",
     "_2": "LW",
     "_3": "5",
     "Overall": "0",
@@ -17043,8 +17024,8 @@
     "_12": "5"
   },
   {
-    "": "Cutter Gauthier",
-    "_1": "ANH",
+    "Name": "Cutter Gauthier",
+    "_1": "ANA",
     "_2": "LW",
     "_3": "1",
     "Overall": "0",
@@ -17062,7 +17043,7 @@
     "_12": "0"
   },
   {
-    "": "Wyatt Kaiser",
+    "Name": "Wyatt Kaiser",
     "_1": "CHI",
     "_2": "D",
     "_3": "32",
@@ -17081,7 +17062,7 @@
     "_12": "46"
   },
   {
-    "": "Isaak Phillips",
+    "Name": "Isaak Phillips",
     "_1": "CHI",
     "_2": "D",
     "_3": "33",
@@ -17100,7 +17081,7 @@
     "_12": "36"
   },
   {
-    "": "Ethan Del Mastro",
+    "Name": "Ethan Del Mastro",
     "_1": "CHI",
     "_2": "D",
     "_3": "2",
@@ -17119,7 +17100,7 @@
     "_12": "0"
   },
   {
-    "": "Louis Crevier",
+    "Name": "Louis Crevier",
     "_1": "CHI",
     "_2": "D",
     "_3": "24",
@@ -17138,7 +17119,7 @@
     "_12": "50"
   },
   {
-    "": "Brett Seney",
+    "Name": "Brett Seney",
     "_1": "CHI",
     "_2": "LW",
     "_3": "4",
@@ -17157,7 +17138,7 @@
     "_12": "6"
   },
   {
-    "": "Zach Sanford",
+    "Name": "Zach Sanford",
     "_1": "CHI",
     "_2": "LW",
     "_3": "29",
@@ -17176,7 +17157,7 @@
     "_12": "19"
   },
   {
-    "": "Oskar Olausson",
+    "Name": "Oskar Olausson",
     "_1": "COL",
     "_2": "LW",
     "_3": "1",
@@ -17195,7 +17176,7 @@
     "_12": "2"
   },
   {
-    "": "Ondrej Pavel",
+    "Name": "Ondrej Pavel",
     "_1": "COL",
     "_2": "RW",
     "_3": "2",
@@ -17214,7 +17195,7 @@
     "_12": "0"
   },
   {
-    "": "Nikolai Kovalenko",
+    "Name": "Nikolai Kovalenko",
     "_1": "COL",
     "_2": "RW",
     "_3": "2",
@@ -17233,7 +17214,7 @@
     "_12": "0"
   },
   {
-    "": "Calle Rosen",
+    "Name": "Calle Rosen",
     "_1": "COL",
     "_2": "D",
     "_3": "6",
@@ -17252,8 +17233,8 @@
     "_12": "7"
   },
   {
-    "": "Gavin Brindley",
-    "_1": "CLS",
+    "Name": "Gavin Brindley",
+    "_1": "CBJ",
     "_2": "C",
     "_3": "1",
     "Overall": "0",
@@ -17271,8 +17252,8 @@
     "_12": "0"
   },
   {
-    "": "Cameron Butler",
-    "_1": "CLS",
+    "Name": "Cameron Butler",
+    "_1": "CBJ",
     "_2": "RW",
     "_3": "1",
     "Overall": "0",
@@ -17290,8 +17271,8 @@
     "_12": "0"
   },
   {
-    "": "Jake Christiansen",
-    "_1": "CLS",
+    "Name": "Jake Christiansen",
+    "_1": "CBJ",
     "_2": "D",
     "_3": "12",
     "Overall": "0",
@@ -17309,8 +17290,8 @@
     "_12": "15"
   },
   {
-    "": "Mikael Pyyhtia",
-    "_1": "CLS",
+    "Name": "Mikael Pyyhtia",
+    "_1": "CBJ",
     "_2": "LW",
     "_3": "17",
     "Overall": "0",
@@ -17328,7 +17309,7 @@
     "_12": "20"
   },
   {
-    "": "Kale Clague",
+    "Name": "Kale Clague",
     "_1": "BUF",
     "_2": "D",
     "_3": "3",
@@ -17347,7 +17328,7 @@
     "_12": "0"
   },
   {
-    "": "Brett Murray",
+    "Name": "Brett Murray",
     "_1": "BUF",
     "_2": "LW",
     "_3": "2",
@@ -17366,7 +17347,7 @@
     "_12": "0"
   },
   {
-    "": "Ryan Johnson",
+    "Name": "Ryan Johnson",
     "_1": "BUF",
     "_2": "D",
     "_3": "41",
@@ -17385,7 +17366,7 @@
     "_12": "39"
   },
   {
-    "": "Lukas Rousek",
+    "Name": "Lukas Rousek",
     "_1": "BUF",
     "_2": "LW",
     "_3": "15",
@@ -17404,7 +17385,7 @@
     "_12": "7"
   },
   {
-    "": "Isak Rosen",
+    "Name": "Isak Rosen",
     "_1": "BUF",
     "_2": "LW",
     "_3": "7",
@@ -17423,7 +17404,7 @@
     "_12": "2"
   },
   {
-    "": "Jiri Kulich",
+    "Name": "Jiri Kulich",
     "_1": "BUF",
     "_2": "C",
     "_3": "1",
@@ -17442,7 +17423,7 @@
     "_12": "0"
   },
   {
-    "": "Matthew Savoie",
+    "Name": "Matthew Savoie",
     "_1": "BUF",
     "_2": "C",
     "_3": "1",
@@ -17461,7 +17442,7 @@
     "_12": "0"
   },
   {
-    "": "Dylan Coghlan",
+    "Name": "Dylan Coghlan",
     "_1": "CAR",
     "_2": "D",
     "_3": "1",
@@ -17480,7 +17461,7 @@
     "_12": "3"
   },
   {
-    "": "Scott Morrow",
+    "Name": "Scott Morrow",
     "_1": "CAR",
     "_2": "D",
     "_3": "2",
@@ -17499,7 +17480,7 @@
     "_12": "2"
   },
   {
-    "": "Jackson Blake",
+    "Name": "Jackson Blake",
     "_1": "CAR",
     "_2": "RW",
     "_3": "1",
@@ -17518,7 +17499,7 @@
     "_12": "0"
   },
   {
-    "": "Bradly Nadeau",
+    "Name": "Bradly Nadeau",
     "_1": "CAR",
     "_2": "LW",
     "_3": "1",
@@ -17537,7 +17518,7 @@
     "_12": "1"
   },
   {
-    "": "Cole Schwindt",
+    "Name": "Cole Schwindt",
     "_1": "CGY",
     "_2": "RW",
     "_3": "4",
@@ -17556,7 +17537,7 @@
     "_12": "1"
   },
   {
-    "": "Ilya Solovyov",
+    "Name": "Ilya Solovyov",
     "_1": "CGY",
     "_2": "D",
     "_3": "10",
@@ -17575,7 +17556,7 @@
     "_12": "17"
   },
   {
-    "": "Yan Kuznetsov",
+    "Name": "Yan Kuznetsov",
     "_1": "CGY",
     "_2": "D",
     "_3": "1",
