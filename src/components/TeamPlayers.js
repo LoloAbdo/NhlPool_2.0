@@ -4,25 +4,41 @@ import GoalieStats_20232024_RS_PL from "../data/GoaliesStats/GoalieStats_2023202
 import { useEffect, useState } from "react";
 import { useParams, useLocation } from "react-router-dom";
 import { DataGrid } from "@mui/x-data-grid";
-import { Box } from "@mui/material";
+import { Box, FormControl, InputLabel, MenuItem, Select } from "@mui/material";
 
 export const TeamPlayers = () => {
   const params = useParams();
-  const [teamRoster_RS_PL, setTeamRoster_RS_PL] = useState([]); // Regular season + Playoff
+  const [teamPlayersRoster, setPlayersRoster] = useState([]); // Regular season + Playoff
+  const [teamGoaliesRoster, setGoaliesRoster] = useState([]); // Regular season + Playoff
+  const [season, setSeason] = useState("");
+  const [playerType, setPlayerType] = useState("");
   const location = useLocation();
+
   const rawTricode = location.state || "";
   const widthColumn = 150;
+
+  const handleChangeSeason = (e) => {
+    setSeason(e.target.value);
+  };
+
+  const handleChangePlayerType = (e) => {
+    setPlayerType(e.target.value);
+  };
 
   useEffect(() => {
     console.log(rawTricode);
     let filterArrayPlayer = PlayerStats_20232024_RS_PL.filter(
       (item) => item._1 == rawTricode
     );
+
     let filterArrayGoalies = GoalieStats_20232024_RS_PL.filter(
       (item) => item._1 == rawTricode
     );
-    console.log(filterArrayPlayer);
-    setTeamRoster_RS_PL(filterArrayPlayer);
+
+    setPlayerType("Players");
+    setSeason("2023-2024");
+    setPlayersRoster(filterArrayPlayer);
+    setGoaliesRoster(filterArrayGoalies);
   }, []);
 
   const columnsPlayers = [
@@ -136,6 +152,87 @@ export const TeamPlayers = () => {
     },
   ];
 
+  const columnsGoalies = [
+    {
+      field: "Name",
+      headerName: "Player Name",
+      width: widthColumn,
+      description: "Name of the player",
+    },
+    {
+      field: "_1",
+      headerName: "Team",
+      width: widthColumn,
+      description: "Team of the player",
+    },
+    {
+      field: "_2",
+      headerName: "GP",
+      width: widthColumn,
+      description: "Game Played",
+    },
+    {
+      field: "Goalies",
+      headerName: "W",
+      width: widthColumn,
+      description: "Games Won",
+    },
+    {
+      field: "_3",
+      headerName: "L",
+      width: widthColumn,
+      description: "Games Lost",
+    },
+    {
+      field: "_4",
+      headerName: "OTL",
+      width: widthColumn,
+      description: "Overtime losses",
+    },
+    {
+      field: "_5",
+      headerName: "GAA",
+      width: widthColumn,
+      description: "Goals against average",
+    },
+    {
+      field: "_6",
+      headerName: "GA",
+      width: widthColumn,
+      description: "Goals against",
+    },
+    {
+      field: "_7",
+      headerName: "SA",
+      width: widthColumn,
+      description: "Shots against",
+    },
+    {
+      field: "_8",
+      headerName: "SV",
+      width: widthColumn,
+      description: "Saves",
+    },
+    {
+      field: "_9",
+      headerName: "SV%",
+      width: widthColumn,
+      description: "Saves Percentage",
+    },
+    {
+      field: "_10",
+      headerName: "SO",
+      width: widthColumn,
+      description: "Shutouts",
+    },
+    {
+      field: "_11",
+      headerName: "MIN",
+      width: widthColumn,
+      description: "Minutes Played",
+    },
+  ];
+
   return (
     <div>
       <div className="Team-Logo-div">
@@ -148,12 +245,46 @@ export const TeamPlayers = () => {
       <div className="Team-Header">
         <h1>{params.teamId}</h1>
       </div>
-      <div className="Main-DataGrid">
+      <div className="Dropdowns">
+        <Box className="Box-Season">
+          <FormControl sx={{ m: 1, minWidth: 120 }}>
+            <InputLabel>Season</InputLabel>
+            <Select
+              value={season}
+              onChange={handleChangeSeason}
+              label="Season"
+              defaultValue="2023-2024"
+            >
+              <MenuItem value={"2023-2024"}>2023-2024</MenuItem>
+              <MenuItem value={"2022-2023"}>2022-2023</MenuItem>
+              <MenuItem value={"2021-2022"}>2021-2022</MenuItem>
+              <MenuItem value={"2020-2021"}>2020-2021</MenuItem>
+            </Select>
+          </FormControl>
+        </Box>
+        <Box className="Box-PlayerType">
+          <FormControl sx={{ m: 1, minWidth: 120 }}>
+            <InputLabel>Type</InputLabel>
+            <Select
+              value={playerType}
+              onChange={handleChangePlayerType}
+              label="PlayerType"
+              defaultValue={"Players"}
+            >
+              <MenuItem value={"Players"}>Players</MenuItem>
+              <MenuItem value={"Goalies"}>Goalies</MenuItem>
+            </Select>
+          </FormControl>
+        </Box>
+      </div>
+      <div className="Main-DataGridPlayers">
         <Box height={350} width={1500}>
           <DataGrid
             getRowId={(obj) => obj.Name}
-            columns={columnsPlayers}
-            rows={teamRoster_RS_PL}
+            columns={playerType == "Players" ? columnsPlayers : columnsGoalies}
+            rows={
+              playerType == "Players" ? teamPlayersRoster : teamGoaliesRoster
+            }
             density="standard"
             disableColumnResize={true}
             disableColumnMenu={true}

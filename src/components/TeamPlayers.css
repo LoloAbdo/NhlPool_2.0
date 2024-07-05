@@ -1,0 +1,43 @@
+.Dropdowns {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Box-Season {
+    padding-left: 6%;
+}
+
+.Box-PlayerType {
+    padding-right: 6%;
+}
+
+.Main-DataGridPlayers {
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.MuiPaper-root {
+    background-color: #0A0F20 !important;
+    color: white !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.MuiSelect-select {
+    background-color: #0A0F20 !important;
+    color: white !important;   
+}
+
+.MuiFormLabel-root {
+    color: white !important;     
+}
+
+

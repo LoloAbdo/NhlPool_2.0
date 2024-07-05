@@ -1,20 +1,5 @@
 [
   {
-    "Name": "Player Name",
-    "_1": "Team",
-    "_2": "Games",
-    "Goalies": "W",
-    "_3": "L",
-    "_4": "OTL",
-    "_5": "GAA",
-    "_6": "GA",
-    "_7": "SA",
-    "_8": "SV",
-    "_9": "SV%",
-    "_10": "SO",
-    "_11": "MIN"
-  },
-  {
     "Name": "Sergei Bobrovsky",
     "_1": "FLA",
     "_2": "82",
@@ -271,7 +256,7 @@
   },
   {
     "Name": "Connor Ingram",
-    "_1": "UTA",
+    "_1": "ARI",
     "_2": "50",
     "Goalies": "23",
     "_3": "21",
@@ -766,7 +751,7 @@
   },
   {
     "Name": "Karel Vejmelka",
-    "_1": "UTA",
+    "_1": "ARI",
     "_2": "38",
     "Goalies": "13",
     "_3": "19",
@@ -1456,7 +1441,7 @@
   },
   {
     "Name": "Matt Villalta",
-    "_1": "UTA",
+    "_1": "ARI",
     "_2": "2",
     "Goalies": "0",
     "_3": "1",
