@@ -91,7 +91,7 @@ body {
 }
 
 
-.customs-cards-images:hover {
+.customs-cards-media:hover {
   -moz-transform: scale(1.2); 
   -webkit-transform: scale(1.2); 
   transform: scale(1.2);
@@ -99,44 +99,6 @@ body {
 
 .customs-cards {
   box-shadow: 0 12px 24px -8px #0B0F1E 50%;
-}
-
-.customs-cards:hover {
-  margin: 2rem auto;
-  padding: 3px;
-  background-repeat: no-repeat;
-  background-image:   linear-gradient(to right, #0A0F20 100%, #0A0F20 100%),
-                      linear-gradient(to bottom, #0A0F20 100%, #0A0F20 100%),
-                      linear-gradient(to right, #0A0F20 100%, #0A0F20 100%),
-                      linear-gradient(to bottom, #0A0F20 100%, #0A0F20 100%);
-  background-size:    100% 3px,
-                      3px 100%,
-                      100% 3px,
-                      3px 100%;
-  background-position:    0 0,
-                          100% 0,
-                          100% 100%,
-                          0 100%;
-  animation: bg 0.7S forwards;
-}
-                        
-.customs-cards:not(:hover) {
-  margin: 2rem auto;
-  padding: 3px;
-  background-repeat: no-repeat;
-  background-image:   linear-gradient(to right, #0A0F20 100%, #0A0F20 100%),
-                      linear-gradient(to bottom, #0A0F20 100%, #0A0F20 100%),
-                      linear-gradient(to right, #0A0F20 100%, #0A0F20 100%),
-                      linear-gradient(to bottom, #0A0F20 100%, #0A0F20 100%);
-  background-size:    100% 3px,
-                      3px 100%,
-                      100% 3px,
-                      3px 100%;
-  background-position:    0 0,
-                          100% 0,
-                          100% 100%,
-                          0 100%;
-  animation: reverse-bg 0.7s forwards;
 }
 
 @keyframes bg {
