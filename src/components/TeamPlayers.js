@@ -1,5 +1,11 @@
 import "./TeamPlayers.css";
+
+//Players Regular season + Playoff
 import PlayerStats_20232024_RS_PL from "../data/PlayersStats/PlayerStats_20232024_RS_PL.json";
+import PlayerStats_20222023_RS_PL from "../data/PlayersStats/PlayerStats_20222023_RS_PL.json";
+import PlayerStats_20212022_RS_PL from "../data/PlayersStats/PlayerStats_20212022_RS_PL.json";
+import PlayerStats_20202021_RS_PL from "../data/PlayersStats/PlayerStats_20202021_RS_PL.json";
+
 import GoalieStats_20232024_RS_PL from "../data/GoaliesStats/GoalieStats_20232024_RS_PL.json";
 import { useEffect, useState } from "react";
 import { useParams, useLocation } from "react-router-dom";
@@ -18,7 +24,35 @@ export const TeamPlayers = () => {
   const widthColumn = 150;
 
   const handleChangeSeason = (e) => {
+    let filterArrayPlayer;
+    switch (e.target.value) {
+      case "2023-2024":
+        filterArrayPlayer = PlayerStats_20232024_RS_PL.filter(
+          (item) => item._1 == rawTricode
+        );
+        break;
+
+      case "2022-2023":
+        filterArrayPlayer = PlayerStats_20222023_RS_PL.filter(
+          (item) => item._1 == rawTricode
+        );
+        break;
+
+      case "2021-2022":
+        filterArrayPlayer = PlayerStats_20212022_RS_PL.filter(
+          (item) => item._1 == rawTricode
+        );
+        break;
+      case "2020-2021":
+        filterArrayPlayer = PlayerStats_20202021_RS_PL.filter(
+          (item) => item._1 == rawTricode
+        );
+        break;
+    }
+
     setSeason(e.target.value);
+    console.log(filterArrayPlayer);
+    setPlayersRoster(filterArrayPlayer);
   };
 
   const handleChangePlayerType = (e) => {
@@ -35,8 +69,8 @@ export const TeamPlayers = () => {
       (item) => item._1 == rawTricode
     );
 
-    setPlayerType("Players");
-    setSeason("2023-2024");
+    setPlayerType("Players"); //default value
+    setSeason("2023-2024"); //default value
     setPlayersRoster(filterArrayPlayer);
     setGoaliesRoster(filterArrayGoalies);
   }, []);
@@ -252,7 +286,7 @@ export const TeamPlayers = () => {
             <Select
               value={season}
               onChange={handleChangeSeason}
-              label="Season"
+              label=""
               defaultValue="2023-2024"
             >
               <MenuItem value={"2023-2024"}>2023-2024</MenuItem>
